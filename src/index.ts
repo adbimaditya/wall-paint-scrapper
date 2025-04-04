@@ -1,3 +1,3 @@
-const message: string = 'Hello world';
+import scrapDuluxColors from './libs/dulux.ts';
 
-console.log(message);
+await scrapDuluxColors();
