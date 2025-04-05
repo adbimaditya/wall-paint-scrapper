@@ -1,24 +1,28 @@
-import type { NormalizeColorArgs } from './args.ts';
-import { DULUX_FILE_PATH } from './constants.ts';
-import { writeFileAsync } from './file.ts';
-import { closeBrowser, createBrowser } from './playwright.ts';
-import type { Color } from './types.ts';
-import { getUniqueColors, normalizeColor } from './utils.ts';
+import ora from 'ora';
+
+import type { NormalizeColorArgs } from '../libs/args.ts';
+import { DULUX_FILE_PATH } from '../libs/constants.ts';
+import { writeFileAsync } from '../libs/file.ts';
+import { closeBrowser, createBrowser } from '../libs/playwright.ts';
+import type { Color } from '../libs/types.ts';
+import { getUniqueColors, normalizeColor } from '../libs/utils.ts';
 
 const URL = 'https://www.dulux.co.id/id/palet-warna';
 
 export default async function scrapDuluxColors() {
+  const spinner = ora('Scraping Dulux colors...').start();
+
   const { browser, page } = await createBrowser();
 
   await page.goto(URL, { waitUntil: 'networkidle' });
   await page.getByRole('dialog').getByRole('button', { name: 'Reject All' }).click();
 
-  const links = await page.locator('.a20-color-box').all();
   const colors: Color[] = [];
+  const links = await page.locator('.a20-color-box').all();
 
   for (const link of links.slice(1)) {
     const palettes = await page.locator('.item.related-item-color').all();
-    const colorsInList: Color[] = [];
+    const colorsInPage: Color[] = [];
 
     for (const palette of palettes) {
       const colorPalette = palette.locator('.m7-color-card');
@@ -27,10 +31,10 @@ export default async function scrapDuluxColors() {
         hexCode: (await colorPalette.getAttribute('data-hex')) as string,
       };
 
-      colorsInList.push(normalizeColor(color));
+      colorsInPage.push(normalizeColor(color));
     }
 
-    colors.push(...colorsInList);
+    colors.push(...colorsInPage);
 
     await link.click();
 
@@ -43,4 +47,6 @@ export default async function scrapDuluxColors() {
   await writeFileAsync(DULUX_FILE_PATH, getUniqueColors(colors));
 
   await closeBrowser(browser);
+
+  spinner.succeed('Scrap Dulux colors completed successfully.');
 }
