@@ -4,3 +4,9 @@ export type Color = {
   code?: string;
   hexCode: string;
 };
+
+export type RGB = {
+  r: number;
+  g: number;
+  b: number;
+};

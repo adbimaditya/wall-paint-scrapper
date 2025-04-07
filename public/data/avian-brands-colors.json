@@ -1,0 +1,6350 @@
+[
+  {
+    "id": "639d777d-4cba-40c2-8cc3-7df671e01bfc",
+    "name": "Red Divine",
+    "code": "R12-001",
+    "hexCode": "#C04A4B"
+  },
+  {
+    "id": "b181b931-e1e2-42db-8742-69f75604b8fd",
+    "name": "My Ballerina",
+    "code": "R12-002",
+    "hexCode": "#EFAABB"
+  },
+  {
+    "id": "efd86a1b-00b1-494f-8eb1-7d659a7bc328",
+    "name": "Mica Rose",
+    "code": "R12-003",
+    "hexCode": "#F5C0C7"
+  },
+  {
+    "id": "1d702a5e-0887-4e69-b91f-2399cf64b786",
+    "name": "Flushed Pink",
+    "code": "R12-004",
+    "hexCode": "#F6D6D8"
+  },
+  {
+    "id": "d8e71a8c-befc-4532-a2e5-2827457fa72e",
+    "name": "Love Me Tender",
+    "code": "R12-005",
+    "hexCode": "#F2E1DA"
+  },
+  {
+    "id": "6797eafd-9993-4855-9853-3297b6bacef2",
+    "name": "Lush Red",
+    "code": "R13-001",
+    "hexCode": "#973C40"
+  },
+  {
+    "id": "811dad76-aac0-4929-8491-c90f9c7945f2",
+    "name": "Dashing Pink",
+    "code": "R13-002",
+    "hexCode": "#DD7488"
+  },
+  {
+    "id": "43423673-53bd-48c4-b7bd-f020d8ce33ed",
+    "name": "Adoration",
+    "code": "R13-003",
+    "hexCode": "#F1A5B0"
+  },
+  {
+    "id": "29bf1482-3ab9-472f-af6f-2e0a4d210ca8",
+    "name": "Candy Floss",
+    "code": "R13-004",
+    "hexCode": "#F4CACD"
+  },
+  {
+    "id": "93596f73-10f5-47bb-8918-590d96d16ca0",
+    "name": "Pink Frontier",
+    "code": "R13-005",
+    "hexCode": "#F5DFDB"
+  },
+  {
+    "id": "ffc1a602-0dbe-49fd-a35f-77685c3d5cc7",
+    "name": "Prosperous Red",
+    "code": "R14-001",
+    "hexCode": "#A63E5D"
+  },
+  {
+    "id": "742396fa-47bd-4089-bedd-5699b712952e",
+    "name": "Aspiring Starlet",
+    "code": "R14-002",
+    "hexCode": "#D77D9D"
+  },
+  {
+    "id": "ac93cf26-b804-486d-af96-c71c37605a71",
+    "name": "Pink Hyacinth",
+    "code": "R14-003",
+    "hexCode": "#F0C5CE"
+  },
+  {
+    "id": "e9c9ce3a-8625-4e79-b97c-135eab2a8e91",
+    "name": "Love Triangle",
+    "code": "R14-004",
+    "hexCode": "#F4DCDF"
+  },
+  {
+    "id": "bff0e65b-1166-4d64-bfb3-01c0b7a9e8f5",
+    "name": "Sakura Bloom",
+    "code": "R14-005",
+    "hexCode": "#F0E6DE"
+  },
+  {
+    "id": "eb0271e7-b4e7-4f79-9720-ca18241d7ce6",
+    "name": "Pink Parlor",
+    "code": "R15-001",
+    "hexCode": "#C1547E"
+  },
+  {
+    "id": "2728b2d3-f03f-475a-88d2-f3202553f95a",
+    "name": "Dogwood Pink",
+    "code": "R15-002",
+    "hexCode": "#E2A4C2"
+  },
+  {
+    "id": "2c2b396a-2c7d-4e7a-9e2f-694480cc2f3a",
+    "name": "Pink Canterbury",
+    "code": "R15-003",
+    "hexCode": "#EBBDD2"
+  },
+  {
+    "id": "c0c69c1c-9b09-4bf0-9d50-7fdc90623456",
+    "name": "Breezy Pink",
+    "code": "R15-004",
+    "hexCode": "#F0D4DE"
+  },
+  {
+    "id": "bb3cc68c-3d87-401c-909f-6add30ef04f6",
+    "name": "Dreaming Of You",
+    "code": "R15-005",
+    "hexCode": "#F3DBDF"
+  },
+  {
+    "id": "c477aada-b06a-43a8-8c0d-3e716439f47d",
+    "name": "Soft Petal",
+    "code": "R1 001",
+    "hexCode": "#F1DFE7"
+  },
+  {
+    "id": "03f806e4-918b-44f1-aa59-55d4b884a156",
+    "name": "Pure Indulgence",
+    "code": "R1 002",
+    "hexCode": "#EECDE2"
+  },
+  {
+    "id": "daf9edc7-cef3-4ef0-aff4-ac133c10e816",
+    "name": "Tender Heart",
+    "code": "R1 003",
+    "hexCode": "#E4B3D7"
+  },
+  {
+    "id": "bc4f9155-bf1d-4b86-bf40-b58d1a5fd549",
+    "name": "Pink Venus",
+    "code": "R1 004",
+    "hexCode": "#D693C4"
+  },
+  {
+    "id": "2bb0988b-33b7-43b5-a87f-31755bf3f9b9",
+    "name": "Turkish Rose",
+    "code": "R1 005",
+    "hexCode": "#C674AC"
+  },
+  {
+    "id": "03385aec-fc1b-4d1f-9741-3555a24a4cdc",
+    "name": "Fever Diva",
+    "code": "R1 006",
+    "hexCode": "#9F3F68"
+  },
+  {
+    "id": "dd2a8da4-4cb0-49d5-86dd-1c9099e329ae",
+    "name": "Pink Aroma",
+    "code": "R2 001",
+    "hexCode": "#F4DDE4"
+  },
+  {
+    "id": "26a0a552-f1e1-4347-93fd-ea3b486934ac",
+    "name": "Sweet Liberty",
+    "code": "R2 002",
+    "hexCode": "#F2CADB"
+  },
+  {
+    "id": "78a12c37-be02-4380-be93-26547b993a35",
+    "name": "Playful Moments",
+    "code": "R2 003",
+    "hexCode": "#ECB2CA"
+  },
+  {
+    "id": "dacef8da-4363-4e7d-9795-af6a0eaff091",
+    "name": "Child's Play",
+    "code": "R2 004",
+    "hexCode": "#E395B7"
+  },
+  {
+    "id": "05859e41-3794-42ea-8312-61952081dc7b",
+    "name": "My Little Trinket",
+    "code": "R2 005",
+    "hexCode": "#D17098"
+  },
+  {
+    "id": "56e9ef28-9ebd-449c-8549-f7e569e45bdb",
+    "name": "Fiesta",
+    "code": "R2 006",
+    "hexCode": "#B25079"
+  },
+  {
+    "id": "a641be6b-2102-4972-8719-83e9825516e8",
+    "name": "Floral Fancy",
+    "code": "R3 001",
+    "hexCode": "#F2DCE1"
+  },
+  {
+    "id": "4cc92dc1-ce90-4454-aada-e3cdefc8fccc",
+    "name": "Fairy Dust",
+    "code": "R3 002",
+    "hexCode": "#F2D2DC"
+  },
+  {
+    "id": "20425f70-1463-4e67-ac5f-b79308ad9af0",
+    "name": "Cocktail Pink",
+    "code": "R3 003",
+    "hexCode": "#EEC0D0"
+  },
+  {
+    "id": "d9501c68-3353-460d-b68e-6135d683fb85",
+    "name": "Elemental Desire",
+    "code": "R3 004",
+    "hexCode": "#E39CB5"
+  },
+  {
+    "id": "39c092fb-e4cc-4027-a58a-a79b38cbf15e",
+    "name": "Orchid Pendant",
+    "code": "R3 005",
+    "hexCode": "#D87193"
+  },
+  {
+    "id": "9fbc041e-c20e-4224-9550-a3eb5141aedf",
+    "name": "Close To You",
+    "code": "R3 006",
+    "hexCode": "#B54D6E"
+  },
+  {
+    "id": "d7838098-371d-4c93-81ab-ecc2cd99b320",
+    "name": "Oh Darling",
+    "code": "R4 001",
+    "hexCode": "#F7EEEC"
+  },
+  {
+    "id": "cb7df658-63cc-4181-bb6d-ff2bfb35d77b",
+    "name": "Sweet November",
+    "code": "R4 002",
+    "hexCode": "#F7E2E3"
+  },
+  {
+    "id": "502fa84d-999c-4d8e-b7bb-fdce86b2066a",
+    "name": "Cheerleader",
+    "code": "R4 003",
+    "hexCode": "#F4C8D6"
+  },
+  {
+    "id": "48ede6af-4f98-4fdb-8047-7ed7b2183b03",
+    "name": "Foolish Heart",
+    "code": "R4 004",
+    "hexCode": "#F0B0C8"
+  },
+  {
+    "id": "8e09b5b7-7441-46b4-a317-c535692d740d",
+    "name": "Love In Paris",
+    "code": "R4 005",
+    "hexCode": "#D26989"
+  },
+  {
+    "id": "25293379-f573-4c08-85d9-c0de82364c03",
+    "name": "Elegant Affair",
+    "code": "R4 006",
+    "hexCode": "#BB4B68"
+  },
+  {
+    "id": "681b260c-066b-4703-a3a4-4f45c9b937bb",
+    "name": "Lady Hill",
+    "code": "R5 001",
+    "hexCode": "#F5E4E6"
+  },
+  {
+    "id": "2a3c0d81-726e-4cec-8e71-ef87def6f39e",
+    "name": "Full Bloom",
+    "code": "R5 002",
+    "hexCode": "#F7DDE1"
+  },
+  {
+    "id": "81799e60-bea7-4d6c-bd8e-1e0a1038d95f",
+    "name": "Pink Canvas",
+    "code": "R5 003",
+    "hexCode": "#FBCCD7"
+  },
+  {
+    "id": "bdf9a9cd-4c28-4980-8343-806f30d366fd",
+    "name": "Fantasy Flash",
+    "code": "R5 004",
+    "hexCode": "#F8B2C5"
+  },
+  {
+    "id": "ff683ea5-7697-4b08-a0d2-d77279009f08",
+    "name": "Lap Of Luxury",
+    "code": "R5 005",
+    "hexCode": "#E8748D"
+  },
+  {
+    "id": "edbe3251-4569-4aa7-86d1-3606604d9a64",
+    "name": "Red Symphony",
+    "code": "R5 006",
+    "hexCode": "#D05B70"
+  },
+  {
+    "id": "204cf5de-8066-42e8-8cf1-adfee1185dd6",
+    "name": "Sweet Cushion",
+    "code": "R6 001",
+    "hexCode": "#F5DFE3"
+  },
+  {
+    "id": "f993e0ea-6a46-4598-8e9c-cf9786915be4",
+    "name": "Surface Beauty",
+    "code": "R6 002",
+    "hexCode": "#FAD3DA"
+  },
+  {
+    "id": "b51ac68c-62ea-4dea-aee8-34a9273cc7a2",
+    "name": "Blushing Bride",
+    "code": "R6 003",
+    "hexCode": "#F7C6CF"
+  },
+  {
+    "id": "2ab7eb83-0b46-417f-8d38-82cf58142ea3",
+    "name": "Pink Harvest",
+    "code": "R6 004",
+    "hexCode": "#F4AEBE"
+  },
+  {
+    "id": "2b7d79f0-b43c-4215-9cd7-40590b38c2c5",
+    "name": "Exotic Gem",
+    "code": "R6 005",
+    "hexCode": "#EB8195"
+  },
+  {
+    "id": "5912ee15-4f92-4263-b851-26e404f24d68",
+    "name": "Rebel Heart",
+    "code": "R6 006",
+    "hexCode": "#B54157"
+  },
+  {
+    "id": "198dff54-1d59-46d8-ba04-aa4b166253d8",
+    "name": "Sweet Dreams",
+    "code": "R7 001",
+    "hexCode": "#F8DCDD"
+  },
+  {
+    "id": "9851ad9b-64d4-4cfa-a566-8b996dc0fa3b",
+    "name": "Pink Pinnacle",
+    "code": "R7 002",
+    "hexCode": "#F4CDD4"
+  },
+  {
+    "id": "7cda6146-21f1-4b4c-80f1-86bd892fde53",
+    "name": "Heart & Soul",
+    "code": "R7 003",
+    "hexCode": "#F1C0CA"
+  },
+  {
+    "id": "26293c80-cd09-4d54-91e7-5fc03ed3f362",
+    "name": "Pillow Talk",
+    "code": "R7 004",
+    "hexCode": "#E19AAB"
+  },
+  {
+    "id": "04ba1b1e-31fd-49a9-b75b-2c65b11f0700",
+    "name": "Feel My Love",
+    "code": "R7 005",
+    "hexCode": "#C66877"
+  },
+  {
+    "id": "af81274d-b4c6-4098-9482-9c58bfda9dac",
+    "name": "Lush Life",
+    "code": "R7 006",
+    "hexCode": "#C05362"
+  },
+  {
+    "id": "976ee738-6c97-4aac-bf9e-295e86a7d094",
+    "name": "Lonely Heart",
+    "code": "R8 001",
+    "hexCode": "#F7DFDE"
+  },
+  {
+    "id": "fb8ffba6-777a-4e3a-b37a-21f132778f0e",
+    "name": "Good Night Kiss",
+    "code": "R8 002",
+    "hexCode": "#F6D8DA"
+  },
+  {
+    "id": "ca9a95a6-bd37-4a3f-ac4e-2cf320f9a779",
+    "name": "Soft Embrace",
+    "code": "R8 003",
+    "hexCode": "#F5CCD1"
+  },
+  {
+    "id": "02cb8c7b-d32d-47e8-a038-f6a1385f3c35",
+    "name": "My Fantasy",
+    "code": "R8 004",
+    "hexCode": "#F0A9B3"
+  },
+  {
+    "id": "54724c63-b46d-4faf-82a2-1cfefd683bdd",
+    "name": "Here For You",
+    "code": "R8 005",
+    "hexCode": "#E57F89"
+  },
+  {
+    "id": "06861785-e886-4f69-b258-171394317516",
+    "name": "Hearts On Fire",
+    "code": "R8 006",
+    "hexCode": "#C45F6B"
+  },
+  {
+    "id": "6f8140d3-5607-4f4b-a27c-5fa2c889e645",
+    "name": "Something New",
+    "code": "R9 001",
+    "hexCode": "#F7D9D9"
+  },
+  {
+    "id": "63a76af8-c461-48fd-96c4-009854d4968d",
+    "name": "Fool For Love",
+    "code": "R9 002",
+    "hexCode": "#F6CACD"
+  },
+  {
+    "id": "f332ef92-6f26-4d72-99d7-3ec71878888b",
+    "name": "Luna Pink",
+    "code": "R9 003",
+    "hexCode": "#F6BFC6"
+  },
+  {
+    "id": "292fbd91-5de4-4db0-a77c-b41de113be5a",
+    "name": "Joyous Affair",
+    "code": "R9 004",
+    "hexCode": "#EC9EA9"
+  },
+  {
+    "id": "cae107c8-2028-474a-a686-4551113d66c1",
+    "name": "Full Of Grace",
+    "code": "R9 005",
+    "hexCode": "#D66F77"
+  },
+  {
+    "id": "45d8de2d-39ca-40ba-9261-0394adec86ea",
+    "name": "Heartbreaker",
+    "code": "R9 006",
+    "hexCode": "#B14E4C"
+  },
+  {
+    "id": "2986aad4-59dd-429f-846e-75cd967c49b7",
+    "name": "Pretty Perfect",
+    "code": "R10 001",
+    "hexCode": "#F8E0DC"
+  },
+  {
+    "id": "81b06d80-1114-4392-8367-d04152bca54f",
+    "name": "Blossom Bright",
+    "code": "R10 002",
+    "hexCode": "#F9D1D3"
+  },
+  {
+    "id": "f114c55b-c73f-46a0-b63d-054e2a6f4118",
+    "name": "Pure Beauty",
+    "code": "R10 003",
+    "hexCode": "#FAC7CC"
+  },
+  {
+    "id": "77533490-2ef7-4150-acf6-6a6009a82fb5",
+    "name": "Aura Essence",
+    "code": "R10 004",
+    "hexCode": "#F1A1AD"
+  },
+  {
+    "id": "7c39ac16-d58e-475e-b263-d68ee1499ee6",
+    "name": "My Destiny",
+    "code": "R10 005",
+    "hexCode": "#E3707A"
+  },
+  {
+    "id": "615d8855-3ef8-48c6-ad2a-a3a274254eaa",
+    "name": "Vermillion Red",
+    "code": "R10 006",
+    "hexCode": "#BB4342"
+  },
+  {
+    "id": "928de86b-7985-4d6e-af38-694f08776430",
+    "name": "Dream Lover",
+    "code": "R11 001",
+    "hexCode": "#F6E1DE"
+  },
+  {
+    "id": "2001aaac-0979-47cd-a45d-d36a449094f9",
+    "name": "Just A Girl",
+    "code": "R11 002",
+    "hexCode": "#F5D1D1"
+  },
+  {
+    "id": "2079848d-1661-464e-af59-9a3bf39fe2f0",
+    "name": "Pink Pepper",
+    "code": "R11 003",
+    "hexCode": "#EFBABD"
+  },
+  {
+    "id": "5db4f6f6-dfcd-4aea-9d43-bba214547a9b",
+    "name": "Love Story",
+    "code": "R11 004",
+    "hexCode": "#E7A7AB"
+  },
+  {
+    "id": "483dc6fd-cedc-4441-b601-b2d645d201db",
+    "name": "Rose Beauty",
+    "code": "R11 005",
+    "hexCode": "#C96A6C"
+  },
+  {
+    "id": "8532d518-b968-4cb2-9b0e-5c446b994c28",
+    "name": "Secret Recipe",
+    "code": "R11 006",
+    "hexCode": "#9D4C4A"
+  },
+  {
+    "id": "00d6c2fc-f8a7-41c4-bee7-52260014d92b",
+    "name": "Pinkie Promise",
+    "code": "R12 001",
+    "hexCode": "#F7E6E1"
+  },
+  {
+    "id": "861ae503-367d-4dfe-b879-a1435c163bb5",
+    "name": "Need Your Love",
+    "code": "R12 002",
+    "hexCode": "#F9D4D3"
+  },
+  {
+    "id": "f89bb067-dfe3-4d23-84b0-4c966999f68e",
+    "name": "Santa Rosa",
+    "code": "R12 003",
+    "hexCode": "#F9C6C7"
+  },
+  {
+    "id": "f79c7af9-6f74-4f86-b063-93e491dce0b3",
+    "name": "Ever Wonderful",
+    "code": "R12 004",
+    "hexCode": "#F6B2B6"
+  },
+  {
+    "id": "74de2d93-4eb3-4678-a325-e9e05704dd9b",
+    "name": "Heart Away",
+    "code": "R12 005",
+    "hexCode": "#EB8587"
+  },
+  {
+    "id": "4a39e3ba-2e2e-47ff-9732-f59c26006567",
+    "name": "Red Jumper",
+    "code": "R12 006",
+    "hexCode": "#C73B3C"
+  },
+  {
+    "id": "30484fc7-05a5-41e1-b6b9-1a6b949ab869",
+    "name": "Fairytale Ending",
+    "code": "R13 001",
+    "hexCode": "#F6E2DC"
+  },
+  {
+    "id": "79e24418-1564-4190-8698-df297fc693f0",
+    "name": "Pink Mimosa",
+    "code": "R13 002",
+    "hexCode": "#F6D9D3"
+  },
+  {
+    "id": "af518748-ab47-4067-94b4-4551bd66e7b8",
+    "name": "Strawberry Shortcake",
+    "code": "R13 003",
+    "hexCode": "#F5CFC9"
+  },
+  {
+    "id": "09b780ae-71c7-43ad-bf0f-75ba10b34412",
+    "name": "Pink Tease",
+    "code": "R13 004",
+    "hexCode": "#F9C4C3"
+  },
+  {
+    "id": "386b9e54-f607-445b-b6de-9b6fb8d61055",
+    "name": "Forever My Lady",
+    "code": "R13 005",
+    "hexCode": "#F49898"
+  },
+  {
+    "id": "5fa5831d-5f08-4528-9096-190380258ae0",
+    "name": "Big Flame",
+    "code": "R13 006",
+    "hexCode": "#CF4446"
+  },
+  {
+    "id": "2d984a39-b54f-4c14-ba03-52c5b23c4df6",
+    "name": "Sweet Afternoon",
+    "code": "R14 001",
+    "hexCode": "#F6EAE4"
+  },
+  {
+    "id": "583f2a7d-b166-4622-a0ea-88cad4d8ba6f",
+    "name": "Lasting Memories",
+    "code": "R14 002",
+    "hexCode": "#F9DBD5"
+  },
+  {
+    "id": "807f6143-25e6-494e-adc6-c66f3e320e93",
+    "name": "Beautiful Surprise",
+    "code": "R14 003",
+    "hexCode": "#FBC7C3"
+  },
+  {
+    "id": "3d200963-17b5-47d8-95b2-4d2ee1a1c81e",
+    "name": "Floral Love",
+    "code": "R14 004",
+    "hexCode": "#F8ACA4"
+  },
+  {
+    "id": "ebbb7c8b-e5de-4bc0-839c-d7f1ffd6b1b1",
+    "name": "Overjoyed",
+    "code": "R14 005",
+    "hexCode": "#F1877E"
+  },
+  {
+    "id": "8cd981ae-d69e-46c7-a2e8-3493df14e0f1",
+    "name": "Red Rhythm",
+    "code": "R14 006",
+    "hexCode": "#D74B40"
+  },
+  {
+    "id": "ff79043e-c87f-4e94-a85d-c275e1c42da2",
+    "name": "Lighted Pixels",
+    "code": "R15 001",
+    "hexCode": "#F5E8E0"
+  },
+  {
+    "id": "b2add1b6-0e42-407b-b234-8206f2070b1a",
+    "name": "Interest At Heart",
+    "code": "R15 002",
+    "hexCode": "#FBD8CF"
+  },
+  {
+    "id": "30e6808f-5adf-47c3-8724-9b0525045ad0",
+    "name": "Wild & Free",
+    "code": "R15 003",
+    "hexCode": "#FBCDC4"
+  },
+  {
+    "id": "6989242b-8cce-49ce-8bbf-c897b90d62cb",
+    "name": "Flamingo Feather",
+    "code": "R15 004",
+    "hexCode": "#F7B8AE"
+  },
+  {
+    "id": "185d96f4-9c89-4dc9-88f9-743ec532ab4f",
+    "name": "Favourite Song",
+    "code": "R15 005",
+    "hexCode": "#EE8E7B"
+  },
+  {
+    "id": "38225a7d-a64f-4745-a463-8b79c70146a1",
+    "name": "Emotional Red",
+    "code": "R15 006",
+    "hexCode": "#BF503D"
+  },
+  {
+    "id": "ebacf9fb-274f-4250-9d11-d77a23a02c27",
+    "name": "Merry Go Round",
+    "code": "R16 001",
+    "hexCode": "#F8E5DA"
+  },
+  {
+    "id": "007b9abd-39db-4289-ad6a-201736256acf",
+    "name": "Cosmic Love",
+    "code": "R16 002",
+    "hexCode": "#FAD5CB"
+  },
+  {
+    "id": "d6f0e1f6-6660-46e5-8df5-5ec9984f36a6",
+    "name": "Free Spirit",
+    "code": "R16 003",
+    "hexCode": "#FCC9BC"
+  },
+  {
+    "id": "d642e144-0571-428b-9d17-51df24f9cf66",
+    "name": "Misty Coral",
+    "code": "R16 004",
+    "hexCode": "#FCB5A6"
+  },
+  {
+    "id": "a887cab9-969c-4178-a868-846bb38b4294",
+    "name": "Song For You",
+    "code": "R16 005",
+    "hexCode": "#EF7D69"
+  },
+  {
+    "id": "be7f2add-1628-4ccb-9895-82941f33c2b2",
+    "name": "Impact Red",
+    "code": "R16 006",
+    "hexCode": "#D94D3B"
+  },
+  {
+    "id": "4c65b6cc-c7d3-45fe-a996-ab7de9b7c465",
+    "name": "Orange Crush",
+    "code": "O8-001",
+    "hexCode": "#F08D33"
+  },
+  {
+    "id": "638a1e29-61bd-43f1-8be7-8d99db51e450",
+    "name": "Tangerine Twist",
+    "code": "O8-002",
+    "hexCode": "#F39859"
+  },
+  {
+    "id": "d36fb1ad-6659-4c34-a840-4f1541fce5b7",
+    "name": "Orange Destiny",
+    "code": "O8-003",
+    "hexCode": "#F7B17A"
+  },
+  {
+    "id": "e35548b3-a9b4-461b-bec3-bf9c9bfd0815",
+    "name": "Sweet Peach",
+    "code": "O8-004",
+    "hexCode": "#F6C09A"
+  },
+  {
+    "id": "9522f995-62fc-49a2-ac0f-d8737115b234",
+    "name": "Regency Beige",
+    "code": "O8-005",
+    "hexCode": "#F9DABD"
+  },
+  {
+    "id": "3aba5716-660f-4347-b806-e2e7cd522d18",
+    "name": "City Of Dreams",
+    "code": "O9-001",
+    "hexCode": "#DF643C"
+  },
+  {
+    "id": "a8d4a3e8-975d-41ed-bf3f-8968468c784a",
+    "name": "Venetian Evening",
+    "code": "O9-002",
+    "hexCode": "#EA825C"
+  },
+  {
+    "id": "4e93706e-743a-4d43-804b-ee9bb49d3282",
+    "name": "Mandarin Gardens",
+    "code": "O9-003",
+    "hexCode": "#F4BE9A"
+  },
+  {
+    "id": "65aecc64-65a2-485c-8664-0abf37f2c55b",
+    "name": "Imperial Blush",
+    "code": "O9-004",
+    "hexCode": "#F6D6B9"
+  },
+  {
+    "id": "9862f7be-ab51-4c7e-9ae6-cbb60b1bd76c",
+    "name": "Peach Cove",
+    "code": "O9-005",
+    "hexCode": "#F7E5D3"
+  },
+  {
+    "id": "fb0fae38-0801-4daa-adfd-aa22a1cdb96a",
+    "name": "Cape Siena",
+    "code": "O10-001",
+    "hexCode": "#91555C"
+  },
+  {
+    "id": "58fb80b5-33e8-43a9-8ff4-da6b03c9eed5",
+    "name": "Faded Rose",
+    "code": "O10-002",
+    "hexCode": "#DEA08E"
+  },
+  {
+    "id": "32f373a9-5e26-4f6b-a5d3-8393ba0beeb3",
+    "name": "Autumn Dahlia",
+    "code": "O10-003",
+    "hexCode": "#F2B19B"
+  },
+  {
+    "id": "486933fb-af62-4e85-bafb-32fb09943b5d",
+    "name": "Light Apricot",
+    "code": "O10-004",
+    "hexCode": "#F6D1BE"
+  },
+  {
+    "id": "9dd64e01-c34c-4f6c-af0f-34ad104a8cb1",
+    "name": "A New Dawn",
+    "code": "O10-005",
+    "hexCode": "#F7E6D8"
+  },
+  {
+    "id": "c6e2c24d-d1b7-43c5-b6df-9b987ebd831a",
+    "name": "Royal Orange",
+    "code": "O11-001",
+    "hexCode": "#CB5344"
+  },
+  {
+    "id": "8e335e9e-e009-4e32-9e3f-07a085a02105",
+    "name": "Coral Dress",
+    "code": "O11-002",
+    "hexCode": "#F3967F"
+  },
+  {
+    "id": "abf6c6dd-5e8d-4c35-8949-63d6a791b06f",
+    "name": "Perfect Evening",
+    "code": "O11-003",
+    "hexCode": "#F5C6B5"
+  },
+  {
+    "id": "d8bdac96-796b-4e35-8e7a-384e4b3c5355",
+    "name": "Subtle Love",
+    "code": "O11-004",
+    "hexCode": "#F8DBD1"
+  },
+  {
+    "id": "bae4812f-cf7f-4d68-848b-c9d57ce8c7a5",
+    "name": "Blissful Glee",
+    "code": "O11-005",
+    "hexCode": "#F3E7DF"
+  },
+  {
+    "id": "f4e44774-6f43-492c-882d-22a7005ada4a",
+    "name": "Weekend Holiday",
+    "code": "O1 001",
+    "hexCode": "#F6E0D8"
+  },
+  {
+    "id": "a8b2a5f7-c067-42e5-b6e8-6a71fda2522f",
+    "name": "Coming Home",
+    "code": "O1 002",
+    "hexCode": "#FAD8C8"
+  },
+  {
+    "id": "a35cf781-1930-47ae-b8b0-1bdd9f5b6f0b",
+    "name": "Last Kiss",
+    "code": "O1 003",
+    "hexCode": "#FAC0AD"
+  },
+  {
+    "id": "138a05a3-ab25-450d-bc6a-e1ccda778ed1",
+    "name": "Peaches & Cream",
+    "code": "O1 004",
+    "hexCode": "#F7AA96"
+  },
+  {
+    "id": "b58e8b1f-d25a-4546-88f7-10bf73fab929",
+    "name": "Wonderful World",
+    "code": "O1 005",
+    "hexCode": "#F3937B"
+  },
+  {
+    "id": "135ca577-e251-4f59-9812-207269f4f2ab",
+    "name": "Autumn Nocturne",
+    "code": "O1 006",
+    "hexCode": "#CB5E4F"
+  },
+  {
+    "id": "4dfd8728-32f0-48af-b0de-c9a5f7a22081",
+    "name": "My Romance",
+    "code": "O2 001",
+    "hexCode": "#F5E5D9"
+  },
+  {
+    "id": "4ea411fe-2ff3-4b56-b41b-fd21be702dbc",
+    "name": "Sentimental Mood",
+    "code": "O2 002",
+    "hexCode": "#F6E0D2"
+  },
+  {
+    "id": "80646cb8-90d9-4654-bd90-35f4e56e0367",
+    "name": "Pretty Ballad",
+    "code": "O2 003",
+    "hexCode": "#F5D2C0"
+  },
+  {
+    "id": "bcde3965-381f-4a44-a8ce-237b7950e909",
+    "name": "Wild Flower",
+    "code": "O2 004",
+    "hexCode": "#F8B49B"
+  },
+  {
+    "id": "b8c80d74-b1d3-450d-886b-a9de171a0a87",
+    "name": "Orange Glitter",
+    "code": "O2 005",
+    "hexCode": "#E87F63"
+  },
+  {
+    "id": "4920eba2-3328-498e-97c6-167c1e622926",
+    "name": "Bonfire Glow",
+    "code": "O2 006",
+    "hexCode": "#D55D40"
+  },
+  {
+    "id": "cc9b6d4b-652c-4b9c-8204-cab71198a9c9",
+    "name": "Honeymoon Ave",
+    "code": "O3 001",
+    "hexCode": "#FAE0D0"
+  },
+  {
+    "id": "f848c2c3-7cfa-44f1-add2-07a6fbedbdb0",
+    "name": "Tangelo Cream",
+    "code": "O3 002",
+    "hexCode": "#FBD2BD"
+  },
+  {
+    "id": "bc9cdeaf-bf91-48ec-a412-3bef505855ec",
+    "name": "Say You. Say Me",
+    "code": "O3 003",
+    "hexCode": "#FDB99E"
+  },
+  {
+    "id": "2d28d4a1-d1ab-483e-992a-d9caf96a7a40",
+    "name": "Desert Sunset",
+    "code": "O3 004",
+    "hexCode": "#FBA081"
+  },
+  {
+    "id": "5b04aec0-0e3f-4a97-8b27-298c4cf20369",
+    "name": "Bright Spot",
+    "code": "O3 005",
+    "hexCode": "#F1805D"
+  },
+  {
+    "id": "f4a48272-9be0-4dbd-8778-6e95d137f7d9",
+    "name": "Orange Moon",
+    "code": "O3 006",
+    "hexCode": "#E86339"
+  },
+  {
+    "id": "6236c29f-bce0-4a6d-b2df-800589c1c94c",
+    "name": "Peach Linger",
+    "code": "O4 001",
+    "hexCode": "#F9E8DA"
+  },
+  {
+    "id": "0c706c45-dbc5-4158-823d-bf2fc89baca5",
+    "name": "Summer Dress",
+    "code": "O4 002",
+    "hexCode": "#F7DFD1"
+  },
+  {
+    "id": "1a574de5-43ba-4d95-b895-b6b1f4baf946",
+    "name": "In Your Arms",
+    "code": "O4 003",
+    "hexCode": "#FEBDA2"
+  },
+  {
+    "id": "c6c7c6e9-5e58-4012-b25d-334b894cd310",
+    "name": "Tender Love",
+    "code": "O4 004",
+    "hexCode": "#FDAE8D"
+  },
+  {
+    "id": "aba5c047-4cf3-4791-9de1-467e93c5d073",
+    "name": "Freedom Of Peach",
+    "code": "O4 005",
+    "hexCode": "#F89A6D"
+  },
+  {
+    "id": "057e645b-a29d-4a12-966c-32af810144aa",
+    "name": "Eternal Flame",
+    "code": "O4 006",
+    "hexCode": "#E26238"
+  },
+  {
+    "id": "624980d0-b897-4af4-ad47-34198a732beb",
+    "name": "Sweet Escape",
+    "code": "O5 001",
+    "hexCode": "#F7E7D9"
+  },
+  {
+    "id": "d5a197e6-bad2-48dd-918d-6495854732c2",
+    "name": "Emotionally Yours",
+    "code": "O5 002",
+    "hexCode": "#FCDCC6"
+  },
+  {
+    "id": "1f3bb730-a2e8-4197-b1e1-c1422ea163e9",
+    "name": "Spiced Apricot",
+    "code": "O5 003",
+    "hexCode": "#FDD1B5"
+  },
+  {
+    "id": "c8080f7c-8798-4462-abcf-ca603df182ba",
+    "name": "Peach Swirl",
+    "code": "O5 004",
+    "hexCode": "#F1B695"
+  },
+  {
+    "id": "ffd2328a-c12a-42ac-8e4e-2de55044723f",
+    "name": "Beautiful Soul",
+    "code": "O5 005",
+    "hexCode": "#E58559"
+  },
+  {
+    "id": "1760f11c-d347-47d9-8bd7-107f00fa2ac1",
+    "name": "Desert Storm",
+    "code": "O5 006",
+    "hexCode": "#C26241"
+  },
+  {
+    "id": "031dceff-ffc5-4edd-9a11-25fa308f4e57",
+    "name": "Perfect Afternoon",
+    "code": "O6 001",
+    "hexCode": "#F9E3D3"
+  },
+  {
+    "id": "4fa34a21-2464-41fc-870f-40c387040cf2",
+    "name": "Ray Of Light",
+    "code": "O6 002",
+    "hexCode": "#FBDBC4"
+  },
+  {
+    "id": "2e03c9c1-dc2c-4fa4-a5b3-8c3c5bea0aee",
+    "name": "Passion Peach",
+    "code": "O6 003",
+    "hexCode": "#FCD2B5"
+  },
+  {
+    "id": "e86844d4-f308-4b7e-817b-f69d7bcd7209",
+    "name": "Pure Clay",
+    "code": "O6 004",
+    "hexCode": "#F8BC98"
+  },
+  {
+    "id": "65d25433-cd28-4194-9eb6-b7153e5c936a",
+    "name": "Hiding Sun",
+    "code": "O6 005",
+    "hexCode": "#EA8C60"
+  },
+  {
+    "id": "55bc5a7e-e222-4df0-ba18-36f4f4ccdfc4",
+    "name": "Heart Of Gold",
+    "code": "O6 006",
+    "hexCode": "#D8623A"
+  },
+  {
+    "id": "7d6cbc6a-9cc2-4295-94d5-f8d1c820a6eb",
+    "name": "Happy Valley",
+    "code": "O7 001",
+    "hexCode": "#F8E8DC"
+  },
+  {
+    "id": "c6639f4d-e903-45fc-8a27-2127370e662d",
+    "name": "Succulent Peach",
+    "code": "O7 002",
+    "hexCode": "#FCDEC7"
+  },
+  {
+    "id": "0049bf5c-5697-4132-aa48-14c41427f462",
+    "name": "Shining Light",
+    "code": "O7 003",
+    "hexCode": "#FED3B4"
+  },
+  {
+    "id": "b9ad15ff-a66b-4e33-ac74-f288c830f951",
+    "name": "Citrus Pulp",
+    "code": "O7 004",
+    "hexCode": "#FFC29B"
+  },
+  {
+    "id": "4c3d9066-0678-4143-8b27-22de301b0115",
+    "name": "Ripe Melon",
+    "code": "O7 005",
+    "hexCode": "#F99A69"
+  },
+  {
+    "id": "d90a9163-4b37-4ce4-bd27-bc828b5079cf",
+    "name": "Orange Cove",
+    "code": "O7 006",
+    "hexCode": "#E96B36"
+  },
+  {
+    "id": "f7bdf897-5a0f-47de-b716-0957b1079f01",
+    "name": "Soft Sofa",
+    "code": "O8 001",
+    "hexCode": "#FBE1CF"
+  },
+  {
+    "id": "c9a00d0d-6adb-4fbe-9a19-552b3888c143",
+    "name": "Cashmere Scarf",
+    "code": "O8 002",
+    "hexCode": "#FEDCC1"
+  },
+  {
+    "id": "e9552c14-999b-47a9-aa0c-9fc151daacd2",
+    "name": "Living Life",
+    "code": "O8 003",
+    "hexCode": "#FFD2B1"
+  },
+  {
+    "id": "0c93a225-3b7a-4e44-92ba-3600f3fa1e0d",
+    "name": "Mystical Orange",
+    "code": "O8 004",
+    "hexCode": "#FFC89F"
+  },
+  {
+    "id": "2010c761-b6f4-4989-97d2-77abe8048eed",
+    "name": "Evening Amber",
+    "code": "O8 005",
+    "hexCode": "#FA9F66"
+  },
+  {
+    "id": "5459da4f-b4e7-441a-ba71-9ee1d728ad24",
+    "name": "Under The Sun",
+    "code": "O8 006",
+    "hexCode": "#F58E56"
+  },
+  {
+    "id": "a673ac02-bf9c-423a-a1bc-b927dfefb281",
+    "name": "What A Feeling",
+    "code": "O9 001",
+    "hexCode": "#FDE1C3"
+  },
+  {
+    "id": "3db14e1d-eea4-431e-bb2e-ee72001ed39d",
+    "name": "Quiet Evening",
+    "code": "O9 002",
+    "hexCode": "#FFDAB7"
+  },
+  {
+    "id": "2abcc860-60af-4fb5-9be7-9c52f6b31dc1",
+    "name": "Melon Melody",
+    "code": "O9 003",
+    "hexCode": "#FFCC9E"
+  },
+  {
+    "id": "174e8331-0740-48fe-8298-ec69ac7b7c77",
+    "name": "Traveling Somewhere",
+    "code": "O9 004",
+    "hexCode": "#FFBB87"
+  },
+  {
+    "id": "ade8f6b9-c8fb-4931-b157-6885963cdf8a",
+    "name": "Paloma Sun",
+    "code": "O9 005",
+    "hexCode": "#FA9553"
+  },
+  {
+    "id": "ba551945-2829-4229-a5dd-bf4856bcf812",
+    "name": "Orange Embrace",
+    "code": "O9 006",
+    "hexCode": "#EE7135"
+  },
+  {
+    "id": "3a07e0a9-e21f-45b4-b8a7-020b8e4a5c4f",
+    "name": "Summer Serenade",
+    "code": "O10 001",
+    "hexCode": "#F8E6D1"
+  },
+  {
+    "id": "f1048c44-3903-46c4-829d-7d8b67645013",
+    "name": "Paradise Palms",
+    "code": "O10 002",
+    "hexCode": "#FCE1C5"
+  },
+  {
+    "id": "301666ae-46c4-419c-9c61-ad9782a4ac88",
+    "name": "Autumn Fling",
+    "code": "O10 003",
+    "hexCode": "#FFCC9F"
+  },
+  {
+    "id": "c863b9e0-f5c3-4536-8c25-bbd01de67ae5",
+    "name": "Candy Sunset",
+    "code": "O10 004",
+    "hexCode": "#FFBB87"
+  },
+  {
+    "id": "aef65597-ccf8-4124-8297-e911144eada9",
+    "name": "Tangerine Tropic",
+    "code": "O10 005",
+    "hexCode": "#F99653"
+  },
+  {
+    "id": "8eade496-e8af-4cfc-bf69-9273726036fd",
+    "name": "Manhattan Sunset",
+    "code": "O10 006",
+    "hexCode": "#E17135"
+  },
+  {
+    "id": "981a2aad-e7d8-41aa-8f3f-40f87018e54d",
+    "name": "Peach Soda",
+    "code": "O11 001",
+    "hexCode": "#FBE6CF"
+  },
+  {
+    "id": "00f2a08c-3040-49b4-9d9a-9e06872df3bf",
+    "name": "Ornament Orange",
+    "code": "O11 002",
+    "hexCode": "#FFDBB6"
+  },
+  {
+    "id": "33f5d274-4308-4897-aa27-a18292328eb3",
+    "name": "Sweet Spot",
+    "code": "O11 003",
+    "hexCode": "#FFC28A"
+  },
+  {
+    "id": "a8182822-8271-4b03-b322-74b58c7870be",
+    "name": "Secret Wonderland",
+    "code": "O11 004",
+    "hexCode": "#FEAB65"
+  },
+  {
+    "id": "92a56786-ae4a-4f83-8649-695b3906540e",
+    "name": "Blushed Sundown",
+    "code": "O11 005",
+    "hexCode": "#F99A51"
+  },
+  {
+    "id": "eba0f8f2-1136-40b7-be46-5ac83f100e75",
+    "name": "Arizona Sunset",
+    "code": "O11 006",
+    "hexCode": "#F17F36"
+  },
+  {
+    "id": "1ca2305a-c258-437c-97e7-723856cdde7a",
+    "name": "Beach Bunny",
+    "code": "O12 001",
+    "hexCode": "#FBE0C0"
+  },
+  {
+    "id": "21933434-6784-4997-a1ba-80ce0a6af9ce",
+    "name": "Tropic Lace",
+    "code": "O12 002",
+    "hexCode": "#FED4A6"
+  },
+  {
+    "id": "14590f21-84c7-4380-be22-bea5cc7b8259",
+    "name": "Coast To Coast",
+    "code": "O12 003",
+    "hexCode": "#FFC58B"
+  },
+  {
+    "id": "41fe1dc1-bd80-41dc-8fd7-c44342ca2381",
+    "name": "Desert Dream",
+    "code": "O12 004",
+    "hexCode": "#FFB472"
+  },
+  {
+    "id": "49458ec6-e975-495e-aa41-041d927deaa0",
+    "name": "Miami Heat",
+    "code": "O12 005",
+    "hexCode": "#FFA14B"
+  },
+  {
+    "id": "80a170ae-876a-4b48-b71b-5bd9025a1bc6",
+    "name": "Tropical Bouquet",
+    "code": "O12 006",
+    "hexCode": "#EE8731"
+  },
+  {
+    "id": "2b945c02-436d-4977-a9eb-40da5aa1cb7a",
+    "name": "Fragrant Yuzu",
+    "code": "O13 001",
+    "hexCode": "#FBE9CC"
+  },
+  {
+    "id": "546d5fa6-60e6-4b3b-b826-c0a0cbf4462c",
+    "name": "Cute Button",
+    "code": "O13 002",
+    "hexCode": "#FFDCAD"
+  },
+  {
+    "id": "af724cca-69b7-457c-b566-e615cc4002fc",
+    "name": "Soft Touch",
+    "code": "O13 003",
+    "hexCode": "#FFD193"
+  },
+  {
+    "id": "3f2278d9-e14b-4b05-8c1e-5a7500019650",
+    "name": "Modern Twist",
+    "code": "O13 004",
+    "hexCode": "#FFC480"
+  },
+  {
+    "id": "928eee67-e3ff-435e-8d6a-a3c21f1ca5d3",
+    "name": "Little Dreamer",
+    "code": "O13 005",
+    "hexCode": "#FFAE5D"
+  },
+  {
+    "id": "ca28feac-14f6-4a25-b150-5c589179d18e",
+    "name": "Peruvian Palms",
+    "code": "O13 006",
+    "hexCode": "#D97837"
+  },
+  {
+    "id": "971fde34-4c1d-4511-9f2a-cabff76bfdd0",
+    "name": "Hokkaido Cream",
+    "code": "O14 001",
+    "hexCode": "#FCE7D0"
+  },
+  {
+    "id": "abda5902-906c-4b4f-a022-4f764b305f1e",
+    "name": "Summer Fling",
+    "code": "O14 002",
+    "hexCode": "#FFDEB4"
+  },
+  {
+    "id": "e8f46622-ad67-497b-ad1a-f1ada25d1c05",
+    "name": "Soft Toy",
+    "code": "O14 003",
+    "hexCode": "#FFD198"
+  },
+  {
+    "id": "0c87c4dc-42cf-4fcf-a08b-599d62b60be3",
+    "name": "Stardust",
+    "code": "O14 004",
+    "hexCode": "#FFC785"
+  },
+  {
+    "id": "122cafcc-8a8d-43d3-8282-952819ff0725",
+    "name": "Day In Malibu",
+    "code": "O14 005",
+    "hexCode": "#F5A451"
+  },
+  {
+    "id": "a0fbbbd5-364a-43db-b69a-a5c0c0f03417",
+    "name": "Goldilocks",
+    "code": "O14 006",
+    "hexCode": "#D58339"
+  },
+  {
+    "id": "21806146-2bb2-4a04-8857-c42396650e4c",
+    "name": "Passion Play",
+    "code": "O15 001",
+    "hexCode": "#FCEBCE"
+  },
+  {
+    "id": "c783d7f4-6e5d-43f1-a6ce-b9fd5a90079f",
+    "name": "Blessed Morning",
+    "code": "O15 002",
+    "hexCode": "#FDE4BE"
+  },
+  {
+    "id": "05c2a8d5-6873-4496-b82f-a87dae103124",
+    "name": "Ambient Lounge",
+    "code": "O15 003",
+    "hexCode": "#FFDDAE"
+  },
+  {
+    "id": "15f1ff50-9f06-44a8-9dc7-fefe07323e55",
+    "name": "Shaft Of Gold",
+    "code": "O15 004",
+    "hexCode": "#FFC985"
+  },
+  {
+    "id": "7ce4e01a-a88e-40be-8504-c09ca518dba4",
+    "name": "Quiet Flame",
+    "code": "O15 005",
+    "hexCode": "#F5A84C"
+  },
+  {
+    "id": "36d23513-2d62-4aa3-a77f-dd8a869583fa",
+    "name": "Bronze Shore",
+    "code": "O15 006",
+    "hexCode": "#D98B32"
+  },
+  {
+    "id": "290d93db-18a1-4c99-9a77-4353c993bdf3",
+    "name": "Amber Dawn",
+    "code": "O16 001",
+    "hexCode": "#FCECD0"
+  },
+  {
+    "id": "06061672-789f-4204-97a2-910270648253",
+    "name": "Summer Cascade",
+    "code": "O16 002",
+    "hexCode": "#FBE3BB"
+  },
+  {
+    "id": "ab0afa5c-d145-4cb6-a019-9cc758451c54",
+    "name": "Happiness",
+    "code": "O16 003",
+    "hexCode": "#FCD9A1"
+  },
+  {
+    "id": "01e35d58-d873-45d0-83a5-684dd68acf92",
+    "name": "Candied Melon",
+    "code": "O16 004",
+    "hexCode": "#FEC06B"
+  },
+  {
+    "id": "29179c3e-d6b6-4878-a2ff-2f2d54bc51e8",
+    "name": "Orange Ocean",
+    "code": "O16 005",
+    "hexCode": "#FDB24D"
+  },
+  {
+    "id": "b193a0c0-dee0-453f-85ca-dc1c86ddb8ef",
+    "name": "Surreal Sun",
+    "code": "O16 006",
+    "hexCode": "#FF9520"
+  },
+  {
+    "id": "50ee54ec-0bcc-4c15-aa16-6e1a2fed36d3",
+    "name": "A New Life",
+    "code": "O17 001",
+    "hexCode": "#FDE6C8"
+  },
+  {
+    "id": "929b06fd-1b2f-45f7-b6dd-365988960758",
+    "name": "Floral Lampshade",
+    "code": "O17 002",
+    "hexCode": "#FFE3B9"
+  },
+  {
+    "id": "f99354e3-c078-498b-900c-3ff2bef857eb",
+    "name": "Homecoming",
+    "code": "O17 003",
+    "hexCode": "#FFDDA8"
+  },
+  {
+    "id": "502af62e-7c9d-43c8-a4a5-61194cf10f0e",
+    "name": "Faded Sun",
+    "code": "O17 004",
+    "hexCode": "#FFC979"
+  },
+  {
+    "id": "2c55538f-c94e-403f-a8e8-160a6591db7c",
+    "name": "Coastal Drive",
+    "code": "O17 005",
+    "hexCode": "#FFAB42"
+  },
+  {
+    "id": "99e75fef-332d-4934-9871-22e38f7d0e21",
+    "name": "Fruit Platter",
+    "code": "O17 006",
+    "hexCode": "#FAA223"
+  },
+  {
+    "id": "48837f27-8ec9-4e08-a47c-74ff4c357a7f",
+    "name": "Morning Story",
+    "code": "O18 001",
+    "hexCode": "#F9E5C2"
+  },
+  {
+    "id": "8a3f5aca-b44d-4a29-912d-20e5f40db008",
+    "name": "Daisy Dream",
+    "code": "O18 002",
+    "hexCode": "#FCE3B4"
+  },
+  {
+    "id": "8219150b-2da1-4e6b-b8e4-5e52fd086dab",
+    "name": "Lovely Yuzu",
+    "code": "O18 003",
+    "hexCode": "#FFD692"
+  },
+  {
+    "id": "e8df06e1-fc9f-4a32-81d4-df71a4472afe",
+    "name": "Shifting Landscapes",
+    "code": "O18 004",
+    "hexCode": "#FFC06B"
+  },
+  {
+    "id": "2b56183b-0698-42cc-8b06-1a5316a64ac0",
+    "name": "Floral Touch",
+    "code": "O18 005",
+    "hexCode": "#FFBA57"
+  },
+  {
+    "id": "07be0175-3772-4328-a44f-13428fdd5528",
+    "name": "Scented Ginger",
+    "code": "O18 006",
+    "hexCode": "#FFB043"
+  },
+  {
+    "id": "cb4cb4e9-14a4-4d22-9ed5-97f46c4fdcfe",
+    "name": "Caramel Delight",
+    "code": "Y1-001",
+    "hexCode": "#A6763C"
+  },
+  {
+    "id": "78189dba-2c34-4e21-972e-691c6bdf00e6",
+    "name": "Sweet Maple",
+    "code": "Y1-002",
+    "hexCode": "#C8965F"
+  },
+  {
+    "id": "771d2815-735d-424a-b827-f943c9341cf9",
+    "name": "Persian Sand",
+    "code": "Y1-003",
+    "hexCode": "#D1B081"
+  },
+  {
+    "id": "23fb6514-51f0-4a53-80d8-d918e893732a",
+    "name": "Horizon Hills",
+    "code": "Y1-004",
+    "hexCode": "#EDD2A4"
+  },
+  {
+    "id": "6e48ea16-bc67-4764-a288-063f237094f8",
+    "name": "Touch Of Cream",
+    "code": "Y1-005",
+    "hexCode": "#F2E0C0"
+  },
+  {
+    "id": "4a7b7416-6f72-4232-b403-206d5b957111",
+    "name": "Queen's Gold",
+    "code": "Y2-001",
+    "hexCode": "#C18D3F"
+  },
+  {
+    "id": "15e1f932-1f9d-4499-850a-d941d86ec9a3",
+    "name": "Summer Streak",
+    "code": "Y2-002",
+    "hexCode": "#EEBA21"
+  },
+  {
+    "id": "da53ed25-eb80-4b2a-8f69-b4bb155164b4",
+    "name": "Moonie",
+    "code": "Y2-003",
+    "hexCode": "#EFCF76"
+  },
+  {
+    "id": "61329502-113c-451b-a523-46b146efced9",
+    "name": "Refreshing Yellow",
+    "code": "Y2-004",
+    "hexCode": "#F6DFA6"
+  },
+  {
+    "id": "639bad38-49d4-46b2-9c90-cbc0885ece7d",
+    "name": "Cream Soda",
+    "code": "Y2-005",
+    "hexCode": "#F9EDCF"
+  },
+  {
+    "id": "dfe6a30e-4253-45ca-964b-1c12968d7d22",
+    "name": "Desert Mist",
+    "code": "Y3-001",
+    "hexCode": "#DD9C33"
+  },
+  {
+    "id": "8eb9d453-693e-468d-8ade-43a531d3a39f",
+    "name": "Miller",
+    "code": "Y3-002",
+    "hexCode": "#FFC814"
+  },
+  {
+    "id": "af04fb66-aa48-49f3-b162-275fff636e24",
+    "name": "Pineapple Express",
+    "code": "Y3-003",
+    "hexCode": "#FFDD7C"
+  },
+  {
+    "id": "369011fa-167a-4b68-b6a4-56135520e31c",
+    "name": "Lemon Popsicle",
+    "code": "Y3-004",
+    "hexCode": "#FAE4A9"
+  },
+  {
+    "id": "db2e8482-3ebb-4712-9857-8d8e2e4b4e0f",
+    "name": "Always Creamy",
+    "code": "Y3-005",
+    "hexCode": "#FAEDD0"
+  },
+  {
+    "id": "56dd01af-92d4-41e0-a902-f8fe61c70373",
+    "name": "Manuka Honey",
+    "code": "Y4-001",
+    "hexCode": "#E59D2F"
+  },
+  {
+    "id": "cd129342-6d04-4c52-9d4c-1819f2f66372",
+    "name": "Amber Nectar",
+    "code": "Y4-002",
+    "hexCode": "#FFC95B"
+  },
+  {
+    "id": "f64d0dcd-4ec8-441f-8634-da26b342ccc1",
+    "name": "Soft Yellow",
+    "code": "Y4-003",
+    "hexCode": "#FFD370"
+  },
+  {
+    "id": "e5d5a75b-bf29-451c-b449-18beba573d8e",
+    "name": "Soothing Cream",
+    "code": "Y4-004",
+    "hexCode": "#F7E1AE"
+  },
+  {
+    "id": "47bd6c39-9a1d-47e7-8fd6-74267929500c",
+    "name": "Lemon Pie",
+    "code": "Y4-005",
+    "hexCode": "#F7EAD1"
+  },
+  {
+    "id": "02925c86-fbca-4a3f-850e-e925dfa6ba44",
+    "name": "Inca Gold",
+    "code": "Y5-001",
+    "hexCode": "#F4AC27"
+  },
+  {
+    "id": "53c13ba7-cfe8-4e21-840a-9e78aede8eb1",
+    "name": "My Daffodil",
+    "code": "Y5-002",
+    "hexCode": "#FFBF37"
+  },
+  {
+    "id": "132f7349-f953-4d2e-ae9a-663be4beb447",
+    "name": "Blond Streak",
+    "code": "Y5-003",
+    "hexCode": "#FFC15B"
+  },
+  {
+    "id": "d8c6bde0-ce23-42b9-ae1f-7efde909f85f",
+    "name": "Light Nutmeg",
+    "code": "Y5-004",
+    "hexCode": "#FFDC91"
+  },
+  {
+    "id": "d6f9c022-0184-42a7-93b8-c48b7715b730",
+    "name": "Yellow Aura",
+    "code": "Y5-005",
+    "hexCode": "#FFE7B3"
+  },
+  {
+    "id": "d203f704-a400-45db-ad41-aba91cd3a2e3",
+    "name": "Sardinia Sunset",
+    "code": "Y6-001",
+    "hexCode": "#D7852E"
+  },
+  {
+    "id": "0f0b35b2-e14d-4bc9-aa05-9656a71fb048",
+    "name": "Sundown Supreme",
+    "code": "Y6-002",
+    "hexCode": "#FFA529"
+  },
+  {
+    "id": "346c6a54-92f1-4dea-b8e0-eba321154bfb",
+    "name": "Walking On Sunshine",
+    "code": "Y6-003",
+    "hexCode": "#FECA7D"
+  },
+  {
+    "id": "6e1c3081-662c-4c1f-8c7a-0187265068c6",
+    "name": "Yummy Yellow",
+    "code": "Y6-004",
+    "hexCode": "#FED794"
+  },
+  {
+    "id": "7db484b8-4508-48db-affa-24fad3c8fac9",
+    "name": "Lemon Cupcakes",
+    "code": "Y6-005",
+    "hexCode": "#FADDAB"
+  },
+  {
+    "id": "e45bc454-a713-4d3f-843e-e50b3910e9ef",
+    "name": "Great Beyond",
+    "code": "Y7-001",
+    "hexCode": "#F79D2C"
+  },
+  {
+    "id": "2605f659-14f8-4f4f-8823-61bed16c5158",
+    "name": "Fresh Cantaloupe",
+    "code": "Y7-002",
+    "hexCode": "#FFB370"
+  },
+  {
+    "id": "77583c5c-8a6f-46e4-9698-f41f54b96153",
+    "name": "Fancy Summer",
+    "code": "Y7-003",
+    "hexCode": "#FECA98"
+  },
+  {
+    "id": "3ba41bf0-047b-4bd3-8968-05166a9a7319",
+    "name": "Ivory Tusk",
+    "code": "Y7-004",
+    "hexCode": "#F8E3C4"
+  },
+  {
+    "id": "5e8018b3-cba8-43fd-80ca-d43ef467bd25",
+    "name": "Gentle Glow",
+    "code": "Y7-005",
+    "hexCode": "#F7E8D1"
+  },
+  {
+    "id": "b87992c4-c2ec-475e-9061-f5b42d58058c",
+    "name": "Dream Girl",
+    "code": "Y1 001",
+    "hexCode": "#F9E7C9"
+  },
+  {
+    "id": "6ed865a8-ffd6-46e4-a4ef-21f8a4bd171f",
+    "name": "Happy For You",
+    "code": "Y1 002",
+    "hexCode": "#FFDFB1"
+  },
+  {
+    "id": "192f2436-c682-4255-89cb-b4e30ef88f83",
+    "name": "Yellow Butterfly",
+    "code": "Y1 003",
+    "hexCode": "#FFDAA0"
+  },
+  {
+    "id": "d5fe34ee-9e53-4fd8-aa34-31fdf892fb8f",
+    "name": "My Freedom",
+    "code": "Y1 004",
+    "hexCode": "#FFCB7D"
+  },
+  {
+    "id": "b5ce8b97-255c-46d4-b761-cca691207e5c",
+    "name": "Orange Horizons",
+    "code": "Y1 005",
+    "hexCode": "#FFB73A"
+  },
+  {
+    "id": "79c70fdf-0760-4f67-9606-072c6d04dea8",
+    "name": "Gold Rush",
+    "code": "Y1 006",
+    "hexCode": "#FFA412"
+  },
+  {
+    "id": "5ba1d6d5-744b-4324-9786-ee1162087efe",
+    "name": "Isle Of Spring",
+    "code": "Y2 001",
+    "hexCode": "#FBE5BC"
+  },
+  {
+    "id": "65fef23f-5e8b-4db7-bd29-6f0058315bc9",
+    "name": "Summer Wave",
+    "code": "Y2 002",
+    "hexCode": "#FFDEA1"
+  },
+  {
+    "id": "67e67a22-ab52-49ea-92af-ea5060fab24a",
+    "name": "Rising Sun",
+    "code": "Y2 003",
+    "hexCode": "#FFDA99"
+  },
+  {
+    "id": "c1690de8-94f3-4cf7-98f9-17fc0573dcaa",
+    "name": "Tokyo Lights",
+    "code": "Y2 004",
+    "hexCode": "#FFCE74"
+  },
+  {
+    "id": "9f0fc052-a7cb-4e27-a58f-2b8865f14b27",
+    "name": "Lemonello",
+    "code": "Y2 005",
+    "hexCode": "#FFC251"
+  },
+  {
+    "id": "33d24f55-f86d-4e47-bcec-d88c047279a3",
+    "name": "Blazing Trail",
+    "code": "Y2 006",
+    "hexCode": "#F9A637"
+  },
+  {
+    "id": "887684ba-7912-4569-ab59-5aad242f3837",
+    "name": "Citrus Splash",
+    "code": "Y3 001",
+    "hexCode": "#FBECC4"
+  },
+  {
+    "id": "638cc65d-d914-4e5b-be6e-bfe67c9c7491",
+    "name": "Shining Sun",
+    "code": "Y3 002",
+    "hexCode": "#FFE7AD"
+  },
+  {
+    "id": "ad33d04b-d35b-4e44-83bd-f88d27d81d34",
+    "name": "Amber Crystal",
+    "code": "Y3 003",
+    "hexCode": "#FFE29E"
+  },
+  {
+    "id": "b2dfeebe-435d-4ae9-80ae-1ba290672cc0",
+    "name": "Flaming Lemon",
+    "code": "Y3 004",
+    "hexCode": "#FFDA85"
+  },
+  {
+    "id": "5c910ced-d3e4-4e2c-8fc5-c59eb867bf40",
+    "name": "Honey Drops",
+    "code": "Y3 005",
+    "hexCode": "#FFC644"
+  },
+  {
+    "id": "0aa54abe-e377-4af2-a6e0-fd2f9f5e4272",
+    "name": "Tangerine Burst",
+    "code": "Y3 006",
+    "hexCode": "#FFAF9"
+  },
+  {
+    "id": "5dd0b8f9-6f55-4bc1-b53c-1efb5ef9b480",
+    "name": "Spring Splendour",
+    "code": "Y4 001",
+    "hexCode": "#F8F0D7"
+  },
+  {
+    "id": "de5fab5b-c619-4d14-b8e5-fc777d680ff9",
+    "name": "Yellow Harmony",
+    "code": "Y4 002",
+    "hexCode": "#FEEAB1"
+  },
+  {
+    "id": "58ef2cb7-1a38-4945-970b-cb7deec5685e",
+    "name": "Tahiti Tango",
+    "code": "Y4 003",
+    "hexCode": "#FFE6A2"
+  },
+  {
+    "id": "12f76ada-27b1-422f-8d84-ced35c6254f8",
+    "name": "Capella Star",
+    "code": "Y4 004",
+    "hexCode": "#FFDE8A"
+  },
+  {
+    "id": "25b97722-73cf-447f-aabb-3a311245afb4",
+    "name": "Stay With Me",
+    "code": "Y4 005",
+    "hexCode": "#FFCC4F"
+  },
+  {
+    "id": "22325f92-bf7f-4be2-90c2-4727291a71ae",
+    "name": "Follow The Sun",
+    "code": "Y4 006",
+    "hexCode": "#FFB63"
+  },
+  {
+    "id": "dbf210e5-a727-49ac-bd78-cf3432147855",
+    "name": "Pale Cream",
+    "code": "Y5 001",
+    "hexCode": "#F5F0D2"
+  },
+  {
+    "id": "c425c2ae-dd58-49ef-8de6-70d7bcf96b9f",
+    "name": "Champagne Fizz",
+    "code": "Y5 002",
+    "hexCode": "#F2E3B9"
+  },
+  {
+    "id": "6d270740-56ac-4429-8a31-37392b801ee9",
+    "name": "Memory Bliss",
+    "code": "Y5 003",
+    "hexCode": "#FBD891"
+  },
+  {
+    "id": "5d8159fe-bcde-463f-9c1d-70c7cf701b6c",
+    "name": "Smile For Me",
+    "code": "Y5 004",
+    "hexCode": "#FACE6D"
+  },
+  {
+    "id": "4b4674b5-3c5c-4a86-85ea-a763dd1c3126",
+    "name": "Golden Halo",
+    "code": "Y5 005",
+    "hexCode": "#FECC55"
+  },
+  {
+    "id": "912a43df-2c08-45d0-9f1c-0edf7fb71654",
+    "name": "Sunset Song",
+    "code": "Y5 006",
+    "hexCode": "#FFB424"
+  },
+  {
+    "id": "6589ed10-a982-4b5a-9daa-6327f4a09f6b",
+    "name": "Magnificent Dawn",
+    "code": "Y6 001",
+    "hexCode": "#F5F0D1"
+  },
+  {
+    "id": "bc17ccc8-0389-43ba-b9fa-bb298865ec1f",
+    "name": "Cheerful Heart",
+    "code": "Y6 002",
+    "hexCode": "#F6EBC8"
+  },
+  {
+    "id": "98d4cdce-11a5-44fb-850d-b0fd625a7282",
+    "name": "Lay Me Down",
+    "code": "Y6 003",
+    "hexCode": "#F7E1A2"
+  },
+  {
+    "id": "b3077d78-21d1-4562-9de1-6bd1678e8d4f",
+    "name": "Playful Tickle",
+    "code": "Y6 004",
+    "hexCode": "#FFDB8C"
+  },
+  {
+    "id": "e514a812-5566-4f01-b67d-d4db8929895f",
+    "name": "Malt Mist",
+    "code": "Y6 005",
+    "hexCode": "#FFD468"
+  },
+  {
+    "id": "17cd8986-c8d3-44bf-b026-ac6f6e5d3354",
+    "name": "Midnight Sun",
+    "code": "Y6 006",
+    "hexCode": "#FFCA0"
+  },
+  {
+    "id": "c3dfa193-6d79-4cf4-8c09-b1465049534b",
+    "name": "Melting Moments",
+    "code": "Y7 001",
+    "hexCode": "#FAEBC3"
+  },
+  {
+    "id": "56b68d7f-3d45-422a-bd4c-e84de9e69402",
+    "name": "Sunflower Bloom",
+    "code": "Y7 002",
+    "hexCode": "#FBE4AD"
+  },
+  {
+    "id": "ccbfdc7f-aae6-47ae-878e-ae25c0b5fcb4",
+    "name": "Pretty Dimple",
+    "code": "Y7 003",
+    "hexCode": "#FEDE89"
+  },
+  {
+    "id": "3b41939f-cdae-4b04-ba23-7c73224546a0",
+    "name": "Party Starter",
+    "code": "Y7 004",
+    "hexCode": "#FFD564"
+  },
+  {
+    "id": "5e7bce79-8bb3-4a00-9a56-9ef3f399ca70",
+    "name": "Daffodil Garden",
+    "code": "Y7 005",
+    "hexCode": "#FFCD3C"
+  },
+  {
+    "id": "60b56607-9c04-4228-bbbd-029e9edd0fbf",
+    "name": "Chirpy Canary",
+    "code": "Y7 006",
+    "hexCode": "#FFC30"
+  },
+  {
+    "id": "761b3c47-17c5-4868-8cb5-77e19514a55e",
+    "name": "Honeycomb Yellow",
+    "code": "Y8 001",
+    "hexCode": "#F7E7BC"
+  },
+  {
+    "id": "bb038f71-0868-408b-a72b-e39d1ee62682",
+    "name": "Sweet Buttercup",
+    "code": "Y8 002",
+    "hexCode": "#F6E3AD"
+  },
+  {
+    "id": "20343595-7203-40ee-95c5-61982b42a526",
+    "name": "Cream Cheese",
+    "code": "Y8 003",
+    "hexCode": "#FCE2A1"
+  },
+  {
+    "id": "972de904-8159-4a1c-bd55-dc8ba6f6fb3c",
+    "name": "All Star Yellow",
+    "code": "Y8 004",
+    "hexCode": "#FFD975"
+  },
+  {
+    "id": "f2ef43da-7005-495f-bc63-4410019bb83a",
+    "name": "Shy Sun",
+    "code": "Y8 005",
+    "hexCode": "#FDCE52"
+  },
+  {
+    "id": "f3e55fbc-085f-428c-9547-d786e0718f5d",
+    "name": "Morning Yellow",
+    "code": "Y8 006",
+    "hexCode": "#FAC72E"
+  },
+  {
+    "id": "8bdff86b-349e-4a95-924a-848bd3ec0788",
+    "name": "It's My Life",
+    "code": "Y9 001",
+    "hexCode": "#F7EBC9"
+  },
+  {
+    "id": "846d6478-9c6e-4870-b5bf-2c5c924242a7",
+    "name": "Yellow Moss",
+    "code": "Y9 002",
+    "hexCode": "#FAE7B1"
+  },
+  {
+    "id": "1be77c27-e651-40ca-9d9a-c091c4822dbd",
+    "name": "Mango Glow",
+    "code": "Y9 003",
+    "hexCode": "#FCE39C"
+  },
+  {
+    "id": "5e652c5c-e2c4-4ce2-91de-9ef0154c4777",
+    "name": "Stay Together",
+    "code": "Y9 004",
+    "hexCode": "#FFDE7B"
+  },
+  {
+    "id": "a9c69d2d-ea12-4034-add2-8a918c673cab",
+    "name": "Daylight Surprise",
+    "code": "Y9 005",
+    "hexCode": "#FFD24B"
+  },
+  {
+    "id": "72a142e9-5b63-4353-b236-e310c381d870",
+    "name": "Funky Town",
+    "code": "Y9 006",
+    "hexCode": "#FCC20"
+  },
+  {
+    "id": "ddcb8016-ad2f-485f-a9a5-457e2d9c0852",
+    "name": "Dear Friend",
+    "code": "Y10 001",
+    "hexCode": "#F7EEC9"
+  },
+  {
+    "id": "2c17c8d8-5fd4-486b-ad41-9f9375fcb6c1",
+    "name": "Lemon Squash",
+    "code": "Y10 002",
+    "hexCode": "#FAEAB0"
+  },
+  {
+    "id": "449c275f-ffad-44fc-a26f-a946f5407816",
+    "name": "Golden Light",
+    "code": "Y10 003",
+    "hexCode": "#FDE89C"
+  },
+  {
+    "id": "fede06de-7b8f-407f-a4da-97552095f1d7",
+    "name": "Dance With Me",
+    "code": "Y10 004",
+    "hexCode": "#FEE58E"
+  },
+  {
+    "id": "384bae9e-93e3-43ee-b994-b18ccab5a0e1",
+    "name": "Sundown Supreme",
+    "code": "Y10 005",
+    "hexCode": "#FFD84B"
+  },
+  {
+    "id": "c27da512-9550-4ed6-92c4-a93eb69548c9",
+    "name": "Summer Paradise",
+    "code": "Y10 006",
+    "hexCode": "#FFC90"
+  },
+  {
+    "id": "7ffb3cbe-5b81-4a83-853a-5a4397f39cfc",
+    "name": "Cotton Bloom",
+    "code": "Y11 001",
+    "hexCode": "#F9EBC5"
+  },
+  {
+    "id": "98719a43-db1e-4e5a-8f8e-16bc8bd0e368",
+    "name": "Tasteful Yellow",
+    "code": "Y11 002",
+    "hexCode": "#FCE8B6"
+  },
+  {
+    "id": "0c6e00d9-44cc-4d74-83ef-0d93fc5f5ded",
+    "name": "Razzle Dazzle",
+    "code": "Y11 003",
+    "hexCode": "#FFE2A0"
+  },
+  {
+    "id": "43a4f390-e70a-42e7-b81e-ff358139629c",
+    "name": "Dancing Dandelion",
+    "code": "Y11 004",
+    "hexCode": "#FFDD8C"
+  },
+  {
+    "id": "4031c66e-5d6c-4570-8aee-a6cdf0060417",
+    "name": "Baby Giraffe",
+    "code": "Y11 005",
+    "hexCode": "#FFC94C"
+  },
+  {
+    "id": "e27db5ad-7c9a-43e7-b157-227b2f529e98",
+    "name": "Spicy Mustard",
+    "code": "Y11 006",
+    "hexCode": "#F0AB16"
+  },
+  {
+    "id": "ad9d77ce-bfa8-44e8-b791-fb11ef17946b",
+    "name": "Creamy Milkshake",
+    "code": "Y12 001",
+    "hexCode": "#F8EED4"
+  },
+  {
+    "id": "5a9fe084-f56b-4f18-95f7-db46ced9e5ef",
+    "name": "Uplifting Song",
+    "code": "Y12 002",
+    "hexCode": "#FAEBC6"
+  },
+  {
+    "id": "ea2bac45-4f6a-48f0-8f02-75158a2c7c0b",
+    "name": "Pollen Grains",
+    "code": "Y12 003",
+    "hexCode": "#FFE0A0"
+  },
+  {
+    "id": "e9657c06-9af8-4686-b28c-650ab59e6456",
+    "name": "Great Day",
+    "code": "Y12 004",
+    "hexCode": "#FFD689"
+  },
+  {
+    "id": "f66d7eeb-2e54-4b6e-ac07-488e7eeb1077",
+    "name": "Yellow Raincoat",
+    "code": "Y12 005",
+    "hexCode": "#FCBF50"
+  },
+  {
+    "id": "231c0739-809c-485d-91d3-690a430b1bae",
+    "name": "Pumpkin Risotto",
+    "code": "Y12 006",
+    "hexCode": "#F2A120"
+  },
+  {
+    "id": "127d8d17-e31d-4852-b656-846a0e53c7e0",
+    "name": "On Your Side",
+    "code": "Y13 001",
+    "hexCode": "#FAF0D8"
+  },
+  {
+    "id": "14fab8a0-3ea9-46b2-8cf7-879f4260e63a",
+    "name": "Light Humour",
+    "code": "Y13 002",
+    "hexCode": "#FFE4B8"
+  },
+  {
+    "id": "01a5792c-a1c4-43eb-925c-8d80b4c5197d",
+    "name": "Morning Stroll",
+    "code": "Y13 003",
+    "hexCode": "#FFD9A0"
+  },
+  {
+    "id": "cc4046ac-fa11-428e-8e52-9ab0feb19c47",
+    "name": "Riding High",
+    "code": "Y13 004",
+    "hexCode": "#FFCC85"
+  },
+  {
+    "id": "55ae65d2-c151-4ad1-8763-d318fbc94cff",
+    "name": "Glowing Flame",
+    "code": "Y13 005",
+    "hexCode": "#F7B14D"
+  },
+  {
+    "id": "68639116-0064-4928-b554-0bdc0acb2cc3",
+    "name": "Salted Caramel",
+    "code": "Y13 006",
+    "hexCode": "#DD912A"
+  },
+  {
+    "id": "05ab8be3-dd45-4bd3-8a8a-127fa281972c",
+    "name": "Yellow Glitter",
+    "code": "Y14 001",
+    "hexCode": "#FAE5C0"
+  },
+  {
+    "id": "37df4c11-49ed-4542-8140-f825e88dab17",
+    "name": "Healthy Glow",
+    "code": "Y14 002",
+    "hexCode": "#FFDDA6"
+  },
+  {
+    "id": "bdb01c9d-d3cb-4c94-b5bd-45f4eb95fc2e",
+    "name": "Soft Sponge",
+    "code": "Y14 003",
+    "hexCode": "#FFD088"
+  },
+  {
+    "id": "cc6040de-c96d-4c6e-95b3-948f01734ce6",
+    "name": "Acorn Squash",
+    "code": "Y14 004",
+    "hexCode": "#F5BC6F"
+  },
+  {
+    "id": "19be6a9f-d511-47cc-baad-6f2377ace4ae",
+    "name": "Friends For Life",
+    "code": "Y14 005",
+    "hexCode": "#E8A649"
+  },
+  {
+    "id": "9a17c1fc-6321-4cc1-8e95-4fb91185c3db",
+    "name": "Amber Blaze",
+    "code": "Y14 006",
+    "hexCode": "#E09C42"
+  },
+  {
+    "id": "f8343638-37d5-42e9-b5d7-f561282be9c7",
+    "name": "Just My Soul",
+    "code": "Y15 001",
+    "hexCode": "#F9E8C9"
+  },
+  {
+    "id": "f858642c-b11c-4aca-aea2-d80a67929e8e",
+    "name": "Lemon Chiffon",
+    "code": "Y15 002",
+    "hexCode": "#F9E2B6"
+  },
+  {
+    "id": "a1c4d547-7b75-488d-b807-404df9fc965c",
+    "name": "Twinkle Twinkle",
+    "code": "Y15 003",
+    "hexCode": "#FBD9A3"
+  },
+  {
+    "id": "3e2a6cd3-67b7-4c62-b26d-1995789162e4",
+    "name": "Energy Boost",
+    "code": "Y15 004",
+    "hexCode": "#F8CD8D"
+  },
+  {
+    "id": "4f654f91-a17c-431f-91d0-a124dd4d150f",
+    "name": "Yellow Brick Road",
+    "code": "Y15 005",
+    "hexCode": "#F3BE6B"
+  },
+  {
+    "id": "0f0e581c-a794-4b95-8325-0c977665a616",
+    "name": "Pecan Pie",
+    "code": "Y15 006",
+    "hexCode": "#C98E39"
+  },
+  {
+    "id": "d262e545-13d3-4f2e-8891-d968d1cb3a53",
+    "name": "Little Sandcastle",
+    "code": "Y16 001",
+    "hexCode": "#F8EAC8"
+  },
+  {
+    "id": "1dab77a2-4456-424e-afb8-c8a524a6a0de",
+    "name": "Dawn Dew",
+    "code": "Y16 002",
+    "hexCode": "#FAE5BB"
+  },
+  {
+    "id": "1210e521-bbc2-49ec-a4fa-7eb53433ddd0",
+    "name": "Inner Radiance",
+    "code": "Y16 003",
+    "hexCode": "#F2CF8D"
+  },
+  {
+    "id": "4b4c97d2-617f-41f1-a15c-133d3cc3b362",
+    "name": "Bright Spark",
+    "code": "Y16 004",
+    "hexCode": "#EFC16D"
+  },
+  {
+    "id": "f7845d1d-87ef-454d-a053-e78ac291cb6e",
+    "name": "Acoustic Spring",
+    "code": "Y16 005",
+    "hexCode": "#E1B059"
+  },
+  {
+    "id": "48d7c501-26c0-4762-871d-5c3c57e103e7",
+    "name": "Glorious Day",
+    "code": "Y16 006",
+    "hexCode": "#C69032"
+  },
+  {
+    "id": "7d7ca758-41d4-440f-b714-c5648f1b955e",
+    "name": "Light Of Day",
+    "code": "Y17 001",
+    "hexCode": "#F8EBC6"
+  },
+  {
+    "id": "450fbfc4-64ff-4a53-b42d-0bb84cb89378",
+    "name": "Float Away",
+    "code": "Y17 002",
+    "hexCode": "#FBEAB8"
+  },
+  {
+    "id": "55d8f856-25cb-41b8-886d-ff45dc66bde5",
+    "name": "Tropical Morning",
+    "code": "Y17 003",
+    "hexCode": "#FBE4A2"
+  },
+  {
+    "id": "819fa800-dff7-4364-bc17-028999ba79e0",
+    "name": "Moon Glow",
+    "code": "Y17 004",
+    "hexCode": "#FADB89"
+  },
+  {
+    "id": "1b765fca-ec63-47e9-afc7-ece491fa0de6",
+    "name": "Pineapple Slush",
+    "code": "Y17 005",
+    "hexCode": "#FBCB50"
+  },
+  {
+    "id": "aae4be6e-ce9a-40e3-bc8e-35490e591aaa",
+    "name": "Rich Delight",
+    "code": "Y17 006",
+    "hexCode": "#DDA926"
+  },
+  {
+    "id": "1c508070-13cb-4974-b545-56b4c279168a",
+    "name": "Quiet Times",
+    "code": "Y18 001",
+    "hexCode": "#F6E7C3"
+  },
+  {
+    "id": "fb94d69c-d56d-4a60-aa97-965de92e6500",
+    "name": "Sweet Oats",
+    "code": "Y18 002",
+    "hexCode": "#F9E6B6"
+  },
+  {
+    "id": "797081ca-bcbb-4b85-bd75-62653c9b8e67",
+    "name": "Hidden Sun",
+    "code": "Y18 003",
+    "hexCode": "#FAE29C"
+  },
+  {
+    "id": "7d26fb59-ca31-455d-85cd-f2deb43860df",
+    "name": "To The Stars",
+    "code": "Y18 004",
+    "hexCode": "#F6DB7C"
+  },
+  {
+    "id": "46d2221b-0f0e-40e2-b407-2dc2abc1a5b0",
+    "name": "Golden Kiwi",
+    "code": "Y18 005",
+    "hexCode": "#F0D158"
+  },
+  {
+    "id": "f69168cf-15aa-4bcf-816b-4baf276e1450",
+    "name": "Around You",
+    "code": "Y18 006",
+    "hexCode": "#EEC931"
+  },
+  {
+    "id": "c6219d7c-9564-4285-acc3-35f230d67702",
+    "name": "Water Lilies",
+    "code": "Y19 001",
+    "hexCode": "#FBEFCA"
+  },
+  {
+    "id": "19479500-2d09-4a3a-a88a-96f5adcd4a62",
+    "name": "Canola Butter",
+    "code": "Y19 002",
+    "hexCode": "#FAEDBF"
+  },
+  {
+    "id": "7dcdb525-1e51-42d8-978f-47964ca25d2f",
+    "name": "Yellow Ribbon",
+    "code": "Y19 003",
+    "hexCode": "#FCE7A7"
+  },
+  {
+    "id": "aef99bbd-af50-4d57-9aea-d5f42c8817db",
+    "name": "Honeysuckle",
+    "code": "Y19 004",
+    "hexCode": "#F7DE90"
+  },
+  {
+    "id": "a614d76b-50b5-4800-9b07-729529325666",
+    "name": "Butterscotch",
+    "code": "Y19 005",
+    "hexCode": "#F3D46E"
+  },
+  {
+    "id": "d49e250f-955e-4842-88fe-b2d488077954",
+    "name": "Wonder Struck",
+    "code": "Y19 006",
+    "hexCode": "#D6B031"
+  },
+  {
+    "id": "489d385d-1be9-4601-9f0b-5ef59b5cb3ed",
+    "name": "Mango Bliss",
+    "code": "Y20 002",
+    "hexCode": "#FAE7B9"
+  },
+  {
+    "id": "3d20050a-b55b-4d09-940c-6cf42705f4e0",
+    "name": "Sunflower Fields",
+    "code": "Y20 003",
+    "hexCode": "#F3DA98"
+  },
+  {
+    "id": "0d3fc608-e2e8-40cb-af26-025ac134110a",
+    "name": "Chandelier Sparkle",
+    "code": "Y20 004",
+    "hexCode": "#F0D382"
+  },
+  {
+    "id": "f5898b7e-3605-4fbf-8ffa-28d9045b2442",
+    "name": "Twisted Paths",
+    "code": "Y20 005",
+    "hexCode": "#DEBD58"
+  },
+  {
+    "id": "cbcfb51b-3c62-4d0f-8b43-1ec28eab8115",
+    "name": "Autumn Canopy",
+    "code": "Y20 006",
+    "hexCode": "#BD9A2F"
+  },
+  {
+    "id": "5e40f1aa-37be-4b19-a008-19a297655ca1",
+    "name": "Jade Palace",
+    "code": "G25-001",
+    "hexCode": "#51AFA5"
+  },
+  {
+    "id": "9b4c36d8-07b1-4c51-b082-fcc8c6510849",
+    "name": "Daydreamer Green",
+    "code": "G25-002",
+    "hexCode": "#7FD1CB"
+  },
+  {
+    "id": "9f26cc6c-60f5-488b-98e4-fcc66710b111",
+    "name": "Candy Green",
+    "code": "G25-003",
+    "hexCode": "#ACDAD7"
+  },
+  {
+    "id": "d8fc2fa5-0759-4f4c-bf5f-dc1ba71d466a",
+    "name": "Cool Crayon",
+    "code": "G25-004",
+    "hexCode": "#C6E2DC"
+  },
+  {
+    "id": "a56d2d40-c4d1-4a74-b32c-002fc9a5faa2",
+    "name": "Starlight",
+    "code": "G25-005",
+    "hexCode": "#DBE5DE"
+  },
+  {
+    "id": "9d742354-2dcf-4fb9-8bc5-761d66c936db",
+    "name": "Lush Forest",
+    "code": "G26-001",
+    "hexCode": "#1F9668"
+  },
+  {
+    "id": "9d32c616-71f4-4bb9-aca5-64bfc8a2d748",
+    "name": "Capella Garden",
+    "code": "G26-002",
+    "hexCode": "#70C5AB"
+  },
+  {
+    "id": "6923050a-bf44-4529-b0c5-62ec3585b151",
+    "name": "Clean Aqua",
+    "code": "G26-003",
+    "hexCode": "#B6E3CD"
+  },
+  {
+    "id": "daec454a-e064-42cc-b11b-ee01a6fd1fec",
+    "name": "Crystal Green",
+    "code": "G26-004",
+    "hexCode": "#D1EADB"
+  },
+  {
+    "id": "eb0e08c9-1481-4551-b40a-6f73df77004e",
+    "name": "Island Shore",
+    "code": "G26-005",
+    "hexCode": "#DFECDF"
+  },
+  {
+    "id": "7454349f-7bb1-4668-ab35-09a2abde2670",
+    "name": "Glen Green",
+    "code": "G27-001",
+    "hexCode": "#3B7A4C"
+  },
+  {
+    "id": "9e58a304-af9c-46c1-9c22-1601c2cc7c2e",
+    "name": "Fresh Zucchini",
+    "code": "G27-002",
+    "hexCode": "#99BB62"
+  },
+  {
+    "id": "d2e7e753-1a93-431d-ae70-5f794e605ec5",
+    "name": "Spring Harvest",
+    "code": "G27-003",
+    "hexCode": "#C3D698"
+  },
+  {
+    "id": "c72f2554-685b-4b8e-85f2-7029126a544a",
+    "name": "Evergreen Pastures",
+    "code": "G27-004",
+    "hexCode": "#D2E2B5"
+  },
+  {
+    "id": "3b623f96-22e8-4af3-81b1-9bc5eed8e423",
+    "name": "Apple Cider",
+    "code": "G27-005",
+    "hexCode": "#E9E9CD"
+  },
+  {
+    "id": "dcd7f0b3-3e6a-4595-aae1-6830b80313e3",
+    "name": "Deep Shamrock",
+    "code": "G28-001",
+    "hexCode": "#4F9138"
+  },
+  {
+    "id": "7ccd01c6-8a93-499b-ac49-bf0be07eab05",
+    "name": "Tasty Salad",
+    "code": "G28-002",
+    "hexCode": "#B1B12A"
+  },
+  {
+    "id": "31fd57d0-cba1-4681-b91c-d64764085b07",
+    "name": "National Park",
+    "code": "G28-003",
+    "hexCode": "#CAC753"
+  },
+  {
+    "id": "04d10494-2d26-4028-bc47-c8adf4fd9700",
+    "name": "Emerald Ring",
+    "code": "G28-004",
+    "hexCode": "#E0E6BD"
+  },
+  {
+    "id": "8d78c1a6-9671-462d-80df-9283ba648f67",
+    "name": "Urban Plains",
+    "code": "G28-005",
+    "hexCode": "#EDE8D1"
+  },
+  {
+    "id": "fdabe3c7-b4f8-4210-9d35-2d862b35a8e7",
+    "name": "One Tree Hill",
+    "code": "G29-001",
+    "hexCode": "#677240"
+  },
+  {
+    "id": "59f81702-6892-468b-bd1e-65ccd4eec7c7",
+    "name": "Flushing Meadows",
+    "code": "G29-002",
+    "hexCode": "#94A73E"
+  },
+  {
+    "id": "b037667f-3a93-4a69-be81-57361da5b5eb",
+    "name": "Lime Fizz",
+    "code": "G29-003",
+    "hexCode": "#DAD576"
+  },
+  {
+    "id": "e0a88f64-a0b5-4dc3-8d25-b95351cb3816",
+    "name": "Retro Green",
+    "code": "G29-004",
+    "hexCode": "#EADD94"
+  },
+  {
+    "id": "b5eac783-bc2d-4c7b-8c4f-64ab657eec0b",
+    "name": "Happy Daze",
+    "code": "G29-005",
+    "hexCode": "#EAE1AC"
+  },
+  {
+    "id": "a228a506-72fd-4f36-b59b-79268bf7ff44",
+    "name": "Steamed Tamago",
+    "code": "G1 001",
+    "hexCode": "#F5E9C4"
+  },
+  {
+    "id": "77324db4-a89c-4506-8fdd-f57d4bc0da96",
+    "name": "Smooth Morning",
+    "code": "G1 002",
+    "hexCode": "#F9EAAE"
+  },
+  {
+    "id": "973b993b-17ec-4c89-9f57-925dac4c4211",
+    "name": "Touching Poem",
+    "code": "G1 003",
+    "hexCode": "#EFE094"
+  },
+  {
+    "id": "ba1d00ac-64fb-462e-a405-2ba34d9174b2",
+    "name": "Apple Drops",
+    "code": "G1 004",
+    "hexCode": "#E6D470"
+  },
+  {
+    "id": "1597e38a-3d76-458f-8401-f62062afb4f2",
+    "name": "Sounds Of Nature",
+    "code": "G1 005",
+    "hexCode": "#DFC95B"
+  },
+  {
+    "id": "4ac6f47c-e1a6-4839-9a11-b3003cac6a43",
+    "name": "Great Plains",
+    "code": "G1 006",
+    "hexCode": "#C3AB34"
+  },
+  {
+    "id": "54053532-048f-4d95-816d-638f2b7e07dc",
+    "name": "Evening Star",
+    "code": "G2 001",
+    "hexCode": "#F7EABE"
+  },
+  {
+    "id": "be0006be-0975-4459-8b6a-5b3c582c577a",
+    "name": "Butter Pecan",
+    "code": "G2 002",
+    "hexCode": "#F7E8B2"
+  },
+  {
+    "id": "548cbf36-8843-4d79-a47f-db9b525ffc01",
+    "name": "Wild Tansy",
+    "code": "G2 003",
+    "hexCode": "#F5E292"
+  },
+  {
+    "id": "ba30816d-3dde-4749-8de5-bb8bbe862ae5",
+    "name": "Beauty Treat",
+    "code": "G2 004",
+    "hexCode": "#EDD564"
+  },
+  {
+    "id": "c480929a-bf11-4cea-90a4-c4f5042fd022",
+    "name": "Tropic Thunder",
+    "code": "G2 005",
+    "hexCode": "#E1CC4C"
+  },
+  {
+    "id": "261b6bb5-0fb3-42b6-b473-df74af682c43",
+    "name": "Everest Green",
+    "code": "G2 006",
+    "hexCode": "#D3BC34"
+  },
+  {
+    "id": "fb3f03c5-5813-4b39-ae91-a74d81efd304",
+    "name": "Warm Custard",
+    "code": "G3 001",
+    "hexCode": "#F0EBC0"
+  },
+  {
+    "id": "f352d749-9640-4a6e-aa0f-6dc64d604375",
+    "name": "Swaying Breeze",
+    "code": "G3 002",
+    "hexCode": "#EDE9B0"
+  },
+  {
+    "id": "548b1724-acdb-440e-8eef-7a006592f00f",
+    "name": "Flora Bella",
+    "code": "G3 003",
+    "hexCode": "#EBE28B"
+  },
+  {
+    "id": "0b1a9685-5958-45d6-9641-8749d0cfc750",
+    "name": "Avocado Shake",
+    "code": "G3 004",
+    "hexCode": "#E4DB69"
+  },
+  {
+    "id": "3a04a271-147b-4c3d-89b9-b16846c9f027",
+    "name": "Lime Light",
+    "code": "G3 005",
+    "hexCode": "#D9D550"
+  },
+  {
+    "id": "0d0f1d01-d82c-46c1-82f2-e0ba4c45fabf",
+    "name": "Springing Up",
+    "code": "G3 006",
+    "hexCode": "#D8C610"
+  },
+  {
+    "id": "4ccc03fa-de73-4f35-b454-f4920fdb4dbf",
+    "name": "Soft Whispers",
+    "code": "G4 001",
+    "hexCode": "#F2EEC9"
+  },
+  {
+    "id": "31fb1ea3-bb47-469a-abd9-3dc6d6178315",
+    "name": "Clean Mint",
+    "code": "G4 002",
+    "hexCode": "#ECECB8"
+  },
+  {
+    "id": "a319213b-65b2-41e0-ae75-ea9d4f347f66",
+    "name": "Rose Green",
+    "code": "G4 003",
+    "hexCode": "#E1DF8C"
+  },
+  {
+    "id": "228582d0-1c7e-4931-b210-fac1e6e35177",
+    "name": "Safari Tour",
+    "code": "G4 004",
+    "hexCode": "#DADA7F"
+  },
+  {
+    "id": "64af87dc-f687-4719-b993-e5a9cd944be4",
+    "name": "Cute Caterpillar",
+    "code": "G4 005",
+    "hexCode": "#C7CD57"
+  },
+  {
+    "id": "06211530-3e0f-4459-a98f-06daf61f8fab",
+    "name": "Green Pea",
+    "code": "G4 006",
+    "hexCode": "#96B229"
+  },
+  {
+    "id": "c9bf8645-2dfe-425c-aed9-79fd6c6d8abb",
+    "name": "Soothing Breeze",
+    "code": "G5 001",
+    "hexCode": "#EFEECE"
+  },
+  {
+    "id": "9615f76b-642b-4bc7-ad25-0f13f8ca3ecf",
+    "name": "Welcome Home",
+    "code": "G5 002",
+    "hexCode": "#EDEDC5"
+  },
+  {
+    "id": "c727a7f5-302e-443c-81f3-6e16b7ed1f3a",
+    "name": "Cabbage Coleslaw",
+    "code": "G5 003",
+    "hexCode": "#E7E8B4"
+  },
+  {
+    "id": "f96c184a-7f0b-4f18-a977-66702e5b3928",
+    "name": "Mint Soap",
+    "code": "G5 004",
+    "hexCode": "#4249F"
+  },
+  {
+    "id": "b4785334-c62e-4ea8-99a4-4325c3bcf8a4",
+    "name": "Pear Bites",
+    "code": "G5 005",
+    "hexCode": "#C2C55D"
+  },
+  {
+    "id": "45119da7-68b1-4abe-b77c-26414a6f5bbd",
+    "name": "Olive Fields",
+    "code": "G5 006",
+    "hexCode": "#A2A232"
+  },
+  {
+    "id": "70e2ee26-a1ce-429a-a5e7-8fb54b938f5c",
+    "name": "First Flight",
+    "code": "G6 001",
+    "hexCode": "#EFEECF"
+  },
+  {
+    "id": "c51f1962-e53b-4a6a-b0b7-61962e2a83dd",
+    "name": "Gentle Wind",
+    "code": "G6 002",
+    "hexCode": "#E9E6B3"
+  },
+  {
+    "id": "1fdaa49e-8423-4336-bab1-94f5601f60bf",
+    "name": "Legacy Green",
+    "code": "G6 003",
+    "hexCode": "#DFDF9C"
+  },
+  {
+    "id": "dd25036e-1f71-4672-95cf-3064fb485531",
+    "name": "Peridot Gems",
+    "code": "G6 004",
+    "hexCode": "#CED281"
+  },
+  {
+    "id": "346c5ee8-4290-49cf-bc5a-b9798e042950",
+    "name": "Conifer Forests",
+    "code": "G6 005",
+    "hexCode": "#B9C159"
+  },
+  {
+    "id": "bc7fe462-c911-4c97-8e34-921d225ddad0",
+    "name": "Grass Land",
+    "code": "G6 006",
+    "hexCode": "#8C9F37"
+  },
+  {
+    "id": "d81b9ddc-69e5-41ca-a0fc-3dc113c87e16",
+    "name": "Spa Dream",
+    "code": "G7 001",
+    "hexCode": "#EDEFCD"
+  },
+  {
+    "id": "e3cd1bcc-40a8-4da8-a9dd-24d5813742f0",
+    "name": "Mellow Dinner",
+    "code": "G7 002",
+    "hexCode": "#E5ECB7"
+  },
+  {
+    "id": "884c3d3e-9e5e-4048-942f-a95041e36f84",
+    "name": "Fresh Smile",
+    "code": "G7 003",
+    "hexCode": "#DAE6A3"
+  },
+  {
+    "id": "9b65ffbe-e86c-465a-afaa-26bf943409f1",
+    "name": "Wheatgrass Jello",
+    "code": "G7 004",
+    "hexCode": "#D0DE8C"
+  },
+  {
+    "id": "a5e9aa46-7538-4603-83a0-5789fda74176",
+    "name": "Lively Lime",
+    "code": "G7 005",
+    "hexCode": "#B0CB56"
+  },
+  {
+    "id": "d6391b09-74b1-4078-b7f9-f0cc6c907ffc",
+    "name": "Rolling Fields",
+    "code": "G7 006",
+    "hexCode": "#85B436"
+  },
+  {
+    "id": "d5a052c3-9120-4e3c-bacd-b0c5aa17b700",
+    "name": "Beauty World",
+    "code": "G8 001",
+    "hexCode": "#EAEFCD"
+  },
+  {
+    "id": "30089733-30db-48f6-b6a4-41c53199c99b",
+    "name": "Spear Mint",
+    "code": "G8 002",
+    "hexCode": "#E5E9BA"
+  },
+  {
+    "id": "3f7e07f2-62a0-4e6a-814f-06aa52e77344",
+    "name": "Rest & Relax",
+    "code": "G8 003",
+    "hexCode": "#DCE4AA"
+  },
+  {
+    "id": "5692972f-dccf-466c-a478-56141dfeda86",
+    "name": "Lily Pads",
+    "code": "G8 004",
+    "hexCode": "#D0DA95"
+  },
+  {
+    "id": "dc71c43c-e1b0-4a41-b57e-bd35d7bc06ae",
+    "name": "Seasonal Forest",
+    "code": "G8 005",
+    "hexCode": "#B2C461"
+  },
+  {
+    "id": "88ca68fb-a922-4add-8668-312de7d28875",
+    "name": "Green Living",
+    "code": "G8 006",
+    "hexCode": "#92A234"
+  },
+  {
+    "id": "4b9d1122-09fb-490a-89bb-351f26ccfd2f",
+    "name": "Sugar Mint",
+    "code": "G9 001",
+    "hexCode": "#E5EBCD"
+  },
+  {
+    "id": "62e333b0-382b-4237-bf37-eabc735e1ffb",
+    "name": "Hold Me Tight",
+    "code": "G9 002",
+    "hexCode": "#DEE8B9"
+  },
+  {
+    "id": "7f19350d-21c3-4f57-aa6c-2c096265af1f",
+    "name": "Matcha Love",
+    "code": "G9 003",
+    "hexCode": "#D3E2A2"
+  },
+  {
+    "id": "918e34b1-036b-4843-aab0-65728fe6b78f",
+    "name": "Salad Kitchen",
+    "code": "G9 004",
+    "hexCode": "#BED17B"
+  },
+  {
+    "id": "873f629e-2a86-408e-ac24-817f29dcfd21",
+    "name": "Run Wild",
+    "code": "G9 005",
+    "hexCode": "#98B542"
+  },
+  {
+    "id": "88b821a5-aaf1-4ea1-ab95-da48166f2c58",
+    "name": "Enchanted Rainforest",
+    "code": "G9 006",
+    "hexCode": "#8FA643"
+  },
+  {
+    "id": "3f61206b-da77-4e48-906a-24d405665f1b",
+    "name": "Summer Breeze",
+    "code": "G10 001",
+    "hexCode": "#EAEED5"
+  },
+  {
+    "id": "08b1db26-d450-4c9d-ad48-39597893f776",
+    "name": "Peaceful Countryside",
+    "code": "G10 002",
+    "hexCode": "#E6EACC"
+  },
+  {
+    "id": "1e2a6a7f-6044-4b8b-a1bf-e688f8506141",
+    "name": "Daily Lift",
+    "code": "G10 003",
+    "hexCode": "#DDE5BF"
+  },
+  {
+    "id": "d162cb31-0aa2-42c0-8e2a-a27236daec14",
+    "name": "Pistachio Cake",
+    "code": "G10 004",
+    "hexCode": "#BDCD97"
+  },
+  {
+    "id": "9385cf63-0f6d-490b-b236-1ff8175ec19f",
+    "name": "Nebraska Creek",
+    "code": "G10 005",
+    "hexCode": "#9AAD66"
+  },
+  {
+    "id": "9236c69a-8e1c-431e-a938-1a8f28c9c5cc",
+    "name": "Crispy Seaweed",
+    "code": "G10 006",
+    "hexCode": "#7C9248"
+  },
+  {
+    "id": "75c2a963-e2d2-41da-beb3-db512026331c",
+    "name": "Heavenly Hills",
+    "code": "G11 001",
+    "hexCode": "#E8EDCD"
+  },
+  {
+    "id": "62c5e50d-3071-4cb4-9c6d-0de59dab9088",
+    "name": "Refreshing Weekend",
+    "code": "G11 002",
+    "hexCode": "#D9E6B5"
+  },
+  {
+    "id": "7d404b13-3c15-46fc-b224-d6ccb3d76f36",
+    "name": "Pasture Weeds",
+    "code": "G11 003",
+    "hexCode": "#CEDF9E"
+  },
+  {
+    "id": "90adbe6c-29d4-4982-8ccf-7140fe4b2e27",
+    "name": "Tree Of Life",
+    "code": "G11 004",
+    "hexCode": "#B8D484"
+  },
+  {
+    "id": "2b9bd538-df19-47b5-bde7-8a51ceb6ffad",
+    "name": "Nature's Path",
+    "code": "G11 005",
+    "hexCode": "#9BC364"
+  },
+  {
+    "id": "bc856b59-40a0-47ec-85b1-35890b910843",
+    "name": "Mistletoe's Kiss",
+    "code": "G11 006",
+    "hexCode": "#7CAC31"
+  },
+  {
+    "id": "c92d698b-891e-4562-b562-a68f70ac0ec9",
+    "name": "Alpine Meadows",
+    "code": "G12 001",
+    "hexCode": "#E5EDCC"
+  },
+  {
+    "id": "342f2a11-c6de-4914-b01c-d2712bb1c6ff",
+    "name": "Soothing Aloe",
+    "code": "G12 002",
+    "hexCode": "#DBE8C0"
+  },
+  {
+    "id": "ae3e2e0e-add6-4b2a-8faa-86c0123390a2",
+    "name": "Fresh Nature",
+    "code": "G12 003",
+    "hexCode": "#CEE1AE"
+  },
+  {
+    "id": "8a614de0-c2f2-4647-9672-de568c809bab",
+    "name": "Island Kiss",
+    "code": "G12 004",
+    "hexCode": "#C0D79B"
+  },
+  {
+    "id": "5e97b727-f25f-4e4e-8ba1-1c9491b84979",
+    "name": "Spring Vines",
+    "code": "G12 005",
+    "hexCode": "#96BD69"
+  },
+  {
+    "id": "ae14e2c2-a4be-48c1-b7e9-3e0bfb5372f3",
+    "name": "French Beans",
+    "code": "G12 006",
+    "hexCode": "#6C9D43"
+  },
+  {
+    "id": "ebdc7dc0-fe73-438b-a1ca-d70b58280989",
+    "name": "Long Way Home",
+    "code": "G13 001",
+    "hexCode": "#E7EFD8"
+  },
+  {
+    "id": "55421de7-eaa5-4afe-acfb-8851101cca1c",
+    "name": "Beryl Jewel",
+    "code": "G13 002",
+    "hexCode": "#D8EBC7"
+  },
+  {
+    "id": "cf1ef718-2e47-4ca2-9892-fa3375614f95",
+    "name": "Eden's Garden",
+    "code": "G13 003",
+    "hexCode": "#C5E2AD"
+  },
+  {
+    "id": "6d7aeb1d-72e6-4267-b846-178695b00ca4",
+    "name": "Lucky Clover",
+    "code": "G13 004",
+    "hexCode": "#ADD58F"
+  },
+  {
+    "id": "784f7ea7-656f-44c0-9b7e-dd20606dfd49",
+    "name": "Fern Canyon",
+    "code": "G13 005",
+    "hexCode": "#88C167"
+  },
+  {
+    "id": "85c3c121-332e-412e-ac66-f1507c87120c",
+    "name": "Think Green",
+    "code": "G13 006",
+    "hexCode": "#3C9C4A"
+  },
+  {
+    "id": "382eb2cf-4c11-49b5-97db-e9de98bf4b55",
+    "name": "Mythical Green",
+    "code": "G14 001",
+    "hexCode": "#DDECCE"
+  },
+  {
+    "id": "c8c16313-859d-453a-be97-382bef29b72b",
+    "name": "Brighten My Day",
+    "code": "G14 002",
+    "hexCode": "#D0E9C6"
+  },
+  {
+    "id": "62235eff-d9f8-4425-a330-7d81ec4a8b87",
+    "name": "Jade Lake",
+    "code": "G14 003",
+    "hexCode": "#B8E1AA"
+  },
+  {
+    "id": "2b8164f5-960a-4081-aa1d-0974423d3ba7",
+    "name": "Wild Beats",
+    "code": "G14 004",
+    "hexCode": "#92CA7F"
+  },
+  {
+    "id": "584f6e36-5b8f-488c-8b70-e3a855d9565a",
+    "name": "Natural Habitat",
+    "code": "G14 005",
+    "hexCode": "#73B75D"
+  },
+  {
+    "id": "c4fd118e-f938-4266-8e23-54038a9ea8de",
+    "name": "Rainforest Green",
+    "code": "G14 006",
+    "hexCode": "#56953A"
+  },
+  {
+    "id": "dd7d4a1b-cfe7-4887-bf28-2dba9d970dee",
+    "name": "Highland Mountain",
+    "code": "G15 001",
+    "hexCode": "#D7EDCE"
+  },
+  {
+    "id": "3849ae0d-da80-4fd8-9db3-fc26b9490739",
+    "name": "Energy Run",
+    "code": "G15 002",
+    "hexCode": "#CDE8C3"
+  },
+  {
+    "id": "fcc38d77-6188-43b8-b8b8-16c54abe0225",
+    "name": "Beautiful Story",
+    "code": "G15 003",
+    "hexCode": "#BFE1B5"
+  },
+  {
+    "id": "ba545e5c-b093-41d1-857c-0e59348b4932",
+    "name": "Fresh Mint",
+    "code": "G15 004",
+    "hexCode": "#A8D7A0"
+  },
+  {
+    "id": "0741fb8d-d61c-4d1d-b4a1-e580d2de8f83",
+    "name": "Green With Envy",
+    "code": "G15 005",
+    "hexCode": "#85C075"
+  },
+  {
+    "id": "0bfae4d2-3cc9-4019-b762-cb0c8021bf81",
+    "name": "Broccoli Blend",
+    "code": "G15 006",
+    "hexCode": "#529B49"
+  },
+  {
+    "id": "a53c0030-a1ed-40a8-8b94-7660629c3a63",
+    "name": "Sweet Meadows",
+    "code": "G16 001",
+    "hexCode": "#D4EAD0"
+  },
+  {
+    "id": "ce5dd137-8e72-412c-a713-512d5494e1be",
+    "name": "Something Good",
+    "code": "G16 002",
+    "hexCode": "#C8E6BF"
+  },
+  {
+    "id": "89459dbe-9a2d-476e-a2c7-8fee327ebbce",
+    "name": "Safe & Sound",
+    "code": "G16 003",
+    "hexCode": "#B0E0B3"
+  },
+  {
+    "id": "dc5979e0-3076-47c6-adf1-d1bb69f956dc",
+    "name": "Kiwi Farm",
+    "code": "G16 004",
+    "hexCode": "#9BD7A3"
+  },
+  {
+    "id": "62bcad19-c4e2-454a-a778-f80d47040e79",
+    "name": "Keep Calm",
+    "code": "G16 005",
+    "hexCode": "#7ECA84"
+  },
+  {
+    "id": "e463c575-425b-4488-b512-9c188e1c169a",
+    "name": "Imperial Jade",
+    "code": "G16 006",
+    "hexCode": "#408E53"
+  },
+  {
+    "id": "005719bf-e67f-47b9-97cb-eff9f771801d",
+    "name": "All Of Me",
+    "code": "G17 001",
+    "hexCode": "#CEECD3"
+  },
+  {
+    "id": "fa47c80c-3e2e-4504-8d84-83e8d4a9bbbe",
+    "name": "Tiny Seeds",
+    "code": "G17 002",
+    "hexCode": "#BCE2C6"
+  },
+  {
+    "id": "915db249-da13-490f-9101-e07a9fcae306",
+    "name": "In Harmony",
+    "code": "G17 003",
+    "hexCode": "#A9DCB9"
+  },
+  {
+    "id": "76feff32-70fd-4829-ac38-adb0fe427f32",
+    "name": "Healthy Lifestyle",
+    "code": "G17 004",
+    "hexCode": "#91D0A4"
+  },
+  {
+    "id": "8b306baf-a794-4710-b06b-d5277f3629e9",
+    "name": "Whispering Willow",
+    "code": "G17 005",
+    "hexCode": "#62B378"
+  },
+  {
+    "id": "a0a97b61-8d57-4da4-8a50-b61aa47af095",
+    "name": "Majestic Green",
+    "code": "G17 006",
+    "hexCode": "#399760"
+  },
+  {
+    "id": "04461e31-157a-436f-a111-c918be143070",
+    "name": "Frozen Mint",
+    "code": "G18 001",
+    "hexCode": "#D6EBD9"
+  },
+  {
+    "id": "a073ad4a-bd2e-467a-92c4-0898a1cb1ec3",
+    "name": "Organic Green",
+    "code": "G18 002",
+    "hexCode": "#C8E8D0"
+  },
+  {
+    "id": "c7598e09-eb4c-4182-a9e3-e771da163291",
+    "name": "Vegetable Garden",
+    "code": "G18 003",
+    "hexCode": "#B6E3C3"
+  },
+  {
+    "id": "0360a8cd-f2a9-44b9-a9de-cecd43f61a5f",
+    "name": "Palm Springs",
+    "code": "G18 004",
+    "hexCode": "#88CDA0"
+  },
+  {
+    "id": "01d7eb90-02c1-4d5e-a719-45f60f3cc49f",
+    "name": "Emerald Coast",
+    "code": "G18 005",
+    "hexCode": "#52B176"
+  },
+  {
+    "id": "90e890fb-459e-4b10-b03f-8266dbef8591",
+    "name": "Green Lantern",
+    "code": "G18 006",
+    "hexCode": "#F9A63"
+  },
+  {
+    "id": "45232f69-b76c-4393-bcfe-b84049cc6a92",
+    "name": "Highland Plains",
+    "code": "G19 001",
+    "hexCode": "#D0ECDD"
+  },
+  {
+    "id": "e7687e45-66f5-4cc4-9b6f-e42e1eee790a",
+    "name": "Natural World",
+    "code": "G19 002",
+    "hexCode": "#C7E9D6"
+  },
+  {
+    "id": "1f2835eb-5a9d-4dda-9946-a7a12ce6c0ba",
+    "name": "Fresh Lettuce",
+    "code": "G19 003",
+    "hexCode": "#B2E6CB"
+  },
+  {
+    "id": "aa11730d-82fc-4c73-9738-8819283d89be",
+    "name": "Lush Landscape",
+    "code": "G19 004",
+    "hexCode": "#89D3B0"
+  },
+  {
+    "id": "6cff157b-bb14-4c2b-b3d1-96980f745df5",
+    "name": "St Patrick's Day",
+    "code": "G19 005",
+    "hexCode": "#2FAE7A"
+  },
+  {
+    "id": "d5f225f7-d90e-4f93-8186-dbe14a5f0a45",
+    "name": "Savannah's Grace",
+    "code": "G19 006",
+    "hexCode": "#359762"
+  },
+  {
+    "id": "0a221312-8bae-49e5-b3e8-bc8130c7d731",
+    "name": "Gentle Care",
+    "code": "G20 001",
+    "hexCode": "#C2EAD7"
+  },
+  {
+    "id": "85ac19a3-da1e-4ac6-a85b-f94d5f2444c3",
+    "name": "Dinner Music",
+    "code": "G20 002",
+    "hexCode": "#B3E6D0"
+  },
+  {
+    "id": "c2095709-96ef-41c5-8fe5-56395f1f91c4",
+    "name": "Aurora Lights",
+    "code": "G20 003",
+    "hexCode": "#94DBC0"
+  },
+  {
+    "id": "30e8ccca-0367-4c49-b70f-92050ffbd317",
+    "name": "Green Topaz",
+    "code": "G20 004",
+    "hexCode": "#7ED3B0"
+  },
+  {
+    "id": "ab5615bc-d685-47f7-8f2a-ae06c57b83c5",
+    "name": "Take A Hike",
+    "code": "G20 005",
+    "hexCode": "#45B585"
+  },
+  {
+    "id": "4a0a0581-e8be-4f8e-a15e-6f826d0f5ba7",
+    "name": "Great Springfield",
+    "code": "G20 006",
+    "hexCode": "#09665"
+  },
+  {
+    "id": "376457e3-df6a-433c-8649-1de3c815dfc8",
+    "name": "Feels Like Home",
+    "code": "G21 001",
+    "hexCode": "#C8EAD8"
+  },
+  {
+    "id": "fb43fae2-9f57-4f51-b7a9-c42183e2b3b4",
+    "name": "Rejuvenating Springs",
+    "code": "G21 002",
+    "hexCode": "#AEE1CC"
+  },
+  {
+    "id": "5565cd62-4dc2-4132-982b-78c757fe2705",
+    "name": "Nursery Rhymes",
+    "code": "G21 003",
+    "hexCode": "#96DABE"
+  },
+  {
+    "id": "63ccdbe0-c2eb-466f-a9b8-4855b222e854",
+    "name": "Valley Of Flowers",
+    "code": "G21 004",
+    "hexCode": "#81CFAF"
+  },
+  {
+    "id": "9c58cb02-c1ec-410b-baab-db05020684e5",
+    "name": "Calming Forest",
+    "code": "G21 005",
+    "hexCode": "#47AF82"
+  },
+  {
+    "id": "8d9391e7-5b64-4326-9d72-cb39f72fd04d",
+    "name": "Rustling Leaves",
+    "code": "G21 006",
+    "hexCode": "#228354"
+  },
+  {
+    "id": "7cc1a2e3-8bb2-4687-b8d4-f5865f626e4c",
+    "name": "Happy Hits",
+    "code": "G22 001",
+    "hexCode": "#CDE9D9"
+  },
+  {
+    "id": "3998a91c-e0e4-4ad7-a536-a8ce01ee24e2",
+    "name": "Green Gemstone",
+    "code": "G22 002",
+    "hexCode": "#B0E4CD"
+  },
+  {
+    "id": "60bec9b0-fe77-4adf-8a96-859cfc656ce2",
+    "name": "Mood Booster",
+    "code": "G22 003",
+    "hexCode": "#B1E4D2"
+  },
+  {
+    "id": "6ca479fb-439b-4ed7-b2cb-ccb3e3be1a1d",
+    "name": "Green Army",
+    "code": "G22 004",
+    "hexCode": "#72CCB0"
+  },
+  {
+    "id": "b8bb0391-4f00-41b2-9367-bdaf8dd13963",
+    "name": "Great Outdoors",
+    "code": "G22 005",
+    "hexCode": "#71C8A3"
+  },
+  {
+    "id": "6ce43d16-9a2b-49a9-b226-0857d933c822",
+    "name": "Prickly Cactus",
+    "code": "G22 006",
+    "hexCode": "#387465"
+  },
+  {
+    "id": "2a3adbba-4c17-4b48-b781-a4cae266adf5",
+    "name": "Just Smile",
+    "code": "G23 001",
+    "hexCode": "#C7E6DB"
+  },
+  {
+    "id": "a9e48cb7-791b-43db-929b-85f862a9dd03",
+    "name": "Deep Focus",
+    "code": "G23 002",
+    "hexCode": "#B6E2D4"
+  },
+  {
+    "id": "acc8a077-851c-4f97-b469-45c06430922e",
+    "name": "Seize The Day",
+    "code": "G23 003",
+    "hexCode": "#9DD5C4"
+  },
+  {
+    "id": "0ac80a93-4889-4d06-9273-6be8019f3bff",
+    "name": "Graceful Green",
+    "code": "G23 004",
+    "hexCode": "#83C9B7"
+  },
+  {
+    "id": "4ff7fcba-304d-40ae-8157-1fcd08910d36",
+    "name": "Treetop Trek",
+    "code": "G23 005",
+    "hexCode": "#4EA38B"
+  },
+  {
+    "id": "ef0bb120-e2d2-4ee4-9a10-c7b392822812",
+    "name": "Grand Terrapin",
+    "code": "G23 006",
+    "hexCode": "#357F66"
+  },
+  {
+    "id": "1174bcb6-e20e-46ad-a1b5-3b3c0e0ba2b1",
+    "name": "Green Therapy",
+    "code": "G24 001",
+    "hexCode": "#BCE8DE"
+  },
+  {
+    "id": "c79acff1-b96f-492a-baf6-ea7e3c5322ac",
+    "name": "Exotic Green",
+    "code": "G24 002",
+    "hexCode": "#A5E4D8"
+  },
+  {
+    "id": "51dc1c81-d0ca-4023-8a0b-513326fc77e6",
+    "name": "Day Dreamer",
+    "code": "G24 003",
+    "hexCode": "#88D9CC"
+  },
+  {
+    "id": "e7e234a6-71e6-45c6-b049-442fca036f1b",
+    "name": "Garden Wigglers",
+    "code": "G24 004",
+    "hexCode": "#6BD0C1"
+  },
+  {
+    "id": "ad279701-f82c-4cc5-a115-c3665646acd8",
+    "name": "Maze Runner",
+    "code": "G24 005",
+    "hexCode": "#5AF98"
+  },
+  {
+    "id": "88a7e8f0-b7d9-4604-b88c-799c4ac5e96a",
+    "name": "Spinach Dip",
+    "code": "G24 006",
+    "hexCode": "#07A66"
+  },
+  {
+    "id": "1af42f23-75f1-4e88-8f57-18e4323f71ae",
+    "name": "Merry Men",
+    "code": "G25 001",
+    "hexCode": "#C1E7DD"
+  },
+  {
+    "id": "be8e6598-d8c6-423e-8560-f489c8612b34",
+    "name": "Pinetree Grove",
+    "code": "G25 002",
+    "hexCode": "#A9E0D7"
+  },
+  {
+    "id": "4d6fdc38-1c88-4f9a-9f32-c7ebd8adb124",
+    "name": "Pristine Lawn",
+    "code": "G25 003",
+    "hexCode": "#95D6CC"
+  },
+  {
+    "id": "7513e110-f9f4-4145-97ef-b2ca7a30af5f",
+    "name": "Little Tree",
+    "code": "G25 004",
+    "hexCode": "#7ACBBF"
+  },
+  {
+    "id": "55975d5b-14b0-431c-bd31-81bbb3185d23",
+    "name": "Spring Break",
+    "code": "G25 005",
+    "hexCode": "#3AA595"
+  },
+  {
+    "id": "2098ab44-9aff-4481-bc55-371fe501786d",
+    "name": "Mellow Beats",
+    "code": "G25 006",
+    "hexCode": "#147F6D"
+  },
+  {
+    "id": "e15b7bb2-0bc8-4f6c-9d06-220cce7f7752",
+    "name": "Timeless Green",
+    "code": "G26 001",
+    "hexCode": "#BCE6E1"
+  },
+  {
+    "id": "4986e576-e039-4ea4-b266-3aa921c80c3b",
+    "name": "Modern Soul",
+    "code": "G26 002",
+    "hexCode": "#ABE2DE"
+  },
+  {
+    "id": "209a01f4-f3bc-4d29-94d0-77531a0155af",
+    "name": "Garden Dance",
+    "code": "G26 003",
+    "hexCode": "#8AD5D3"
+  },
+  {
+    "id": "ea573192-6337-4534-8f19-daaa7455820d",
+    "name": "Green Oasis",
+    "code": "G26 004",
+    "hexCode": "#41B7B3"
+  },
+  {
+    "id": "76ec8aa6-cb59-4f31-8fa2-5af819eb3794",
+    "name": "Bay Of Plenty",
+    "code": "G26 005",
+    "hexCode": "#DA6A3"
+  },
+  {
+    "id": "67aed69c-46b3-4097-9bd3-7f7dd48946c6",
+    "name": "Heartland Drive",
+    "code": "G26 006",
+    "hexCode": "#0908D"
+  },
+  {
+    "id": "0fa328e8-9268-4c12-ba15-6acb21d13c86",
+    "name": "Happy Place",
+    "code": "G27 001",
+    "hexCode": "#D7EFE8"
+  },
+  {
+    "id": "54f29ce1-ed57-420b-ab48-ee3b5d6c65e1",
+    "name": "Awake My Soul",
+    "code": "G27 002",
+    "hexCode": "#BCE9E2"
+  },
+  {
+    "id": "df2194c3-191b-494e-b733-66a081dbb227",
+    "name": "Smooth Jazz",
+    "code": "G27 003",
+    "hexCode": "#94DCD6"
+  },
+  {
+    "id": "62339d85-dd83-4b50-9ede-801776100079",
+    "name": "Green Tea Party",
+    "code": "G27 004",
+    "hexCode": "#5BCAC2"
+  },
+  {
+    "id": "924cc74e-5409-4937-9227-4cb954c521e6",
+    "name": "Teal Burst",
+    "code": "G27 005",
+    "hexCode": "#0AA9B"
+  },
+  {
+    "id": "5278b975-edc6-4723-943c-cbe4c50f1789",
+    "name": "Iconic Green",
+    "code": "G27 006",
+    "hexCode": "#0847E"
+  },
+  {
+    "id": "0b2ed2e5-e016-4559-9498-7ae0dee97741",
+    "name": "Sweet Whisper",
+    "code": "G28 001",
+    "hexCode": "#E5F0E8"
+  },
+  {
+    "id": "8300d9a4-6832-4905-b343-4b506ec445eb",
+    "name": "Healing Power",
+    "code": "G28 002",
+    "hexCode": "#C6EAE7"
+  },
+  {
+    "id": "e17e29b9-a3c6-40e7-ae65-43bc9e1612d9",
+    "name": "Aquatic Avenue",
+    "code": "G28 003",
+    "hexCode": "#9EE0DC"
+  },
+  {
+    "id": "6d27e6f6-82af-4235-838a-0110a46f7b4f",
+    "name": "7th Heaven",
+    "code": "G28 004",
+    "hexCode": "#7BD2CF"
+  },
+  {
+    "id": "72de5f36-b8df-4bb0-afee-6e74f3d5eac6",
+    "name": "Sapphire Stone",
+    "code": "G28 005",
+    "hexCode": "#0A9A4"
+  },
+  {
+    "id": "2bcaff3c-37bc-42af-b64a-5e06b2475a40",
+    "name": "Truly Green",
+    "code": "G28 006",
+    "hexCode": "#06D65"
+  },
+  {
+    "id": "dff303d4-a47a-45f3-a77e-ef8bbd7842b8",
+    "name": "Turquoise Mist",
+    "code": "G29 001",
+    "hexCode": "#BCE7E4"
+  },
+  {
+    "id": "cc171698-594f-441c-afc7-3151fe24fe78",
+    "name": "Tiffany's Room",
+    "code": "G29 002",
+    "hexCode": "#A5E0DD"
+  },
+  {
+    "id": "f6d68bd5-2cc3-4728-845c-1a693fae8dd2",
+    "name": "Picturesque Bay",
+    "code": "G29 003",
+    "hexCode": "#85D5D4"
+  },
+  {
+    "id": "1cd9b963-44cf-49d9-b54f-a3442f58c3ba",
+    "name": "River Cruise",
+    "code": "G29 004",
+    "hexCode": "#63C9CB"
+  },
+  {
+    "id": "9cd8ad41-fd69-4b47-9495-592cd98b74f7",
+    "name": "Far From Home",
+    "code": "G29 005",
+    "hexCode": "#2EB8B7"
+  },
+  {
+    "id": "76270c92-a353-42d2-9e7a-5d82c9f8a1cd",
+    "name": "Vivid Green",
+    "code": "G29 006",
+    "hexCode": "#07773"
+  },
+  {
+    "id": "70f5923d-1f0d-4a99-8a85-5fb7b56d2d50",
+    "name": "Halo Halo",
+    "code": "G30 001",
+    "hexCode": "#BBE1E1"
+  },
+  {
+    "id": "383f0600-a227-43fc-a2f9-02a7ae3b10be",
+    "name": "Surf & Turf",
+    "code": "G30 002",
+    "hexCode": "#A7DCDE"
+  },
+  {
+    "id": "b9727e89-e407-4c17-bf61-ce168adddf87",
+    "name": "Splish Splash",
+    "code": "G30 003",
+    "hexCode": "#85CED4"
+  },
+  {
+    "id": "b7461bf8-613f-4671-905d-0ce23677fe47",
+    "name": "Cascading Crystals",
+    "code": "G30 004",
+    "hexCode": "#63C3CA"
+  },
+  {
+    "id": "3a174d8a-ac71-4db0-a864-f14627adda55",
+    "name": "Bay Of Hope",
+    "code": "G30 005",
+    "hexCode": "#09FA6"
+  },
+  {
+    "id": "282b46c0-da20-4436-9ce8-c08051f5b2eb",
+    "name": "Heaven Scent",
+    "code": "G30 006",
+    "hexCode": "#07F87"
+  },
+  {
+    "id": "80874fe5-d486-4ab8-88b9-e0ed2976d881",
+    "name": "True Reflection",
+    "code": "G31 001",
+    "hexCode": "#BEE5E6"
+  },
+  {
+    "id": "07173666-26b6-4ff1-8d25-87c69b72800a",
+    "name": "Across The Sea",
+    "code": "G31 002",
+    "hexCode": "#88D4DA"
+  },
+  {
+    "id": "c1a3ea86-c2e0-4b25-b41b-4fe458d0e7f2",
+    "name": "Kind Of Blue",
+    "code": "G31 003",
+    "hexCode": "#5BC4CD"
+  },
+  {
+    "id": "18088e4b-5c41-4105-b6c1-303d152c73dd",
+    "name": "Bubble Trouble",
+    "code": "G31 004",
+    "hexCode": "#4AFBA"
+  },
+  {
+    "id": "2ead69e5-275b-438a-9078-dd24abfaaeed",
+    "name": "Distant Past",
+    "code": "G31 005",
+    "hexCode": "#0A0AC"
+  },
+  {
+    "id": "c828ebc9-84c1-457f-9a85-dfbddb40c84c",
+    "name": "For An Angel",
+    "code": "G31 006",
+    "hexCode": "#07B83"
+  },
+  {
+    "id": "43c17023-73eb-44c6-af87-1190b6f1a929",
+    "name": "Positive Blue",
+    "code": "B20-001",
+    "hexCode": "#05E8A"
+  },
+  {
+    "id": "d10b394c-a322-40d7-b205-b1f30d3c6bdc",
+    "name": "Oh Santorini!",
+    "code": "B20-002",
+    "hexCode": "#77A9D1"
+  },
+  {
+    "id": "845ab040-e9ed-4629-9b67-75d9a587b016",
+    "name": "Forget Me Not",
+    "code": "B20-003",
+    "hexCode": "#A6C8DC"
+  },
+  {
+    "id": "405c7440-c5e2-4352-97f0-bc869cc99298",
+    "name": "Pristine Blue",
+    "code": "B20-004",
+    "hexCode": "#B7CFDB"
+  },
+  {
+    "id": "a0f7f37b-6de9-487f-9ca1-087472991de3",
+    "name": "Caribbean Wind",
+    "code": "B20-005",
+    "hexCode": "#D0DDDF"
+  },
+  {
+    "id": "9b9724e8-13bb-4749-8d39-bb1dac710deb",
+    "name": "Summer Blue",
+    "code": "B21-001",
+    "hexCode": "#07193"
+  },
+  {
+    "id": "fe5df87b-d278-4827-a53a-f32c1b8a1d8d",
+    "name": "Buckets Of Rain",
+    "code": "B21-002",
+    "hexCode": "#49AAD3"
+  },
+  {
+    "id": "0435bc4d-94c6-4c6f-b967-2e53fb7c803a",
+    "name": "Dutch Blue",
+    "code": "B21-003",
+    "hexCode": "#8BC7DC"
+  },
+  {
+    "id": "5f1760da-81de-4919-bb8a-d3496983f63e",
+    "name": "Spring Lake",
+    "code": "B21-004",
+    "hexCode": "#B3D9E1"
+  },
+  {
+    "id": "45361e7a-dde0-42c3-9d35-aabd7aedc577",
+    "name": "My Baby's Blue",
+    "code": "B21-005",
+    "hexCode": "#D3E1E0"
+  },
+  {
+    "id": "e94b2929-ac25-415b-a490-fa76a9d60d31",
+    "name": "Tomorrow Night",
+    "code": "B22-001",
+    "hexCode": "#1E4D5B"
+  },
+  {
+    "id": "aca1aaf9-3759-4e27-b8b8-2a5aa16f9596",
+    "name": "Sunbonnet Blue",
+    "code": "B22-002",
+    "hexCode": "#39A1C2"
+  },
+  {
+    "id": "7bba05dd-bed9-4b32-81bf-d6bbbf8fb26f",
+    "name": "Seabrook",
+    "code": "B22-003",
+    "hexCode": "#A0D5DE"
+  },
+  {
+    "id": "ec621457-c0a5-4b74-b128-2b024379940c",
+    "name": "Rivera Maya",
+    "code": "B22-004",
+    "hexCode": "#C2DEDC"
+  },
+  {
+    "id": "9af107e9-5d15-4bd3-8d36-d7676fae3896",
+    "name": "Feeling Lively",
+    "code": "B22-005",
+    "hexCode": "#C5E1E0"
+  },
+  {
+    "id": "8047c195-366b-44df-8260-217875664863",
+    "name": "Shooting Stars",
+    "code": "B23-001",
+    "hexCode": "#06174"
+  },
+  {
+    "id": "69fd0f2f-da54-46fb-9870-359a33ba48ff",
+    "name": "Blue Ibiza",
+    "code": "B23-002",
+    "hexCode": "#08EAC"
+  },
+  {
+    "id": "cdd580cb-e089-46bb-98c6-cb168f7e93f8",
+    "name": "Peaceful Lagoon",
+    "code": "B23-003",
+    "hexCode": "#45ACC6"
+  },
+  {
+    "id": "35ea3855-cdaf-4a44-8e85-18c56bb0f68d",
+    "name": "Thin Ice",
+    "code": "B23-004",
+    "hexCode": "#84C8D8"
+  },
+  {
+    "id": "15e747ec-9af7-433a-a7af-479f8d2fee52",
+    "name": "Blue Flame",
+    "code": "B23-005",
+    "hexCode": "#B6DEE3"
+  },
+  {
+    "id": "726bffad-f8e6-4ed7-b276-1edbb2876b56",
+    "name": "Aquamarine",
+    "code": "B24-001",
+    "hexCode": "#3D8C93"
+  },
+  {
+    "id": "8a2bdc62-0a2a-4792-815c-44407167ee5d",
+    "name": "Star River",
+    "code": "B24-002",
+    "hexCode": "#6BC0C7"
+  },
+  {
+    "id": "74089860-8d4b-48eb-8cb9-b6b6b6a4a26f",
+    "name": "Ice Glacier",
+    "code": "B24-003",
+    "hexCode": "#A2D5D6"
+  },
+  {
+    "id": "f116e50c-ab7f-4b7a-8d18-75656e4354fe",
+    "name": "Ocean Paradise",
+    "code": "B24-004",
+    "hexCode": "#BCDEDA"
+  },
+  {
+    "id": "3af11ead-17cd-4576-9d67-90012d20f269",
+    "name": "One & Only",
+    "code": "B24-005",
+    "hexCode": "#DEEAE0"
+  },
+  {
+    "id": "8a816bf0-54fd-4a05-82e3-8526baadab1d",
+    "name": "Lost Paradise",
+    "code": "B1 001",
+    "hexCode": "#C8E4E8"
+  },
+  {
+    "id": "873f6024-e00d-4687-aa91-d4a7ff2d5738",
+    "name": "Cosy Glow",
+    "code": "B1 002",
+    "hexCode": "#A1D9E5"
+  },
+  {
+    "id": "f4ee16d0-f340-4e13-9299-63b21db634f0",
+    "name": "Swept Away",
+    "code": "B1 003",
+    "hexCode": "#66C0D5"
+  },
+  {
+    "id": "f22d31ef-2468-4e73-8b3e-534a10f74e12",
+    "name": "Dolphin Dance",
+    "code": "B1 004",
+    "hexCode": "#1AAAC6"
+  },
+  {
+    "id": "c11ecc73-2f46-4056-9e38-a2f9403e2119",
+    "name": "Old Blue Jeans",
+    "code": "B1 005",
+    "hexCode": "#099B6"
+  },
+  {
+    "id": "9407f404-450d-4e93-ad90-424db906983e",
+    "name": "Oceans Deep",
+    "code": "B1 006",
+    "hexCode": "#145D73"
+  },
+  {
+    "id": "460a7fdc-6bbf-4e67-91bc-e5991d1f36d0",
+    "name": "Rain Water",
+    "code": "B2 001",
+    "hexCode": "#DAEDEC"
+  },
+  {
+    "id": "c87e3fa0-0e49-43c5-9a3f-a65754851c40",
+    "name": "Baby Bliss",
+    "code": "B2 002",
+    "hexCode": "#B3DEE6"
+  },
+  {
+    "id": "5748dda4-e8d9-4548-95b4-363a383b387a",
+    "name": "Just Blue It",
+    "code": "B2 003",
+    "hexCode": "#9BD6E2"
+  },
+  {
+    "id": "375451b1-9219-4358-891f-d6cb16b8f178",
+    "name": "Seven Seas",
+    "code": "B2 004",
+    "hexCode": "#77CADE"
+  },
+  {
+    "id": "f4c5a1f2-c11c-497e-8ff8-f749331e0645",
+    "name": "Tidal Wave",
+    "code": "B2 005",
+    "hexCode": "#44B3CC"
+  },
+  {
+    "id": "b12a83ee-c1d2-4f5e-bf37-8b08217b5f1b",
+    "name": "Cerulean Blue",
+    "code": "B2 006",
+    "hexCode": "#08FAC"
+  },
+  {
+    "id": "91bce276-7650-4698-bf7b-53b15e794ece",
+    "name": "Deja Blue",
+    "code": "B3 001",
+    "hexCode": "#CCE8EA"
+  },
+  {
+    "id": "b4c2db60-5004-4de0-8012-22cdaaabdc23",
+    "name": "Blue Swing",
+    "code": "B3 002",
+    "hexCode": "#BDE2E8"
+  },
+  {
+    "id": "0e53b5c3-acac-416a-ab81-8a7ca88dbe43",
+    "name": "Capri Cruise",
+    "code": "B3 003",
+    "hexCode": "#A5D7E4"
+  },
+  {
+    "id": "ac9d955c-76ca-4cf1-97ec-df4bdb564f79",
+    "name": "Aqua Rain",
+    "code": "B3 004",
+    "hexCode": "#81CBE0"
+  },
+  {
+    "id": "db9f12bf-d4d7-48f5-b53a-b59d65b327d5",
+    "name": "Walking On Water",
+    "code": "B3 005",
+    "hexCode": "#31A9C6"
+  },
+  {
+    "id": "63508473-53b9-4584-95b3-e7d8039c1c44",
+    "name": "Acoustic Blue",
+    "code": "B3 006",
+    "hexCode": "#085A3"
+  },
+  {
+    "id": "102a5424-4cf7-4287-ac63-6cf0dddf7cf1",
+    "name": "Calm Current",
+    "code": "B4 001",
+    "hexCode": "#CCE6E9"
+  },
+  {
+    "id": "af3eec06-b50c-4a29-bb05-d0bb33612154",
+    "name": "Modern Romeo",
+    "code": "B4 002",
+    "hexCode": "#B6DEE6"
+  },
+  {
+    "id": "906ae8c6-c1e1-46f5-84af-4de1fafe54ef",
+    "name": "Yours To Keep",
+    "code": "B4 003",
+    "hexCode": "#A3D4E3"
+  },
+  {
+    "id": "270db6fa-5f98-4b1b-bfdf-0442e101b529",
+    "name": "Blue Canvas",
+    "code": "B4 004",
+    "hexCode": "#85C8DE"
+  },
+  {
+    "id": "2acc89e2-8ac8-4f97-8f1a-1b1cadd2a19a",
+    "name": "Tranquil Sea",
+    "code": "B4 005",
+    "hexCode": "#43ABC8"
+  },
+  {
+    "id": "5aab72db-61cd-4996-8c39-2e9142db7f7e",
+    "name": "Star Sapphire",
+    "code": "B4 006",
+    "hexCode": "#07493"
+  },
+  {
+    "id": "d7cfc912-d1ac-4bdf-99af-add3b1877c6f",
+    "name": "Light Drizzle",
+    "code": "B5 001",
+    "hexCode": "#D0E5E8"
+  },
+  {
+    "id": "a916d35d-40d5-4fa4-8ec3-1b512508a311",
+    "name": "Santorini Romance",
+    "code": "B5 002",
+    "hexCode": "#BCDEE7"
+  },
+  {
+    "id": "53565302-0140-4bd6-8af0-42cf2e036aac",
+    "name": "Touch The Sky",
+    "code": "B5 003",
+    "hexCode": "#AAD8E8"
+  },
+  {
+    "id": "5bcf9456-52b5-4d7d-b54e-539706bc8d3f",
+    "name": "Into The Blue",
+    "code": "B5 004",
+    "hexCode": "#8CC6DE"
+  },
+  {
+    "id": "401cf3c3-e4d7-420e-a7d6-a45b381cc34e",
+    "name": "Oceanic Yacht",
+    "code": "B5 005",
+    "hexCode": "#4EA7C9"
+  },
+  {
+    "id": "0fb11886-0a41-47da-b457-a86b63df5e2f",
+    "name": "Blue Symphony",
+    "code": "B5 006",
+    "hexCode": "#06C92"
+  },
+  {
+    "id": "efadd4d9-f900-4ef7-90a6-22d57f6b3070",
+    "name": "Southern Winds",
+    "code": "B6 001",
+    "hexCode": "#D9E7E7"
+  },
+  {
+    "id": "b6167da6-a8fe-44f7-9a4c-b230650c8b7f",
+    "name": "Nautical Love",
+    "code": "B6 002",
+    "hexCode": "#C6E1E8"
+  },
+  {
+    "id": "adcca082-fd1f-47a6-b35e-7dd1f0ccca06",
+    "name": "Glacier Hike",
+    "code": "B6 003",
+    "hexCode": "#A2D4E4"
+  },
+  {
+    "id": "89d43c60-2c6a-4650-812d-c8e242c8653f",
+    "name": "Skyline Blue",
+    "code": "B6 004",
+    "hexCode": "#76BBD5"
+  },
+  {
+    "id": "c8f603ef-b9f4-4240-b785-0d8da6827416",
+    "name": "Let It Rain",
+    "code": "B6 005",
+    "hexCode": "#47A2C4"
+  },
+  {
+    "id": "ad82d64e-4754-417e-99ff-323be873b7b1",
+    "name": "Midnight Blue",
+    "code": "B6 006",
+    "hexCode": "#255E7C"
+  },
+  {
+    "id": "793c5979-0ddd-470f-83de-af0691679ad9",
+    "name": "Marine Life",
+    "code": "B7 001",
+    "hexCode": "#CFE4E9"
+  },
+  {
+    "id": "0eedd5a9-6b31-4a24-b8a7-03d8fea32b2a",
+    "name": "Between Oceans",
+    "code": "B7 002",
+    "hexCode": "#BEDEE9"
+  },
+  {
+    "id": "c693619e-d648-4e9d-bc5a-016f3785281d",
+    "name": "One Wave",
+    "code": "B7 003",
+    "hexCode": "#A8D3E4"
+  },
+  {
+    "id": "aeeed303-5e25-4626-a602-03817c996b95",
+    "name": "Slender Blue",
+    "code": "B7 004",
+    "hexCode": "#8DC4DD"
+  },
+  {
+    "id": "d86bde96-bf1b-4775-ab92-33dbae1287f6",
+    "name": "Blue Heritage",
+    "code": "B7 005",
+    "hexCode": "#4FA1C4"
+  },
+  {
+    "id": "9fcb57d5-c409-4d9f-ac48-df948830105a",
+    "name": "Blueberry Swirl",
+    "code": "B7 006",
+    "hexCode": "#15688C"
+  },
+  {
+    "id": "5aa3efd7-0650-47b1-ac1a-4797772f0db6",
+    "name": "Baby Blues",
+    "code": "B8 001",
+    "hexCode": "#C7E4EB"
+  },
+  {
+    "id": "bb749768-6b9a-4988-8a0f-1bfdf3ac9504",
+    "name": "Endless Sky",
+    "code": "B8 002",
+    "hexCode": "#AAD9EA"
+  },
+  {
+    "id": "8d2b9ea6-d251-4e14-8e46-e5ccc6322ccf",
+    "name": "Swimming Home",
+    "code": "B8 003",
+    "hexCode": "#58B9E2"
+  },
+  {
+    "id": "3bae1ac8-1b99-4d62-a661-60e76a8e9e91",
+    "name": "Navy March",
+    "code": "B8 004",
+    "hexCode": "#12A2D4"
+  },
+  {
+    "id": "d3a7a263-7216-485c-ad2d-54f4675191be",
+    "name": "Marine Paradise",
+    "code": "B8 005",
+    "hexCode": "#094CC"
+  },
+  {
+    "id": "e68cb6e6-b5b4-4ad0-895f-5f5e58370489",
+    "name": "Majestic Sea",
+    "code": "B8 006",
+    "hexCode": "#073AC"
+  },
+  {
+    "id": "733f57f9-ee2d-4870-ac0f-80ca13a1199f",
+    "name": "Snow Cone Delight",
+    "code": "B9 001",
+    "hexCode": "#E3EAE8"
+  },
+  {
+    "id": "2b8aca9a-c796-471b-93d5-7fd7f4c6a568",
+    "name": "Tranquil Oasis",
+    "code": "B9 002",
+    "hexCode": "#C3DEE8"
+  },
+  {
+    "id": "aedd7ee8-9fd5-4e61-80ed-d35ded55b84a",
+    "name": "Ocean Surf",
+    "code": "B9 003",
+    "hexCode": "#A8D4E8"
+  },
+  {
+    "id": "76787969-9064-4601-bded-c1b3c770c268",
+    "name": "Cool Me Down",
+    "code": "B9 004",
+    "hexCode": "#8AC5E4"
+  },
+  {
+    "id": "72262fd7-4983-4456-a7b4-903af4f336b3",
+    "name": "Rising Tide",
+    "code": "B9 005",
+    "hexCode": "#52A4D4"
+  },
+  {
+    "id": "823ea087-757f-4c2f-a116-82cc9998bca1",
+    "name": "Hidden Glow",
+    "code": "B9 006",
+    "hexCode": "#2689C0"
+  },
+  {
+    "id": "d5381d4b-c402-488f-aabc-a921a15b932d",
+    "name": "Falling Snowflakes",
+    "code": "B10 001",
+    "hexCode": "#E1EBEB"
+  },
+  {
+    "id": "a6a2672f-fda2-4f68-b37b-6af413b69381",
+    "name": "Caribbean Coast",
+    "code": "B10 002",
+    "hexCode": "#BFDDEB"
+  },
+  {
+    "id": "de58c9f1-4c6c-4202-96f7-bdbdaf2a695d",
+    "name": "Blessed Rain",
+    "code": "B10 003",
+    "hexCode": "#ABD4EA"
+  },
+  {
+    "id": "787c57e8-7c7f-4521-8b5f-6a068bbfed6d",
+    "name": "Over The Clouds",
+    "code": "B10 004",
+    "hexCode": "#86C2E3"
+  },
+  {
+    "id": "6e827cb2-53c7-47b6-a48b-1e93d11e3a11",
+    "name": "Promising Blue",
+    "code": "B10 005",
+    "hexCode": "#4FA1D0"
+  },
+  {
+    "id": "662d56d7-dca8-429c-ba28-304b16676ae2",
+    "name": "Mystical Lake",
+    "code": "B10 006",
+    "hexCode": "#075AB"
+  },
+  {
+    "id": "354745e0-0d05-485e-ac92-fcea2001d759",
+    "name": "Dew Drops",
+    "code": "B11 001",
+    "hexCode": "#D0E2E8"
+  },
+  {
+    "id": "db61c168-fea4-4510-8af3-d34aa5390972",
+    "name": "Cedar Rapids",
+    "code": "B11 002",
+    "hexCode": "#C4DCE9"
+  },
+  {
+    "id": "c353b9bf-099e-4f1d-bdc8-dbb7d2c91fe4",
+    "name": "Ice World",
+    "code": "B11 003",
+    "hexCode": "#ADD2E3"
+  },
+  {
+    "id": "dbc7ad5c-e82a-4cdf-8ccf-429a1173d1c2",
+    "name": "Ocean Star",
+    "code": "B11 004",
+    "hexCode": "#95C0DB"
+  },
+  {
+    "id": "445be69e-0625-4f53-ba05-7239c44f43bb",
+    "name": "Blue Diamond",
+    "code": "B11 005",
+    "hexCode": "#679FC4"
+  },
+  {
+    "id": "51a500b2-d792-4817-a983-f8d733626f81",
+    "name": "Adventure Cove",
+    "code": "B11 006",
+    "hexCode": "#26658D"
+  },
+  {
+    "id": "2f72a72e-8da8-4b56-afa1-50db371c444e",
+    "name": "Cloud Atlas",
+    "code": "B12 001",
+    "hexCode": "#CBE1E8"
+  },
+  {
+    "id": "614dac20-2885-4088-9051-58f6b14427b8",
+    "name": "Calming Waves",
+    "code": "B12 002",
+    "hexCode": "#ADD1E4"
+  },
+  {
+    "id": "d690b1bb-4657-44bf-a988-b37bf0e5a167",
+    "name": "Cruising Sails",
+    "code": "B12 003",
+    "hexCode": "#88BADA"
+  },
+  {
+    "id": "6ae2cd97-e7fa-4111-8a8b-01f317e65a80",
+    "name": "Denim Shine",
+    "code": "B12 004",
+    "hexCode": "#5499C2"
+  },
+  {
+    "id": "334d2df5-fdde-4925-bc52-d6a96404a5a5",
+    "name": "Magic Crystal",
+    "code": "B12 005",
+    "hexCode": "#3A86B4"
+  },
+  {
+    "id": "d1f5a56c-6887-4553-8bd2-ceb8632dc27e",
+    "name": "Beyond The Stars",
+    "code": "B12 006",
+    "hexCode": "#384963"
+  },
+  {
+    "id": "b4401a01-af53-4242-98d3-4edf68bf4e9d",
+    "name": "Fluffy Cloud",
+    "code": "B13 001",
+    "hexCode": "#DDE8E8"
+  },
+  {
+    "id": "056b173c-f0ed-4014-acf2-8ff4c44e5090",
+    "name": "Aqua Healing",
+    "code": "B13 002",
+    "hexCode": "#C6DFE9"
+  },
+  {
+    "id": "ec3ad6cc-4fba-4f48-8d21-4403dbf0483f",
+    "name": "Underwater Ecstasy",
+    "code": "B13 003",
+    "hexCode": "#A7CEE6"
+  },
+  {
+    "id": "4402e3d9-92ae-4f92-a223-2f034588a55c",
+    "name": "Rogue Wave",
+    "code": "B13 004",
+    "hexCode": "#80BAE0"
+  },
+  {
+    "id": "594b6416-2f02-4339-b7f8-c3b0a07c10e6",
+    "name": "Ocean Liner",
+    "code": "B13 005",
+    "hexCode": "#3B94CB"
+  },
+  {
+    "id": "d4149e98-cb4a-4adc-bf56-461d176d7fbd",
+    "name": "Marine Cove",
+    "code": "B13 006",
+    "hexCode": "#0649C"
+  },
+  {
+    "id": "13c023b6-16e4-4ef7-aff6-3cb531906b05",
+    "name": "Blue Haven",
+    "code": "B14 001",
+    "hexCode": "#CFE2EA"
+  },
+  {
+    "id": "db700c72-f2ac-46f3-aaaa-711011ef8ed2",
+    "name": "Glistening Seas",
+    "code": "B14 002",
+    "hexCode": "#A1C8E7"
+  },
+  {
+    "id": "3f95dd87-baf5-4d08-99a7-c0c3773235b7",
+    "name": "Waterfall Garden",
+    "code": "B14 003",
+    "hexCode": "#83B4DA"
+  },
+  {
+    "id": "22370caa-3104-49b1-b2c8-980ba5e5d977",
+    "name": "Icy Blue",
+    "code": "B14 004",
+    "hexCode": "#69A6D5"
+  },
+  {
+    "id": "ac09d0e8-b25e-4a86-bead-94ad4eccafac",
+    "name": "Hawaiian Blue",
+    "code": "B14 005",
+    "hexCode": "#337FBA"
+  },
+  {
+    "id": "cffb9b07-4c83-4f61-9c4b-cf7d2ee1dc90",
+    "name": "Blue Brooch",
+    "code": "B14 006",
+    "hexCode": "#344D7D"
+  },
+  {
+    "id": "e6a32196-0440-442e-8d74-3534e79dde13",
+    "name": "Lacy Blue",
+    "code": "B15 001",
+    "hexCode": "#D3E0E8"
+  },
+  {
+    "id": "d5c6035a-233b-4729-a80f-8a1d7aa163e0",
+    "name": "Beach House Blue",
+    "code": "B15 002",
+    "hexCode": "#C5DAE7"
+  },
+  {
+    "id": "78a39006-a956-47b7-9211-3b5f018e1d74",
+    "name": "Blue Sparkle",
+    "code": "B15 003",
+    "hexCode": "#B1CDE1"
+  },
+  {
+    "id": "66445d93-21e3-4811-ab84-d29d059ca2c0",
+    "name": "Old School Blue",
+    "code": "B15 004",
+    "hexCode": "#94BBDA"
+  },
+  {
+    "id": "c63f8fc5-26a1-4c68-a954-9ad0e5debb13",
+    "name": "Casual Blue",
+    "code": "B15 005",
+    "hexCode": "#6D9AC0"
+  },
+  {
+    "id": "3ac24c5a-9692-4277-a96e-2aa0a380b9ce",
+    "name": "Smokey Blue",
+    "code": "B15 006",
+    "hexCode": "#396B96"
+  },
+  {
+    "id": "a714f10c-9f25-47fd-8cb9-96d6fb38f10e",
+    "name": "Dancing Cloud",
+    "code": "B16 001",
+    "hexCode": "#C6DBE7"
+  },
+  {
+    "id": "a6097360-3a4e-4477-9aa8-e76c10eca2e7",
+    "name": "Blue Willow",
+    "code": "B16 002",
+    "hexCode": "#B4CEE3"
+  },
+  {
+    "id": "503b97b2-e098-4bf4-afe0-b0355c6736f2",
+    "name": "Open Water Villa",
+    "code": "B16 003",
+    "hexCode": "#96BBDA"
+  },
+  {
+    "id": "77a0a462-bfbc-4c2e-ba66-b07919b53529",
+    "name": "Ocean Mystery",
+    "code": "B16 004",
+    "hexCode": "#83AFD5"
+  },
+  {
+    "id": "0a8953a6-08da-452e-8a32-7a33b9b01b05",
+    "name": "Blueberry Pie",
+    "code": "B16 005",
+    "hexCode": "#5183B4"
+  },
+  {
+    "id": "10ea1de7-a9cd-4814-a833-20cf609cca69",
+    "name": "Bright Flash",
+    "code": "B16 006",
+    "hexCode": "#336190"
+  },
+  {
+    "id": "6a78f0b6-50d9-48a0-83f6-ddf500bfa4ac",
+    "name": "Baby Breaths",
+    "code": "B17 001",
+    "hexCode": "#C7DBE8"
+  },
+  {
+    "id": "794d673f-c0c5-4cef-94e7-6a568f548356",
+    "name": "Misty Rain",
+    "code": "B17 002",
+    "hexCode": "#B2CEE6"
+  },
+  {
+    "id": "43cfa987-0550-4c61-8c62-1c67fc284a44",
+    "name": "On The Bay",
+    "code": "B17 003",
+    "hexCode": "#99C1E2"
+  },
+  {
+    "id": "796196bc-cf2b-4354-9948-101f86e1fbc8",
+    "name": "Soulful Blue",
+    "code": "B17 004",
+    "hexCode": "#81AED6"
+  },
+  {
+    "id": "2b0efb33-2cea-45df-b470-94305e0f34d4",
+    "name": "Blue Luxe",
+    "code": "B17 005",
+    "hexCode": "#6698C8"
+  },
+  {
+    "id": "59d78a52-76ce-4248-936f-ee5a8831794d",
+    "name": "Sea Of Life",
+    "code": "B17 006",
+    "hexCode": "#326A9F"
+  },
+  {
+    "id": "6fa84424-1833-4425-87a2-7d687a875685",
+    "name": "Drifting Clouds",
+    "code": "B18 001",
+    "hexCode": "#D2E0E8"
+  },
+  {
+    "id": "b424426c-4d45-4cb0-a9e8-0b8e6ff4ebbd",
+    "name": "Full Of Stars",
+    "code": "B18 002",
+    "hexCode": "#B9D2E6"
+  },
+  {
+    "id": "103be79d-970d-46dc-ae14-ca7a4e9f6d06",
+    "name": "Farewell Blue",
+    "code": "B18 003",
+    "hexCode": "#96B9DD"
+  },
+  {
+    "id": "1c9f6b18-da33-49a5-a36d-e6435879ecd4",
+    "name": "Cool Breeze",
+    "code": "B18 004",
+    "hexCode": "#7BA5CE"
+  },
+  {
+    "id": "07cd6096-3ce0-4620-9b50-1b1150c51856",
+    "name": "Midnight Delight",
+    "code": "B18 005",
+    "hexCode": "#4B84BD"
+  },
+  {
+    "id": "f1f517d0-257c-4430-81e0-afe024359c94",
+    "name": "Ocean Wonder",
+    "code": "B18 006",
+    "hexCode": "#275287"
+  },
+  {
+    "id": "95d90ab4-575f-4eb1-8d5b-f9d11feb56dd",
+    "name": "Violet Distraction",
+    "code": "V16-001",
+    "hexCode": "#704B77"
+  },
+  {
+    "id": "6e66ffb9-384d-4dcd-9881-d14ac93c4d76",
+    "name": "Plum Dressing",
+    "code": "V16-002",
+    "hexCode": "#A77DAD"
+  },
+  {
+    "id": "8c5935cb-c004-4ecf-b05d-9987948c3b81",
+    "name": "Cheerful Melody",
+    "code": "V16-003",
+    "hexCode": "#D7BCD6"
+  },
+  {
+    "id": "edae0d94-beef-4562-9e0d-0a7a8ef5beb7",
+    "name": "Purple Touch",
+    "code": "V16-004",
+    "hexCode": "#DED2D9"
+  },
+  {
+    "id": "4830e9ee-3256-4c95-9957-d2c689aa3ed1",
+    "name": "Happy Together",
+    "code": "V16-005",
+    "hexCode": "#E6D9DC"
+  },
+  {
+    "id": "d1c9f7f8-0106-44da-8d7d-94391b72ba87",
+    "name": "Deep Lavender",
+    "code": "V17-001",
+    "hexCode": "#7C608F"
+  },
+  {
+    "id": "a5ff6eca-2f6d-4fc8-babe-52808ca388d0",
+    "name": "Claret Glass",
+    "code": "V17-002",
+    "hexCode": "#AE95C0"
+  },
+  {
+    "id": "b36ac673-1849-4623-b389-ca1d8cc93406",
+    "name": "Pure Lilac",
+    "code": "V17-003",
+    "hexCode": "#C7B4CF"
+  },
+  {
+    "id": "cf7ad5d4-960c-4f4c-9541-0ec0fe343012",
+    "name": "Violet Rain",
+    "code": "V17-004",
+    "hexCode": "#D8C5D7"
+  },
+  {
+    "id": "4a4b1469-81bd-40a2-8d8e-5a121dac330b",
+    "name": "Belle Isle",
+    "code": "V17-005",
+    "hexCode": "#E8DDDF"
+  },
+  {
+    "id": "7a2bf530-5d9d-4813-8eeb-56ab3e95621e",
+    "name": "Velvet Fog",
+    "code": "V18-001",
+    "hexCode": "#50476E"
+  },
+  {
+    "id": "2749d339-fbf1-4a2b-a56c-a25111ab8a78",
+    "name": "Someone Like You",
+    "code": "V18-002",
+    "hexCode": "#ABA9CF"
+  },
+  {
+    "id": "470463dc-7fc8-4e74-9d66-c0bb2890400d",
+    "name": "Drifting Winds",
+    "code": "V18-003",
+    "hexCode": "#BFC6D7"
+  },
+  {
+    "id": "589e90ff-2726-4a68-8bb3-150850d27837",
+    "name": "Joyful Day",
+    "code": "V18-004",
+    "hexCode": "#D9D5DE"
+  },
+  {
+    "id": "b0b7b845-4c25-46d4-87db-b07162f21bc1",
+    "name": "Youthful Heart",
+    "code": "V18-005",
+    "hexCode": "#DDDDDD"
+  },
+  {
+    "id": "e2636634-dd19-4e37-b823-9c20722646a5",
+    "name": "Black Pearl",
+    "code": "V19-001",
+    "hexCode": "#444F63"
+  },
+  {
+    "id": "a039407d-4125-42e6-b16c-5b3422fe7f4d",
+    "name": "Dark Eyes",
+    "code": "V19-002",
+    "hexCode": "#636774"
+  },
+  {
+    "id": "a08872da-27b1-4136-9673-726c27f11495",
+    "name": "Violet Luxury",
+    "code": "V19-003",
+    "hexCode": "#5872A6"
+  },
+  {
+    "id": "1a5bf90e-3eee-48e0-8296-25cdb4e3b863",
+    "name": "Diamond Bay",
+    "code": "V19-004",
+    "hexCode": "#91A6CD"
+  },
+  {
+    "id": "fdbeba63-4dbf-44bf-a845-84aa094f536c",
+    "name": "Scarlet Town",
+    "code": "V19-005",
+    "hexCode": "#BDCEDB"
+  },
+  {
+    "id": "80e4508e-1180-44a0-a252-ee80df452bdb",
+    "name": "Purification",
+    "code": "P1 001",
+    "hexCode": "#D7DEE5"
+  },
+  {
+    "id": "ddefefb8-1ecc-438f-9c74-e8bb39fc1706",
+    "name": "Violet Distraction",
+    "code": "P1 002",
+    "hexCode": "#C9D8E7"
+  },
+  {
+    "id": "0a6f5698-07fe-4b5f-8954-7d90fd8f8aca",
+    "name": "Sweet Sensation",
+    "code": "P1 003",
+    "hexCode": "#A3BAD7"
+  },
+  {
+    "id": "e972015c-a483-43de-be82-5c59ef158aa2",
+    "name": "Indigo Joy",
+    "code": "P1 004",
+    "hexCode": "#8BA7CD"
+  },
+  {
+    "id": "7aaa3106-31ce-432c-8698-cac46d19d4ef",
+    "name": "Blue Velvet",
+    "code": "P1 005",
+    "hexCode": "#728EB9"
+  },
+  {
+    "id": "8d618c26-3f57-409a-80d4-aa11cfc8cff1",
+    "name": "Purple Attic",
+    "code": "P1 006",
+    "hexCode": "#4B5B83"
+  },
+  {
+    "id": "6340a06e-dfd5-48f4-8ff1-44b78bcbcc5c",
+    "name": "Restless Heart",
+    "code": "P2 001",
+    "hexCode": "#D2DAE6"
+  },
+  {
+    "id": "78904091-573e-4314-bbbd-bdfc2c86a22d",
+    "name": "Vibrant Splash",
+    "code": "P2 002",
+    "hexCode": "#C2CCDE"
+  },
+  {
+    "id": "9780ae86-278e-4fdb-a3fa-d0e61cba8a97",
+    "name": "Secluded Spot",
+    "code": "P2 003",
+    "hexCode": "#ACBBD6"
+  },
+  {
+    "id": "0d739452-456e-40d7-86dc-fdb527b2b865",
+    "name": "Beautiful Silence",
+    "code": "P2 004",
+    "hexCode": "#98ABCF"
+  },
+  {
+    "id": "aee43602-f0a6-4d7c-8a1a-9b1b2a49b5fa",
+    "name": "Deeply Dashing",
+    "code": "P2 005",
+    "hexCode": "#6F7FAA"
+  },
+  {
+    "id": "c9ba3a6c-6416-46a4-b1f4-8ca7c9bfa633",
+    "name": "Grape Escape",
+    "code": "P2 006",
+    "hexCode": "#56618D"
+  },
+  {
+    "id": "d814f6e5-06c6-4303-8bdb-5619c4235f5e",
+    "name": "Sweet Reception",
+    "code": "P3 001",
+    "hexCode": "#DFE5EC"
+  },
+  {
+    "id": "cf6165f9-b957-474f-b740-7c996b931651",
+    "name": "Lavender Oil",
+    "code": "P3 002",
+    "hexCode": "#C5D2E8"
+  },
+  {
+    "id": "85cdc928-cd1f-41be-a66f-8735b8767ec2",
+    "name": "Purple Devotion",
+    "code": "P3 003",
+    "hexCode": "#A6BAE1"
+  },
+  {
+    "id": "0af51c6f-8265-48f9-adbb-67edaec67e73",
+    "name": "Endless Mystery",
+    "code": "P3 004",
+    "hexCode": "#7693CA"
+  },
+  {
+    "id": "06d27f70-1ccc-4bf5-89a4-34d21f5308e6",
+    "name": "Smooth Groove",
+    "code": "P3 005",
+    "hexCode": "#6280BE"
+  },
+  {
+    "id": "48c36ad8-c0a7-40b9-9ecc-9a7180350cf8",
+    "name": "Beautiful Life",
+    "code": "P3 006",
+    "hexCode": "#3B4D79"
+  },
+  {
+    "id": "2752ca0d-01f6-4905-afa4-f694236eb2fb",
+    "name": "Silk Winds",
+    "code": "P4 001",
+    "hexCode": "#DDE1EA"
+  },
+  {
+    "id": "42672392-9547-420b-bf8f-376eaaf33456",
+    "name": "Sail Away",
+    "code": "P4 002",
+    "hexCode": "#C3CFE6"
+  },
+  {
+    "id": "7f29b954-38ff-48d6-92f6-2d433f63fde0",
+    "name": "Tender Violet",
+    "code": "P4 003",
+    "hexCode": "#A7B7DE"
+  },
+  {
+    "id": "a33a143f-6f13-45c3-9440-f86cfbd65b88",
+    "name": "Far & Away",
+    "code": "P4 004",
+    "hexCode": "#91A0D2"
+  },
+  {
+    "id": "8ec70e59-3e9f-4fb4-b83b-c0b41ae873da",
+    "name": "Purple Supreme",
+    "code": "P4 005",
+    "hexCode": "#687BB6"
+  },
+  {
+    "id": "da89f496-fb2f-425e-9b26-368bcd6cedd6",
+    "name": "Deep Slumber",
+    "code": "P4 006",
+    "hexCode": "#424A76"
+  },
+  {
+    "id": "6166515d-d2a4-4fef-b44c-4e04a3d46c65",
+    "name": "Hands To Heaven",
+    "code": "P5 001",
+    "hexCode": "#CBD3E4"
+  },
+  {
+    "id": "613065c5-717c-4910-bf58-43a72eb1af7f",
+    "name": "So Beautiful",
+    "code": "P5 002",
+    "hexCode": "#B6C3E3"
+  },
+  {
+    "id": "b2285558-ad48-47ee-89ba-9cfb2aa865d2",
+    "name": "Violet Glamour",
+    "code": "P5 003",
+    "hexCode": "#9EAFD8"
+  },
+  {
+    "id": "f448be26-3e71-4ced-9474-a1ca237fc7c5",
+    "name": "Yours Truly",
+    "code": "P5 004",
+    "hexCode": "#7F98CB"
+  },
+  {
+    "id": "f5f232b7-b363-4e21-b59a-f42c29819a66",
+    "name": "Fluid Space",
+    "code": "P5 005",
+    "hexCode": "#6880B9"
+  },
+  {
+    "id": "11ef8f36-4f73-4503-b841-bb033a67c191",
+    "name": "Tribute To Prince",
+    "code": "P5 006",
+    "hexCode": "#494E7E"
+  },
+  {
+    "id": "76b6667e-802d-46a0-a275-836a469693fa",
+    "name": "Lavender Bliss",
+    "code": "P6 001",
+    "hexCode": "#DBDBE7"
+  },
+  {
+    "id": "2b4745aa-bbec-4b4f-938b-b4b03b1e28c5",
+    "name": "Violet Splash",
+    "code": "P6 002",
+    "hexCode": "#C6C8E4"
+  },
+  {
+    "id": "4f2cf47d-087b-43ee-b2c7-7bf0a071e378",
+    "name": "Purple Spark",
+    "code": "P6 003",
+    "hexCode": "#AAAED9"
+  },
+  {
+    "id": "ccba151f-36a0-4b8d-aa5b-5af18cf7d07b",
+    "name": "Rare Gem",
+    "code": "P6 004",
+    "hexCode": "#858DC3"
+  },
+  {
+    "id": "a7ed6c16-9b5f-4aea-b92b-7b7bdb7d65d5",
+    "name": "Lullaby Dream",
+    "code": "P6 005",
+    "hexCode": "#777DBA"
+  },
+  {
+    "id": "59010430-da72-40c1-bcf9-6141705bbb4f",
+    "name": "Bedtime Stories",
+    "code": "P6 006",
+    "hexCode": "#494975"
+  },
+  {
+    "id": "1af3e55a-e40d-48cf-b7b3-bfbf14162d82",
+    "name": "Tender Soul",
+    "code": "P7 001",
+    "hexCode": "#D9DAE4"
+  },
+  {
+    "id": "901235ad-7573-4550-8afb-86ac295b123a",
+    "name": "Purple Pasture",
+    "code": "P7 002",
+    "hexCode": "#CACDE0"
+  },
+  {
+    "id": "a3125829-fbab-48c7-8ebf-facb09bdeeba",
+    "name": "Breathtaking View",
+    "code": "P7 003",
+    "hexCode": "#B6BCD8"
+  },
+  {
+    "id": "6a97de2e-8e02-4cfb-96f2-1c363cb9f71a",
+    "name": "Plum Dressing",
+    "code": "P7 004",
+    "hexCode": "#8E92B9"
+  },
+  {
+    "id": "afbc2b61-ab4b-4bef-ac33-fbc3ff4c6a99",
+    "name": "New Starlet",
+    "code": "P7 005",
+    "hexCode": "#7B7EA7"
+  },
+  {
+    "id": "566aa56d-5389-4287-a78e-3131f732aa31",
+    "name": "Deep Dahlia",
+    "code": "P7 006",
+    "hexCode": "#565980"
+  },
+  {
+    "id": "43780c29-b3fb-4745-85d8-9c32957920cf",
+    "name": "Snuggle Up",
+    "code": "P8 001",
+    "hexCode": "#E1E2EA"
+  },
+  {
+    "id": "bbec91b0-d4db-49c4-8e82-7684cd1ea5e8",
+    "name": "Enchanted Purple",
+    "code": "P8 002",
+    "hexCode": "#D6D5E3"
+  },
+  {
+    "id": "70e002e4-3667-4ce7-8fa8-664f9f82d0af",
+    "name": "Elegant Gown",
+    "code": "P8 003",
+    "hexCode": "#B9BBD6"
+  },
+  {
+    "id": "903f7e65-09fb-44e9-a349-647146095d97",
+    "name": "Royal Ball",
+    "code": "P8 004",
+    "hexCode": "#A4A9CE"
+  },
+  {
+    "id": "66fdc957-6528-491d-a8bd-bd4441744fb0",
+    "name": "Glitter Lamp",
+    "code": "P8 005",
+    "hexCode": "#8E8FB8"
+  },
+  {
+    "id": "b4d22ae1-24c7-491e-bcaf-acfcd1234342",
+    "name": "Grape Surprise",
+    "code": "P8 006",
+    "hexCode": "#62658B"
+  },
+  {
+    "id": "829faf95-e45f-4883-a99e-995ef972cd4e",
+    "name": "Feels Like Magic",
+    "code": "P9 001",
+    "hexCode": "#DCD7E7"
+  },
+  {
+    "id": "55459b71-650f-433e-9d4d-0eed73d6411e",
+    "name": "Lilac Destiny",
+    "code": "P9 002",
+    "hexCode": "#D2CDE4"
+  },
+  {
+    "id": "7248425d-0868-42b5-8134-966a732725e2",
+    "name": "Imperial Treasure",
+    "code": "P9 003",
+    "hexCode": "#BCB7D9"
+  },
+  {
+    "id": "06b6d942-bdcd-4ca7-af8f-026e78e24fbc",
+    "name": "Violet Magnolia",
+    "code": "P9 004",
+    "hexCode": "#AAA4CE"
+  },
+  {
+    "id": "3c442375-903b-4caa-a5d5-955b04c2e889",
+    "name": "Purple Carnival",
+    "code": "P9 005",
+    "hexCode": "#968CBA"
+  },
+  {
+    "id": "8d27ec58-f4d1-4562-adc1-f81cd8275eec",
+    "name": "Dark Galaxy",
+    "code": "P9 006",
+    "hexCode": "#655D8E"
+  },
+  {
+    "id": "c32a74a9-fde1-4d08-b2b5-b582c941b785",
+    "name": "Purple Poppy",
+    "code": "P10 001",
+    "hexCode": "#E5DEE8"
+  },
+  {
+    "id": "4874686a-cb73-47c8-b14f-7afb87c48c88",
+    "name": "Mystical Fairy",
+    "code": "P10 002",
+    "hexCode": "#D3CBE3"
+  },
+  {
+    "id": "b4c785fe-9258-4415-a1bc-385a207fccbd",
+    "name": "Precious Time",
+    "code": "P10 003",
+    "hexCode": "#BDB3D9"
+  },
+  {
+    "id": "b5afb37c-bf37-4692-ac41-35cee53765d6",
+    "name": "Childhood Memories",
+    "code": "P10 004",
+    "hexCode": "#A79BCC"
+  },
+  {
+    "id": "3f162a73-95f0-4d8e-a707-17d8f965d361",
+    "name": "Dark Lilac",
+    "code": "P10 005",
+    "hexCode": "#8377B1"
+  },
+  {
+    "id": "d256b5b0-fbd2-47f4-9157-2d891bcbeff1",
+    "name": "Weekend Buzz",
+    "code": "P10 006",
+    "hexCode": "#57496F"
+  },
+  {
+    "id": "8f0c16cd-cf91-4360-8fe8-58ab2cf4b036",
+    "name": "Sweet Suite",
+    "code": "P11 001",
+    "hexCode": "#E9DBE6"
+  },
+  {
+    "id": "10f9c6e9-b556-489f-84e0-ebd1b609fd68",
+    "name": "Young & Free",
+    "code": "P11 002",
+    "hexCode": "#D6C4DF"
+  },
+  {
+    "id": "6fdb2f3b-2f31-48f0-b413-51b6a41e8bb1",
+    "name": "Gentle Lavender",
+    "code": "P11 003",
+    "hexCode": "#C1A7D1"
+  },
+  {
+    "id": "81c721f1-c06f-4984-947d-b695f13bfedf",
+    "name": "Hello Friday",
+    "code": "P11 004",
+    "hexCode": "#B69CCB"
+  },
+  {
+    "id": "4c3d1f1a-385c-48d8-ba12-6376d8420dc4",
+    "name": "Teenage Dream",
+    "code": "P11 005",
+    "hexCode": "#9475AD"
+  },
+  {
+    "id": "f7bde66d-97ed-438d-8bbb-cf871410fadb",
+    "name": "My Soulmate",
+    "code": "P11 006",
+    "hexCode": "#61476E"
+  },
+  {
+    "id": "4900ae6d-93a8-4d35-af39-293791d86ad5",
+    "name": "Violet Candle",
+    "code": "P12 001",
+    "hexCode": "#E3D5E2"
+  },
+  {
+    "id": "26847dbc-dc69-4c0f-9eae-09e1ef16cade",
+    "name": "Purple Moonlight",
+    "code": "P12 002",
+    "hexCode": "#D6C9DE"
+  },
+  {
+    "id": "99640424-ac5e-45a4-ba04-b5365719f515",
+    "name": "Electric Love",
+    "code": "P12 003",
+    "hexCode": "#C9B8D5"
+  },
+  {
+    "id": "679bd3ca-b036-43c8-8f39-8682a48400ff",
+    "name": "Time To Dance",
+    "code": "P12 004",
+    "hexCode": "#B7A6CA"
+  },
+  {
+    "id": "338005e8-014d-4425-aa2d-bf48506160b3",
+    "name": "Vintage Jewellery",
+    "code": "P12 005",
+    "hexCode": "#A68CB5"
+  },
+  {
+    "id": "abd99ac9-cbaa-4f1c-bd50-0be98c014cc9",
+    "name": "Sushi Flower",
+    "code": "P12 006",
+    "hexCode": "#8A76A1"
+  },
+  {
+    "id": "ffc7d661-a082-4fab-80f3-235e61cfd672",
+    "name": "Joyful Soul",
+    "code": "P13 001",
+    "hexCode": "#E4DCE7"
+  },
+  {
+    "id": "148e4f1c-8fec-4cec-b35a-e272c79c60f5",
+    "name": "Soft Lilac",
+    "code": "P13 002",
+    "hexCode": "#E0D3E1"
+  },
+  {
+    "id": "8235f2c7-2be2-4736-88c6-2012625993bd",
+    "name": "Wisteria Bloom",
+    "code": "P13 003",
+    "hexCode": "#DAC6DC"
+  },
+  {
+    "id": "68b538aa-7c7b-41aa-a639-6ec3f58436a8",
+    "name": "Frozen Violet",
+    "code": "P13 004",
+    "hexCode": "#CBB3D4"
+  },
+  {
+    "id": "4768391c-abcc-4b74-8eb9-a81bbe879803",
+    "name": "Peaceful Paradise",
+    "code": "P13 005",
+    "hexCode": "#A985B0"
+  },
+  {
+    "id": "fa872c10-2223-4053-9dd3-55b510098bb4",
+    "name": "Burgundy Splash",
+    "code": "P13 006",
+    "hexCode": "#88567D"
+  },
+  {
+    "id": "0a9d4b57-c902-4396-8bc5-e76f4691604e",
+    "name": "Little Ballerina",
+    "code": "P14 001",
+    "hexCode": "#E8DBE5"
+  },
+  {
+    "id": "925f871b-54d4-4acf-a857-53a948c92e08",
+    "name": "Fairy Lights",
+    "code": "P14 002",
+    "hexCode": "#E8D3E2"
+  },
+  {
+    "id": "57d81789-676d-4e5e-b332-2ccf7a8ba781",
+    "name": "Moment Of Magic",
+    "code": "P14 003",
+    "hexCode": "#E3C7DD"
+  },
+  {
+    "id": "63c67e4a-06c2-41a9-8227-f3beb1cdcbce",
+    "name": "Purple Nectar",
+    "code": "P14 004",
+    "hexCode": "#CEAFCF"
+  },
+  {
+    "id": "3626bc94-a9fa-4b6b-8d42-8cba1f3fa35f",
+    "name": "Lavender Honey",
+    "code": "P14 005",
+    "hexCode": "#B687B6"
+  },
+  {
+    "id": "9af6dc72-20dd-42eb-830c-32ce9ce532e5",
+    "name": "Purple Radiant",
+    "code": "P14 006",
+    "hexCode": "#825583"
+  },
+  {
+    "id": "abacc251-9f5c-4574-81a5-bc2753963b10",
+    "name": "Chic Lilac",
+    "code": "P15 001",
+    "hexCode": "#ECDCE3"
+  },
+  {
+    "id": "66718d79-7b3c-4bc9-b825-1fd9feb79ea9",
+    "name": "Lavender Harvest",
+    "code": "P15 002",
+    "hexCode": "#E9D3E1"
+  },
+  {
+    "id": "0533b892-77ef-44d8-a170-3caa1dc9a00b",
+    "name": "Bridal Party",
+    "code": "P15 003",
+    "hexCode": "#E2C3D9"
+  },
+  {
+    "id": "cfa4da07-608b-4d2a-a2be-dc3ae5ba95fc",
+    "name": "Rustic Sage",
+    "code": "P15 004",
+    "hexCode": "#D5B1D0"
+  },
+  {
+    "id": "d892e3ce-5415-438a-a516-18f81d122947",
+    "name": "Angel Eyes",
+    "code": "P15 005",
+    "hexCode": "#C79DC2"
+  },
+  {
+    "id": "17df5d23-892a-431a-9ba9-69a96202454d",
+    "name": "Blushed Crimson",
+    "code": "P15 006",
+    "hexCode": "#A674A7"
+  },
+  {
+    "id": "da7e95aa-4c57-4a88-b5ae-69179adc54e2",
+    "name": "Intimacy",
+    "code": "P16 001",
+    "hexCode": "#EADCE8"
+  },
+  {
+    "id": "9f91ed5b-7fbc-423d-a35e-ed3bb514cc72",
+    "name": "Willing Heart",
+    "code": "P16 002",
+    "hexCode": "#E6D0E1"
+  },
+  {
+    "id": "f65ebbfc-2bb8-4785-9673-692e066c43ea",
+    "name": "Serenity Now",
+    "code": "P16 003",
+    "hexCode": "#E0C5DE"
+  },
+  {
+    "id": "5a3f075b-b039-48ae-976b-655ead82caea",
+    "name": "Wedding Bouquet",
+    "code": "P16 004",
+    "hexCode": "#D9AFD0"
+  },
+  {
+    "id": "8582ce9f-e524-4354-af91-f08abc9ac9e4",
+    "name": "Scented Lilac",
+    "code": "P16 005",
+    "hexCode": "#C186B4"
+  },
+  {
+    "id": "393efa08-c919-449e-83ff-6cfd91374fb1",
+    "name": "Stunning Lady",
+    "code": "P16 006",
+    "hexCode": "#AD6EA0"
+  },
+  {
+    "id": "337aad6f-f6bb-42bd-8d2b-8e8d0dbac8d3",
+    "name": "Hide Your Heart",
+    "code": "P17 001",
+    "hexCode": "#F5E3E7"
+  },
+  {
+    "id": "6ea594e6-1ab0-4d5d-9458-3a0642277cea",
+    "name": "Cupid's Wings",
+    "code": "P17 002",
+    "hexCode": "#E9D3E1"
+  },
+  {
+    "id": "ce2f8c96-b7cd-4418-8186-3f432cbb906d",
+    "name": "Cute Ribbon",
+    "code": "P17 003",
+    "hexCode": "#D9AFCE"
+  },
+  {
+    "id": "d00a0c6a-fb39-4193-b86f-eccb10b3cebc",
+    "name": "Forgotten Kiss",
+    "code": "P17 004",
+    "hexCode": "#CF9EC2"
+  },
+  {
+    "id": "dfc11ca9-bb20-476f-b0cf-40191d91426f",
+    "name": "Lilac Aroma",
+    "code": "P17 005",
+    "hexCode": "#C084AD"
+  },
+  {
+    "id": "4a7c352f-1b40-4da6-a1d1-029b247d4123",
+    "name": "Purple Petal",
+    "code": "P17 006",
+    "hexCode": "#B06E9A"
+  },
+  {
+    "id": "8c08c39d-7c11-46ac-af6e-48d151abc4ef",
+    "name": "Shining Bright",
+    "code": "P18 001",
+    "hexCode": "#F6E3E4"
+  },
+  {
+    "id": "45062f59-ab7e-4771-99aa-23cefa6d5740",
+    "name": "Just A Wish",
+    "code": "P18 002",
+    "hexCode": "#EDC7D8"
+  },
+  {
+    "id": "5b87a8df-3070-4e93-8f7a-5f9a4ebf499e",
+    "name": "Ballet Dance",
+    "code": "P18 003",
+    "hexCode": "#E1B1CA"
+  },
+  {
+    "id": "f12faf38-52e5-44ad-ae73-5133cfb5bfb6",
+    "name": "Heaven Knows",
+    "code": "P18 004",
+    "hexCode": "#D79DBC"
+  },
+  {
+    "id": "9bfe93a2-ee80-491c-879d-f947f9c616ef",
+    "name": "Bits & Pieces",
+    "code": "P18 005",
+    "hexCode": "#CC85A7"
+  },
+  {
+    "id": "61e2bbf0-1d77-46c4-9f6b-9968aac57817",
+    "name": "Lush Sofa",
+    "code": "P18 006",
+    "hexCode": "#BC7194"
+  },
+  {
+    "id": "22f2bce5-a7df-4c33-8315-e0b485a4c437",
+    "name": "Musical Therapy",
+    "code": "P19 001",
+    "hexCode": "#F5EBE8"
+  },
+  {
+    "id": "8f9a4e29-153a-46e3-a547-e00e9b809868",
+    "name": "Count On Me",
+    "code": "P19 002",
+    "hexCode": "#F2D9DE"
+  },
+  {
+    "id": "9a79865a-ac66-4e30-863c-c45a34a88291",
+    "name": "House Party",
+    "code": "P19 003",
+    "hexCode": "#E9C6D2"
+  },
+  {
+    "id": "7b77011d-5a27-4ed1-a492-a4a6d8c76b2a",
+    "name": "Pop Ballads",
+    "code": "P19 004",
+    "hexCode": "#D9AABC"
+  },
+  {
+    "id": "7e3e4700-9f41-4a1c-bdc0-2b39837239c7",
+    "name": "Secret Love",
+    "code": "P19 005",
+    "hexCode": "#AC7288"
+  },
+  {
+    "id": "310a861e-6632-4b4f-a6d9-3b0186211463",
+    "name": "Keep Me Warm",
+    "code": "P19 006",
+    "hexCode": "#754951"
+  },
+  {
+    "id": "49d0b157-c371-493e-9f58-3cd419931189",
+    "name": "Touch Of Fall",
+    "code": "P20 001",
+    "hexCode": "#F0E0DE"
+  },
+  {
+    "id": "4a7c06b5-e5d2-4ffc-8f90-ac3a45460521",
+    "name": "Latin Beat",
+    "code": "P20 002",
+    "hexCode": "#EFCED2"
+  },
+  {
+    "id": "3cdd54f2-786e-47f1-b6cf-905e6aba288e",
+    "name": "Himalayan Salt",
+    "code": "P20 003",
+    "hexCode": "#E3B0B5"
+  },
+  {
+    "id": "4d94cccf-cbff-4d5f-8c2d-52d0f19dc892",
+    "name": "Rustic Touch",
+    "code": "P20 004",
+    "hexCode": "#CF9299"
+  },
+  {
+    "id": "be65a622-eecf-4364-aa70-4b8fdaa786a9",
+    "name": "Herbal Remedy",
+    "code": "P20 005",
+    "hexCode": "#AA6669"
+  },
+  {
+    "id": "f8a288e3-417f-4561-9800-a5212bb49c95",
+    "name": "Old Guitar",
+    "code": "P20 006",
+    "hexCode": "#8F4847"
+  },
+  {
+    "id": "1cf2e012-f1d7-4142-bcf8-31175f6273ef",
+    "name": "Dark Star",
+    "code": "N30-001",
+    "hexCode": "#676F66"
+  },
+  {
+    "id": "74788793-741f-40ca-a850-618d05eae128",
+    "name": "Grey Shimmer",
+    "code": "N30-002",
+    "hexCode": "#959993"
+  },
+  {
+    "id": "1931daea-d2af-4e38-9d4c-cf5d8f218046",
+    "name": "Pebbled Path",
+    "code": "N30-003",
+    "hexCode": "#BCC1BB"
+  },
+  {
+    "id": "6c23ecbc-b174-4c95-80a1-8da51cd2df24",
+    "name": "Timeless Grey",
+    "code": "N30-004",
+    "hexCode": "#D0D2C5"
+  },
+  {
+    "id": "5f88165b-6f66-40f0-aa16-dcceebedbf39",
+    "name": "Tinge Of Grey",
+    "code": "N30-005",
+    "hexCode": "#E9EADA"
+  },
+  {
+    "id": "65690968-18c1-4e05-b914-24c7cc01e5cd",
+    "name": "Smoky Willows",
+    "code": "N31-001",
+    "hexCode": "#56575A"
+  },
+  {
+    "id": "ad312107-ced5-4b24-9d9b-bda663b21e02",
+    "name": "Endless Road",
+    "code": "N31-002",
+    "hexCode": "#828282"
+  },
+  {
+    "id": "a9f4dbc0-e9d5-4d47-bfd8-b7dfb4b314d7",
+    "name": "Dark Ivory",
+    "code": "N31-003",
+    "hexCode": "#AAABAD"
+  },
+  {
+    "id": "3466f41e-8062-4ed1-a203-f5ac107d75b8",
+    "name": "Delicate Grey",
+    "code": "N31-004",
+    "hexCode": "#BDBCBE"
+  },
+  {
+    "id": "fa2a1c68-249a-4e79-9472-c26024435e8b",
+    "name": "Rolling Stones",
+    "code": "N31-005",
+    "hexCode": "#C9C8C6"
+  },
+  {
+    "id": "758043e1-45be-4c42-bb9e-92e7a8f131b6",
+    "name": "Dawson's Creek",
+    "code": "N32-001",
+    "hexCode": "#765F41"
+  },
+  {
+    "id": "5ca52d04-dc70-421c-831b-7a0ad94f3acb",
+    "name": "Chocolate Éclair",
+    "code": "N32-002",
+    "hexCode": "#B2977E"
+  },
+  {
+    "id": "450d93f9-5128-4b92-8dfc-c7cca74f0ee7",
+    "name": "Desert Storm",
+    "code": "N32-003",
+    "hexCode": "#B69F87"
+  },
+  {
+    "id": "7f54f58e-ef41-49c0-84ad-1bda8c4ea97c",
+    "name": "Sandy Beach",
+    "code": "N32-004",
+    "hexCode": "#E5D3BF"
+  },
+  {
+    "id": "5b373447-f664-4e62-9d8d-edf982f3a45a",
+    "name": "High Tea",
+    "code": "N32-005",
+    "hexCode": "#EEE3D5"
+  },
+  {
+    "id": "6664b018-2bd6-4c9f-8701-db27ddf3ed02",
+    "name": "Safari Day",
+    "code": "N33-001",
+    "hexCode": "#9A7760"
+  },
+  {
+    "id": "e56c29f8-3da6-4b9e-b4f3-c95dfe00b31d",
+    "name": "Girl Scout Cookie",
+    "code": "N33-002",
+    "hexCode": "#BD9882"
+  },
+  {
+    "id": "1be4c430-4c17-4da8-beb1-7c059433b99d",
+    "name": "Little Cottage",
+    "code": "N33-003",
+    "hexCode": "#DABBA4"
+  },
+  {
+    "id": "e9785762-0489-4952-8f14-d0362f919b34",
+    "name": "Oatmeal",
+    "code": "N33-004",
+    "hexCode": "#DFC8B2"
+  },
+  {
+    "id": "a59d1418-5fbf-4d86-b736-33b88a420add",
+    "name": "Au Naturale",
+    "code": "N33-005",
+    "hexCode": "#E8D6C2"
+  },
+  {
+    "id": "7056ade1-8e14-44ce-a9da-b65d012fdc2f",
+    "name": "Legendary Black",
+    "code": "N34-001",
+    "hexCode": "#3D3E3E"
+  },
+  {
+    "id": "83c2f8cc-4515-42f8-af04-88f969a26148",
+    "name": "Dancing Shoes",
+    "code": "N34-002",
+    "hexCode": "#5E4E52"
+  },
+  {
+    "id": "efbdf164-fbe7-4a66-a933-f5b344c69ad7",
+    "name": "Coffee Break",
+    "code": "N34-003",
+    "hexCode": "#9B8C7D"
+  },
+  {
+    "id": "85bcaceb-4be6-480b-b084-df557492520d",
+    "name": "Antique Gray",
+    "code": "N34-004",
+    "hexCode": "#CFC3B5"
+  },
+  {
+    "id": "883b9c12-d9d8-40aa-932c-d981239d1044",
+    "name": "Vanilla Skies",
+    "code": "N34-005",
+    "hexCode": "#DCCFC0"
+  },
+  {
+    "id": "95953c10-9df3-44b3-8fe7-bad712128566",
+    "name": "Pink Sunset",
+    "code": "N1 001",
+    "hexCode": "#F6DED7"
+  },
+  {
+    "id": "a47b82fd-5982-495d-a87a-8c2429dcef4c",
+    "name": "Blushed Willows",
+    "code": "N1 002",
+    "hexCode": "#EEC1B9"
+  },
+  {
+    "id": "02cd5908-964b-4a78-a3e2-93495444f553",
+    "name": "Dream Come True",
+    "code": "N1 003",
+    "hexCode": "#E2A7A0"
+  },
+  {
+    "id": "00adba86-01d4-414d-ba59-3888f838a51c",
+    "name": "Self Portrait",
+    "code": "N1 004",
+    "hexCode": "#CC837A"
+  },
+  {
+    "id": "29e1c1b0-c7f2-4637-8784-d5fe5611ac83",
+    "name": "Heaven's Door",
+    "code": "N1 005",
+    "hexCode": "#B16258"
+  },
+  {
+    "id": "0eaf3cc0-cf7c-4180-8e66-f39b93f61c8b",
+    "name": "Dear Sienna",
+    "code": "N1 006",
+    "hexCode": "#995043"
+  },
+  {
+    "id": "34b8076f-7877-4006-b2f8-c79bf7bdfbd8",
+    "name": "Shot Of Love",
+    "code": "N2 001",
+    "hexCode": "#F4E2D9"
+  },
+  {
+    "id": "46677090-d7c0-432a-9547-bf7f69f13111",
+    "name": "Dining Table",
+    "code": "N2 002",
+    "hexCode": "#F0D2C7"
+  },
+  {
+    "id": "adea1a15-4424-4e58-9bd6-2590890986bf",
+    "name": "Beach Gypsy",
+    "code": "N2 003",
+    "hexCode": "#E8BDB1"
+  },
+  {
+    "id": "aad33a16-2b7f-43c1-b7ed-a626a7f02dbe",
+    "name": "Cloud Forest",
+    "code": "N2 004",
+    "hexCode": "#D59D8E"
+  },
+  {
+    "id": "919488d9-f062-43ed-88bf-b070dd773330",
+    "name": "Joshua Tree",
+    "code": "N2 005",
+    "hexCode": "#A76D5D"
+  },
+  {
+    "id": "4bb53f59-1d73-4979-acde-03b9ba7d7309",
+    "name": "Coffee Break",
+    "code": "N2 006",
+    "hexCode": "#8E594A"
+  },
+  {
+    "id": "7cdb508c-5e91-445b-b448-ecdf53180acc",
+    "name": "Immaculate Heart",
+    "code": "N3 001",
+    "hexCode": "#F6ECE2"
+  },
+  {
+    "id": "d60946fd-9660-4ba7-bfef-e1425ed5bfb8",
+    "name": "Cedar Woods",
+    "code": "N3 002",
+    "hexCode": "#EFD9C9"
+  },
+  {
+    "id": "7c5cf87e-412e-4c10-8462-fdcd3451a37a",
+    "name": "Peace On Earth",
+    "code": "N3 003",
+    "hexCode": "#E4C0AE"
+  },
+  {
+    "id": "2d28fe71-ae58-4d50-b283-c9e525007952",
+    "name": "Miracle Grace",
+    "code": "N3 004",
+    "hexCode": "#CDA18B"
+  },
+  {
+    "id": "40d83d16-b1fb-4544-aa08-037cc0dfba8a",
+    "name": "Cool Tatami",
+    "code": "N3 005",
+    "hexCode": "#A97A65"
+  },
+  {
+    "id": "3c5f5c53-01f9-45fc-80b4-dc2c84cf5e09",
+    "name": "Open Season",
+    "code": "N3 006",
+    "hexCode": "#94644F"
+  },
+  {
+    "id": "64923d6a-07c5-4652-bd6e-6748de519ced",
+    "name": "Earth White",
+    "code": "N4 001",
+    "hexCode": "#F1E8E0"
+  },
+  {
+    "id": "1453bf78-8b29-4959-a2d3-72eae0a10334",
+    "name": "Lounge Vibe",
+    "code": "N4 002",
+    "hexCode": "#DCCDC4"
+  },
+  {
+    "id": "8661ef56-4bd7-44f3-8af1-c17a0dc53493",
+    "name": "Light Chocolate",
+    "code": "N4 003",
+    "hexCode": "#D6C2B8"
+  },
+  {
+    "id": "877ae631-091e-4ea1-8c57-93252e998f4d",
+    "name": "Mother Nature",
+    "code": "N4 004",
+    "hexCode": "#B49181"
+  },
+  {
+    "id": "1456e8eb-2870-48d0-811d-f630b46aee15",
+    "name": "I'm Coming Home",
+    "code": "N4 005",
+    "hexCode": "#917060"
+  },
+  {
+    "id": "c627877f-98c6-45d8-8260-90538626523f",
+    "name": "Carved Wood",
+    "code": "N4 006",
+    "hexCode": "#6F5043"
+  },
+  {
+    "id": "6be2e0b8-90aa-499f-aefe-cda3bdb2d0ab",
+    "name": "White As Snow",
+    "code": "N5 001",
+    "hexCode": "#EEE7E0"
+  },
+  {
+    "id": "6da04c22-fc74-4bbb-a0d7-f28aa930a4ab",
+    "name": "Driftstone",
+    "code": "N5 002",
+    "hexCode": "#E2D0C2"
+  },
+  {
+    "id": "45b6b49e-3799-48cc-88e5-76c6ebe49b4b",
+    "name": "Easy Going",
+    "code": "N5 003",
+    "hexCode": "#CAB5A8"
+  },
+  {
+    "id": "63b80b88-6137-4e6a-b001-265e2b8c0374",
+    "name": "Fresh Finds",
+    "code": "N5 004",
+    "hexCode": "#A08678"
+  },
+  {
+    "id": "e838e1d9-779e-4bd9-9728-7cf03a7d63ab",
+    "name": "Corner Coffeehouse",
+    "code": "N5 005",
+    "hexCode": "#846D60"
+  },
+  {
+    "id": "aa2290be-d46a-490a-91c5-97be009bd6e2",
+    "name": "Relax & Unwind",
+    "code": "N5 006",
+    "hexCode": "#735B46"
+  },
+  {
+    "id": "2a2122ff-c03f-4e28-9e54-a857de9d4860",
+    "name": "Mellow Mornings",
+    "code": "N6 001",
+    "hexCode": "#F4E9DE"
+  },
+  {
+    "id": "6371a88f-97b6-440b-8813-88ee85b3dd90",
+    "name": "Evening Chill",
+    "code": "N6 002",
+    "hexCode": "#E9D0BD"
+  },
+  {
+    "id": "40f5d96e-b6b6-4de9-bdff-32f00b705667",
+    "name": "Mocha Hill",
+    "code": "N6 003",
+    "hexCode": "#D6B79F"
+  },
+  {
+    "id": "b044681f-b942-4f48-ab3d-f8dac3c2b437",
+    "name": "Close To Home",
+    "code": "N6 004",
+    "hexCode": "#C7A287"
+  },
+  {
+    "id": "a63b1007-8fbd-4b27-b257-158bda1d90aa",
+    "name": "Personal Space",
+    "code": "N6 005",
+    "hexCode": "#A57A5D"
+  },
+  {
+    "id": "fac343ab-e9e0-49f9-8898-b532d84e2a21",
+    "name": "Old Friends",
+    "code": "N6 006",
+    "hexCode": "#88634B"
+  },
+  {
+    "id": "bafd8cc4-abe9-4b7a-82eb-84ad67067e6a",
+    "name": "Dovetail White",
+    "code": "N7 001",
+    "hexCode": "#F6EADB"
+  },
+  {
+    "id": "1513acca-9979-4b88-8454-acd07755a175",
+    "name": "Meant To Be",
+    "code": "N7 002",
+    "hexCode": "#F2DFCA"
+  },
+  {
+    "id": "63350a43-eba3-4049-84e8-e51144927856",
+    "name": "Park Bench Deli",
+    "code": "N7 003",
+    "hexCode": "#ECD2B9"
+  },
+  {
+    "id": "4e86f796-bba2-4cca-bb25-b87265d4f533",
+    "name": "Acoustic Soul",
+    "code": "N7 004",
+    "hexCode": "#D7AF8E"
+  },
+  {
+    "id": "1830e999-7d37-466c-a808-0b4b68069feb",
+    "name": "Ambient Music",
+    "code": "N7 005",
+    "hexCode": "#B78761"
+  },
+  {
+    "id": "7abcf96a-c00d-4315-827b-498f600f47ca",
+    "name": "True Relaxation",
+    "code": "N7 006",
+    "hexCode": "#A07450"
+  },
+  {
+    "id": "f537bc79-0112-4b7c-9c82-9ccad1ab1b6e",
+    "name": "Beige Harmony",
+    "code": "N8 001",
+    "hexCode": "#F0E1CD"
+  },
+  {
+    "id": "414cc839-502e-422a-aee7-69514aec3497",
+    "name": "Grain Of Sand",
+    "code": "N8 002",
+    "hexCode": "#E9D5BD"
+  },
+  {
+    "id": "820a0849-5264-4f98-8e0e-c5d12221339b",
+    "name": "Laidback Sunday",
+    "code": "N8 003",
+    "hexCode": "#DBC5AB"
+  },
+  {
+    "id": "acbb23cb-f6f8-4142-8e21-00d27dfca821",
+    "name": "Peaceful Valley",
+    "code": "N8 004",
+    "hexCode": "#CEB598"
+  },
+  {
+    "id": "d40c1280-d197-4b24-a546-cf60a7d5af5a",
+    "name": "Sticky Toffee",
+    "code": "N8 005",
+    "hexCode": "#AE8E6A"
+  },
+  {
+    "id": "18b88a61-1052-4916-b47c-6afb0d1c64ea",
+    "name": "Dry Woodland",
+    "code": "N8 006",
+    "hexCode": "#826648"
+  },
+  {
+    "id": "2a8563f1-fe61-4632-9906-5e6520cac1e6",
+    "name": "White Oakwood",
+    "code": "N9 001",
+    "hexCode": "#F3EBDE"
+  },
+  {
+    "id": "8a11b496-742e-453f-972c-2641fb5a0cdd",
+    "name": "Inner Beauty",
+    "code": "N9 002",
+    "hexCode": "#E9DCCA"
+  },
+  {
+    "id": "380233a9-daff-43ca-9213-d4040eb5645a",
+    "name": "Oatmeal Biscuit",
+    "code": "N9 003",
+    "hexCode": "#CFBFA8"
+  },
+  {
+    "id": "b0bfdb71-4c73-4e64-a1c1-4b4ea2e892a4",
+    "name": "Limestone Cave",
+    "code": "N9 004",
+    "hexCode": "#BDAA8F"
+  },
+  {
+    "id": "46c15728-1703-46d9-b67a-45e83d75df61",
+    "name": "Olive Dress",
+    "code": "N9 005",
+    "hexCode": "#927E63"
+  },
+  {
+    "id": "a7074f59-a90e-4a8e-b8f5-88b7ede32711",
+    "name": "Healing Aloe",
+    "code": "N9 006",
+    "hexCode": "#74654F"
+  },
+  {
+    "id": "a933fd3a-1b44-42f0-bc2e-e1f4d405009e",
+    "name": "Soft Cushion",
+    "code": "N10 001",
+    "hexCode": "#F0E5D2"
+  },
+  {
+    "id": "5691b299-86bf-4d86-a836-36defc54a2c8",
+    "name": "Back To Nature",
+    "code": "N10 002",
+    "hexCode": "#E9DAC1"
+  },
+  {
+    "id": "c1a053ad-9f8d-4aee-a424-925ac06122c1",
+    "name": "Linen Patterns",
+    "code": "N10 003",
+    "hexCode": "#D7C5A7"
+  },
+  {
+    "id": "fe13355c-9ab0-48e4-96b8-cbd33f6df030",
+    "name": "Cozy Bedroom",
+    "code": "N10 004",
+    "hexCode": "#CEB896"
+  },
+  {
+    "id": "1e2e7fa0-3015-4755-a715-03ef53d8fdc2",
+    "name": "Vintage Art",
+    "code": "N10 005",
+    "hexCode": "#BBA075"
+  },
+  {
+    "id": "e9a385a8-1fcf-41c2-a81a-d057bdbb86a9",
+    "name": "Rustic Look",
+    "code": "N10 006",
+    "hexCode": "#AD9165"
+  },
+  {
+    "id": "ea01db96-30a0-4f13-b7d3-63346a5b0c99",
+    "name": "Camping Day",
+    "code": "N11 001",
+    "hexCode": "#E9DFC6"
+  },
+  {
+    "id": "2484bd8d-5858-4116-ad9a-05bc75dc094c",
+    "name": "Lovely Courtyard",
+    "code": "N11 002",
+    "hexCode": "#E1D3B6"
+  },
+  {
+    "id": "418893da-8ce1-4801-a87c-9250f8e9e0d7",
+    "name": "Serene Meadows",
+    "code": "N11 003",
+    "hexCode": "#D3C5A5"
+  },
+  {
+    "id": "2c67e7a2-5686-46b9-8594-50e303a133e7",
+    "name": "Olive Grove",
+    "code": "N11 004",
+    "hexCode": "#C5B48F"
+  },
+  {
+    "id": "1c0a4ded-7e33-4019-8364-c5699555c45b",
+    "name": "Bohemian Vibes",
+    "code": "N11 005",
+    "hexCode": "#B6A070"
+  },
+  {
+    "id": "e79ac11c-a497-4105-ad18-9d5cd381d258",
+    "name": "Almost Home",
+    "code": "N11 006",
+    "hexCode": "#857348"
+  },
+  {
+    "id": "b20dc217-77b6-4cc8-8956-12434ead9457",
+    "name": "Kiwi Splash",
+    "code": "N12 001",
+    "hexCode": "#E9E6D5"
+  },
+  {
+    "id": "b47b1572-8ba6-49df-a56d-f10ac98148a6",
+    "name": "Slow & Easy",
+    "code": "N12 002",
+    "hexCode": "#DAD7C1"
+  },
+  {
+    "id": "0be2bf7b-4af0-4b19-bc99-6dc4c2e735a9",
+    "name": "Bamboo House",
+    "code": "N12 003",
+    "hexCode": "#C5C1A4"
+  },
+  {
+    "id": "95b71db6-4898-4ac1-b83c-c6dfa4d2a3ee",
+    "name": "Quiet Village",
+    "code": "N12 004",
+    "hexCode": "#B2AF90"
+  },
+  {
+    "id": "47dedce7-d705-4b15-b857-ee31aa6533a4",
+    "name": "Small Wonder",
+    "code": "N12 005",
+    "hexCode": "#A19B76"
+  },
+  {
+    "id": "a5930ddc-07e6-41bf-b6af-54a2d43cbc97",
+    "name": "Sky Garden",
+    "code": "N12 006",
+    "hexCode": "#6D6B4D"
+  },
+  {
+    "id": "6ae06fbe-b389-411c-b814-d6fcbe1958b6",
+    "name": "Moonstone",
+    "code": "N13 001",
+    "hexCode": "#D8E3E1"
+  },
+  {
+    "id": "1bdbed4f-5160-4441-a97e-19edb1f56193",
+    "name": "Floating Iceberg",
+    "code": "N13 002",
+    "hexCode": "#C3D6D7"
+  },
+  {
+    "id": "6548cfdd-3bb8-473f-844c-45d211932beb",
+    "name": "Across The Horizon",
+    "code": "N13 003",
+    "hexCode": "#B1CACD"
+  },
+  {
+    "id": "8fa32f9b-2a56-4f69-a763-3ce6f2f897e8",
+    "name": "Well Travelled",
+    "code": "N13 004",
+    "hexCode": "#9ABBC0"
+  },
+  {
+    "id": "6a361f55-9e10-41de-96b3-fb7f3fe85ac1",
+    "name": "Singing The Blues",
+    "code": "N13 005",
+    "hexCode": "#85A7AE"
+  },
+  {
+    "id": "e28726b2-4f4b-4ecb-a563-787bdf5b51c2",
+    "name": "Midnight Drive",
+    "code": "N13 006",
+    "hexCode": "#58777C"
+  },
+  {
+    "id": "11224919-9dbd-4ccf-9468-10633388f08e",
+    "name": "Early Winter",
+    "code": "N14 001",
+    "hexCode": "#DBE3E1"
+  },
+  {
+    "id": "dddf7098-5ebe-4428-84d9-cb209d4b3ec3",
+    "name": "Clear Lake",
+    "code": "N14 002",
+    "hexCode": "#C3D1D6"
+  },
+  {
+    "id": "dae1d59c-b1ed-4e60-9e33-0634726e1d8f",
+    "name": "Winter Sleep",
+    "code": "N14 003",
+    "hexCode": "#B5C5CD"
+  },
+  {
+    "id": "e5001b23-8f7b-455b-aa73-762037c68b2a",
+    "name": "Last Dream",
+    "code": "N14 004",
+    "hexCode": "#9DB4BF"
+  },
+  {
+    "id": "c4c6b4ef-604e-47ff-a6a5-99ed36236ae4",
+    "name": "Bespoke Shoes",
+    "code": "N14 005",
+    "hexCode": "#89A1AF"
+  },
+  {
+    "id": "88cd9c29-000f-4d72-a14e-e4c296fbbb82",
+    "name": "All Night Long",
+    "code": "N14 006",
+    "hexCode": "#627986"
+  },
+  {
+    "id": "16334771-456f-4d1d-81b7-8bfc09be74d2",
+    "name": "Heaven's Gate",
+    "code": "N15 001",
+    "hexCode": "#DCDEDC"
+  },
+  {
+    "id": "668c6333-4190-4bdd-9701-39d1df2aca11",
+    "name": "Mystery Angel",
+    "code": "N15 002",
+    "hexCode": "#CED2D3"
+  },
+  {
+    "id": "1b1e4f89-b357-4c05-8f94-daf137fa413a",
+    "name": "Early Grey",
+    "code": "N15 003",
+    "hexCode": "#B6BCC0"
+  },
+  {
+    "id": "ab33b959-8696-4edb-84da-20986e4d78d0",
+    "name": "Hazy Skies",
+    "code": "N15 004",
+    "hexCode": "#A3AEB6"
+  },
+  {
+    "id": "d5c49628-e0f0-4c3f-81e4-2cf621ddf2fc",
+    "name": "Baby Elephant",
+    "code": "N15 005",
+    "hexCode": "#909CA5"
+  },
+  {
+    "id": "cf357e06-4fa2-45f0-b2b8-1c04a6c5b35c",
+    "name": "After Dark",
+    "code": "N15 006",
+    "hexCode": "#60676E"
+  },
+  {
+    "id": "40a6e0d2-781a-444e-b36a-70ceab3ca446",
+    "name": "Winter Blizzard",
+    "code": "N16 001",
+    "hexCode": "#E2E5E1"
+  },
+  {
+    "id": "3cc6bd85-1aba-413d-af79-593f719f141e",
+    "name": "Silver Tip",
+    "code": "N16 002",
+    "hexCode": "#D5DBDA"
+  },
+  {
+    "id": "ccc655a7-33af-41a1-9080-a52a2e4760d9",
+    "name": "Modern Grey",
+    "code": "N16 003",
+    "hexCode": "#B2BCBF"
+  },
+  {
+    "id": "b6e69e10-9a9c-4b81-9810-a650ff2c2f00",
+    "name": "Moonlight Dance",
+    "code": "N16 004",
+    "hexCode": "#959FA5"
+  },
+  {
+    "id": "6c9b76cb-8d96-47d9-b5ef-addce4625241",
+    "name": "Rock Pool",
+    "code": "N16 005",
+    "hexCode": "#798389"
+  },
+  {
+    "id": "42534f11-2a68-41fd-871f-8cb8f91a487c",
+    "name": "Midnight Sky",
+    "code": "N16 006",
+    "hexCode": "#687075"
+  },
+  {
+    "id": "4a971e97-8036-4595-b0ca-a6891e0c53c1",
+    "name": "Silver Lining",
+    "code": "N17 001",
+    "hexCode": "#DEDEDB"
+  },
+  {
+    "id": "0e4880a1-7ae6-4585-98b2-d670eee35f89",
+    "name": "Free Your Mind",
+    "code": "N17 002",
+    "hexCode": "#D1D2D1"
+  },
+  {
+    "id": "a573aaf4-f0f9-4697-b2fa-e96a42b98b8f",
+    "name": "Granite City",
+    "code": "N17 003",
+    "hexCode": "#BABBBC"
+  },
+  {
+    "id": "cd5cea73-2948-4817-9578-b8779ddd53b4",
+    "name": "Grey Sidewalk",
+    "code": "N17 004",
+    "hexCode": "#9C9DA0"
+  },
+  {
+    "id": "542c7d1a-8b79-482f-8411-5a06d13b82f6",
+    "name": "Lava Stone",
+    "code": "N17 005",
+    "hexCode": "#818284"
+  },
+  {
+    "id": "0114913e-5e65-48ac-9539-6d89c0fc6354",
+    "name": "Cosmic Universe",
+    "code": "N17 006",
+    "hexCode": "#5D5D5E"
+  },
+  {
+    "id": "4d78c470-3698-45ec-93b0-5bf9b759b24b",
+    "name": "Paper Plane",
+    "code": "N18 001",
+    "hexCode": "#DEDFDB"
+  },
+  {
+    "id": "5e11b945-9ca8-4ec3-a68e-dbaa7c2f4b20",
+    "name": "Space Grey",
+    "code": "N18 002",
+    "hexCode": "#C9CAC8"
+  },
+  {
+    "id": "42869f2e-ff23-4d59-b0cd-deff856c65e0",
+    "name": "Steel Bridge",
+    "code": "N18 003",
+    "hexCode": "#AFB4B3"
+  },
+  {
+    "id": "b7022957-2b0e-40bb-8f4a-c9a42de8a922",
+    "name": "Enchanting Night",
+    "code": "N18 004",
+    "hexCode": "#9FA4A4"
+  },
+  {
+    "id": "69df161c-2f0d-4d90-8d46-a984dd28b0fa",
+    "name": "Grey Weather Day",
+    "code": "N18 005",
+    "hexCode": "#878A87"
+  },
+  {
+    "id": "d378c36c-5a8c-46fe-8013-f4b1a73b6226",
+    "name": "Pebbled Road",
+    "code": "N18 006",
+    "hexCode": "#727573"
+  },
+  {
+    "id": "a548e306-7ae2-47d9-a695-49c6d2836069",
+    "name": "Great Geyser",
+    "code": "N19 001",
+    "hexCode": "#E6E4DE"
+  },
+  {
+    "id": "c2b393bb-b87d-4e7a-97e7-54032cecd742",
+    "name": "Dream Site",
+    "code": "N19 002",
+    "hexCode": "#D9D8D4"
+  },
+  {
+    "id": "b3546607-bbf1-4415-b76d-00cb2d9f4c76",
+    "name": "Equator Moon",
+    "code": "N19 003",
+    "hexCode": "#C4C4C0"
+  },
+  {
+    "id": "0b890754-e379-4b68-b7e6-a976aab9b665",
+    "name": "Sleeping Seals",
+    "code": "N19 004",
+    "hexCode": "#A5A6A4"
+  },
+  {
+    "id": "ea2e1d80-d440-41c7-99ec-e824cc185fbc",
+    "name": "Artisan Grey",
+    "code": "N19 005",
+    "hexCode": "#7E807E"
+  },
+  {
+    "id": "cb9954b9-4f52-4fcd-a237-6b732743b6b4",
+    "name": "Twilight Zone",
+    "code": "N19 006",
+    "hexCode": "#4D4C4A"
+  },
+  {
+    "id": "6cf83e41-f29c-4710-b794-bb78b2cf9706",
+    "name": "Winter Tundra",
+    "code": "N20 001",
+    "hexCode": "#E0DEDA"
+  },
+  {
+    "id": "b1188474-f6de-4ef1-882f-90ad07ac6b58",
+    "name": "Suede Grey",
+    "code": "N20 002",
+    "hexCode": "#CBCAC5"
+  },
+  {
+    "id": "e0a1fe4e-8400-47f8-8704-d3fd06558434",
+    "name": "Sizzling Rock",
+    "code": "N20 003",
+    "hexCode": "#BAB8B5"
+  },
+  {
+    "id": "a3f80b36-851b-4568-950d-858eecab26e1",
+    "name": "Cloudy Day",
+    "code": "N20 004",
+    "hexCode": "#A7A5A3"
+  },
+  {
+    "id": "2d51a4a8-4848-4eef-a88f-fd731357f746",
+    "name": "Groovy Grey",
+    "code": "N20 005",
+    "hexCode": "#8F8A84"
+  },
+  {
+    "id": "fc35a90c-f75c-4e7a-964b-d381db66f15f",
+    "name": "Black Velvet",
+    "code": "N20 006",
+    "hexCode": "#4A4846"
+  },
+  {
+    "id": "a9d3a644-4543-4e6f-988a-46ffb0883029",
+    "name": "Wanderlust",
+    "code": "N21 001",
+    "hexCode": "#DDDAD6"
+  },
+  {
+    "id": "4f7abfc8-3f76-4e15-b306-2ac997e23dea",
+    "name": "Full Moon",
+    "code": "N21 002",
+    "hexCode": "#D1CDC6"
+  },
+  {
+    "id": "9bbb3752-ed87-432f-9f83-6d3262920a8d",
+    "name": "Great Grey",
+    "code": "N21 003",
+    "hexCode": "#CAC3BA"
+  },
+  {
+    "id": "2545a18c-15c5-4489-8c6f-dfdc8074bf44",
+    "name": "Social Evening",
+    "code": "N21 004",
+    "hexCode": "#AFAAA1"
+  },
+  {
+    "id": "fb5032ac-612c-4a44-8319-f6e9366e3e60",
+    "name": "Rock Formations",
+    "code": "N21 005",
+    "hexCode": "#8B847A"
+  },
+  {
+    "id": "564ced50-d10e-420c-9059-9ac0c28ec2af",
+    "name": "Sky Fall",
+    "code": "N21 006",
+    "hexCode": "#574F43"
+  },
+  {
+    "id": "8f2487f0-2ffd-49f7-82bf-5c393d4c48c0",
+    "name": "Linen Sheets",
+    "code": "N22 001",
+    "hexCode": "#E5DED5"
+  },
+  {
+    "id": "22111df0-5c12-4c84-8722-0ff89f43417c",
+    "name": "Rock Oyster",
+    "code": "N22 002",
+    "hexCode": "#DFD8CD"
+  },
+  {
+    "id": "62be4da9-397c-4ee4-a8a1-da452245766d",
+    "name": "Sand Cave",
+    "code": "N22 003",
+    "hexCode": "#D6C9BF"
+  },
+  {
+    "id": "108377af-8620-49bd-924c-b51d8c2a568e",
+    "name": "Antique Grey",
+    "code": "N22 004",
+    "hexCode": "#BCB2A6"
+  },
+  {
+    "id": "9c8790a9-83eb-4fd7-905d-2743905f8b51",
+    "name": "Stone Wall",
+    "code": "N22 005",
+    "hexCode": "#8C8176"
+  },
+  {
+    "id": "2a1082c2-1086-4539-8bfa-e6b3e626da9a",
+    "name": "Interstellar",
+    "code": "N22 006",
+    "hexCode": "#60564B"
+  },
+  {
+    "id": "1f9e63e6-1f02-4649-b9de-16a57b23a9a7",
+    "name": "Precious Mineral",
+    "code": "N23 001",
+    "hexCode": "#E1DAD2"
+  },
+  {
+    "id": "19d81674-a786-4331-9ed4-65b41cf14309",
+    "name": "Cotton Puff",
+    "code": "N23 002",
+    "hexCode": "#D3CBC2"
+  },
+  {
+    "id": "2c99b136-6c9e-4770-b6cc-7cdeb254a266",
+    "name": "Titanium Grey",
+    "code": "N23 003",
+    "hexCode": "#C7BEB5"
+  },
+  {
+    "id": "10be77eb-b5bc-471e-807f-e9984c5cf83f",
+    "name": "Beacon Of Hope",
+    "code": "N23 004",
+    "hexCode": "#241D16"
+  },
+  {
+    "id": "5dd27961-6705-4714-bf19-ed90a19d53af",
+    "name": "Smokey Quartz",
+    "code": "N23 005",
+    "hexCode": "#9D8E81"
+  },
+  {
+    "id": "fa22e78d-5928-42c0-8fe9-b7f2026c065c",
+    "name": "Outer Space",
+    "code": "N23 006",
+    "hexCode": "#564C45"
+  },
+  {
+    "id": "96c4eb63-231f-4418-9d81-d3b6fc735b70",
+    "name": "Piano Bar",
+    "code": "N24 001",
+    "hexCode": "#E0D9D2"
+  },
+  {
+    "id": "5bc1117d-4ac2-4adf-b800-ef4c78188009",
+    "name": "Timeless Moment",
+    "code": "N24 002",
+    "hexCode": "#D5CBC4"
+  },
+  {
+    "id": "192a67a8-633c-4b51-a50a-2c09948c19fb",
+    "name": "Cool Ash",
+    "code": "N24 003",
+    "hexCode": "#C4B8B0"
+  },
+  {
+    "id": "509d80ae-82a0-4141-8932-edf18bf027cd",
+    "name": "Soothing Grey",
+    "code": "N24 004",
+    "hexCode": "#B7ABA4"
+  },
+  {
+    "id": "e02dbbe7-b196-411a-85f1-b9f4a606a37d",
+    "name": "Rock Steady",
+    "code": "N24 005",
+    "hexCode": "#A19084"
+  },
+  {
+    "id": "33c6972d-c4e3-4e28-afa2-f6139c941ee9",
+    "name": "Pure Cocoa",
+    "code": "N24 006",
+    "hexCode": "#584A42"
+  },
+  {
+    "id": "03c18f0b-a4a8-4d29-bc4a-525a42d661c5",
+    "name": "Lifelong Journey",
+    "code": "N25 001",
+    "hexCode": "#D0C7C5"
+  },
+  {
+    "id": "c7c6f398-69bc-4d15-9c01-a8d11c413d2f",
+    "name": "Open Ceremony",
+    "code": "N25 002",
+    "hexCode": "#C4B9B8"
+  },
+  {
+    "id": "1e3b85ab-f20b-42f0-80ad-3666b3338fe1",
+    "name": "Barista Blend",
+    "code": "N25 003",
+    "hexCode": "#AFA4A5"
+  },
+  {
+    "id": "bf8adaf3-ddab-424e-93bb-06454879673d",
+    "name": "Friendship Bracelet",
+    "code": "N25 004",
+    "hexCode": "#A19494"
+  },
+  {
+    "id": "d032baef-054e-4d8e-b48a-cc30bb40e8ce",
+    "name": "Chocolate Brownie",
+    "code": "N25 005",
+    "hexCode": "#766562"
+  },
+  {
+    "id": "20d7e34d-b635-4e3a-a082-a7225a57035c",
+    "name": "Rocking Chair",
+    "code": "N25 006",
+    "hexCode": "#5E4A45"
+  },
+  {
+    "id": "4c695142-16c1-4659-8f48-76229f5ccfd2",
+    "name": "Sunny Lemon",
+    "code": "Y20 001",
+    "hexCode": "#F6EBCF"
+  }
+]

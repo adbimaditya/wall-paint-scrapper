@@ -21,8 +21,8 @@ export default async function scrapDuluxColors() {
   const links = await page.locator('.a20-color-box').all();
 
   for (const link of links.slice(1)) {
-    const palettes = await page.locator('.item.related-item-color').all();
     const colorsInPage: Color[] = [];
+    const palettes = await page.locator('.item.related-item-color').all();
 
     for (const palette of palettes) {
       const colorPalette = palette.locator('.m7-color-card');

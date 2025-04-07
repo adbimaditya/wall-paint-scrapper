@@ -52,7 +52,7 @@ export default async function scrapNipponPaintColors() {
 
   await writeFileAsync(NIPPON_PAINT_FILE_PATH, getUniqueColors(colors));
 
-  closeBrowser(browser);
+  await closeBrowser(browser);
 
   spinner.succeed('Scrap Nippon Paint colors completed successfully.');
 }
