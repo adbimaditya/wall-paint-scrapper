@@ -1,5 +1,6 @@
 /* eslint-disable no-undef */
 
+import { Page } from '@playwright/test';
 import ora from 'ora';
 
 import type { NormalizeColorArgs } from '../libs/args.ts';
@@ -11,15 +12,7 @@ import { getUniqueColors, normalizeColor, rgbStyleToRgb, rgbToHexCode } from '..
 
 const URL = 'https://avianbrands.com/color';
 
-export default async function scrapAvianBrandsColors() {
-  const spinner = ora('Scraping Avian Brands colors...').start();
-
-  const { browser, page } = await createBrowser();
-
-  await page.goto(URL, { waitUntil: 'networkidle' });
-
-  await page.getByText('OK', { exact: true }).click();
-
+async function scrapColors(page: Page) {
   const colors: Color[] = [];
   const slugs: string[] = ['red', 'orange', 'yellow', 'green', 'blue', 'purple', 'neutral'];
 
@@ -47,8 +40,20 @@ export default async function scrapAvianBrandsColors() {
     colors.push(...colorsInPage);
   }
 
-  await writeFileAsync(AVIAN_BRANDS_FILE_PATH, getUniqueColors(colors));
+  return colors;
+}
 
+export default async function scrapAvianBrandsColors() {
+  const spinner = ora('Scraping Avian Brands colors...').start();
+
+  const { browser, page } = await createBrowser();
+
+  await page.goto(URL, { waitUntil: 'networkidle' });
+  await page.getByText('OK', { exact: true }).click();
+
+  const colors = await scrapColors(page);
+
+  await writeFileAsync(AVIAN_BRANDS_FILE_PATH, getUniqueColors(colors));
   await closeBrowser(browser);
 
   spinner.succeed('Scrap Avian Brands colors completed successfully.');

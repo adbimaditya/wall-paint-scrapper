@@ -56,16 +56,11 @@ async function fetchColors(page: Page) {
   } while (!(await isAllColorsReady(page)));
 }
 
-export default async function scrapJotunColors() {
-  const spinner = ora('Scraping Jotun colors...').start();
-
-  const { browser, page } = await createBrowser();
-
+async function scrapColors(page: Page) {
   const colors: Color[] = [];
 
   for (const [index, url] of URLS.entries()) {
     await page.goto(url, { waitUntil: 'domcontentloaded' });
-
     if (isFirstIteration(index)) {
       await page.getByRole('region').getByRole('button', { name: 'Reject All' }).click();
     }
@@ -102,8 +97,17 @@ export default async function scrapJotunColors() {
     colors.push(...colorsInPage);
   }
 
-  await writeFileAsync(JOTUN_FILE_PATH, getUniqueColors(colors));
+  return colors;
+}
 
+export default async function scrapJotunColors() {
+  const spinner = ora('Scraping Jotun colors...').start();
+
+  const { browser, page } = await createBrowser();
+
+  const colors = await scrapColors(page);
+
+  await writeFileAsync(JOTUN_FILE_PATH, getUniqueColors(colors));
   await closeBrowser(browser);
 
   spinner.succeed('Scrap Jotun colors completed successfully.');

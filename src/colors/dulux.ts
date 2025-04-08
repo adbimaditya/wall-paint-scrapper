@@ -1,3 +1,4 @@
+import { Page } from '@playwright/test';
 import ora from 'ora';
 
 import type { NormalizeColorArgs } from '../libs/args.ts';
@@ -9,14 +10,7 @@ import { getUniqueColors, normalizeColor } from '../libs/utils.ts';
 
 const URL = 'https://www.dulux.co.id/id/palet-warna';
 
-export default async function scrapDuluxColors() {
-  const spinner = ora('Scraping Dulux colors...').start();
-
-  const { browser, page } = await createBrowser();
-
-  await page.goto(URL, { waitUntil: 'networkidle' });
-  await page.getByRole('dialog').getByRole('button', { name: 'Reject All' }).click();
-
+async function scrapColors(page: Page) {
   const colors: Color[] = [];
   const links = await page.locator('.a20-color-box').all();
 
@@ -44,8 +38,20 @@ export default async function scrapDuluxColors() {
     await page.waitForURL(url);
   }
 
-  await writeFileAsync(DULUX_FILE_PATH, getUniqueColors(colors));
+  return colors;
+}
 
+export default async function scrapDuluxColors() {
+  const spinner = ora('Scraping Dulux colors...').start();
+
+  const { browser, page } = await createBrowser();
+
+  await page.goto(URL, { waitUntil: 'networkidle' });
+  await page.getByRole('dialog').getByRole('button', { name: 'Reject All' }).click();
+
+  const colors = await scrapColors(page);
+
+  await writeFileAsync(DULUX_FILE_PATH, getUniqueColors(colors));
   await closeBrowser(browser);
 
   spinner.succeed('Scrap Dulux colors completed successfully.');
