@@ -47,3 +47,7 @@ export function rgbStyleToRgb(rgbStyle: string): RGB {
 export function rgbToHexCode({ r, g, b }: RGB) {
   return `#${numberToHexadecimal(r)}${numberToHexadecimal(g)}${numberToHexadecimal(b)}`;
 }
+
+export function isFirstIteration(index: number) {
+  return index === 0;
+}

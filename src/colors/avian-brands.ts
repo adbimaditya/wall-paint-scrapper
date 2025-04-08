@@ -31,7 +31,7 @@ export default async function scrapAvianBrandsColors() {
 
     for (const palette of palettes) {
       const label = palette.locator('div div');
-      const rgbStyle = await palette.evaluate(async (element) =>
+      const rgbStyle = await palette.evaluate((element) =>
         window.getComputedStyle(element).getPropertyValue('background-color'),
       );
 

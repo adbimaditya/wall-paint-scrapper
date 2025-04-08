@@ -1,0 +1,3686 @@
+[
+  {
+    "id": "6512e49d-bc51-4655-8db6-3315a038a8a9",
+    "name": "Fresh Pasta",
+    "code": "1775",
+    "hexCode": "#E9DAB1"
+  },
+  {
+    "id": "c194255e-d151-46ce-ae98-f58af5acb027",
+    "name": "Morning Fog",
+    "code": "9918",
+    "hexCode": "#F0EFEA"
+  },
+  {
+    "id": "4cf01b24-7664-47af-9819-f81c87c7fc20",
+    "name": "Mexico",
+    "code": "0288",
+    "hexCode": "#B99E6B"
+  },
+  {
+    "id": "13b63ae2-5c61-410f-bb89-4d17c8cad331",
+    "name": "Cactus",
+    "code": "0274",
+    "hexCode": "#D7C088"
+  },
+  {
+    "id": "bb8f2137-ddda-40ad-a623-1ecbff44f9ae",
+    "name": "Velvet",
+    "code": "10246",
+    "hexCode": "#D6BD90"
+  },
+  {
+    "id": "52f28b3d-9a5e-4650-b470-290acc8936cf",
+    "name": "Vandyke Brown",
+    "code": "10249",
+    "hexCode": "#79736D"
+  },
+  {
+    "id": "4dd1ef94-e935-4129-9fc6-bc3b44105062",
+    "name": "Washed Linen",
+    "code": "10679",
+    "hexCode": "#C9C3B6"
+  },
+  {
+    "id": "9819bfb6-fc82-4766-8170-e84a35a812de",
+    "name": "Soft Radiance",
+    "code": "12080",
+    "hexCode": "#D9CCAF"
+  },
+  {
+    "id": "75173d23-9742-4742-bb32-d608a8e8b650",
+    "name": "Silky Yellow",
+    "code": "12081",
+    "hexCode": "#CCBD9D"
+  },
+  {
+    "id": "87c2069a-fb8c-4a96-89b9-1b14d5094205",
+    "name": "Desert Pink",
+    "code": "12120",
+    "hexCode": "#BF9F86"
+  },
+  {
+    "id": "882d3f64-94e8-4ac1-a2b9-1c97c839de6a",
+    "name": "Natural Green",
+    "code": "8575",
+    "hexCode": "#7A7861"
+  },
+  {
+    "id": "cce8633a-5b51-48d2-9da5-356af289dba8",
+    "name": "Bella",
+    "code": "2489",
+    "hexCode": "#D9926D"
+  },
+  {
+    "id": "da2461d4-128e-4eb9-ba94-680d87bd906a",
+    "name": "Light Eggplant",
+    "code": "3206",
+    "hexCode": "#9D9697"
+  },
+  {
+    "id": "7257ff6d-1ac2-4f61-bc32-fd0e3bd6626e",
+    "name": "Macchiato",
+    "code": "1359",
+    "hexCode": "#CEC1B1"
+  },
+  {
+    "id": "11d06816-b330-45ac-b8dd-7ef338f8b974",
+    "name": "Antique Yellow",
+    "code": "1392",
+    "hexCode": "#D4B58B"
+  },
+  {
+    "id": "5962eb1d-86d0-4e9c-8f40-77e89c5dcb2d",
+    "name": "Heath Violet",
+    "code": "4177",
+    "hexCode": "#D0D7DE"
+  },
+  {
+    "id": "10e12f70-1dbb-4640-8f95-56d8437c8129",
+    "name": "Blue Harmony",
+    "code": "4594",
+    "hexCode": "#6B717C"
+  },
+  {
+    "id": "268050bb-0173-4509-9447-8df49d784021",
+    "name": "Summer Snow",
+    "code": "1928",
+    "hexCode": "#E5E2D8"
+  },
+  {
+    "id": "ff7d9325-fb06-4837-8c48-1dbfe4b02d34",
+    "name": "Icy Blue",
+    "code": "5044",
+    "hexCode": "#808D92"
+  },
+  {
+    "id": "f521043f-6f1a-41d7-b5c7-29066d17e3bc",
+    "name": "Alda",
+    "code": "8331",
+    "hexCode": "#9C9D60"
+  },
+  {
+    "id": "770ec97c-c51f-4b3a-9ab0-faa50cbaf78d",
+    "name": "Arctic Grey",
+    "code": "5249",
+    "hexCode": "#919DA0"
+  },
+  {
+    "id": "30e6a6e5-671c-40d8-84d4-fee3b42c5d74",
+    "name": "Industrial Grey",
+    "code": "5343",
+    "hexCode": "#8D908F"
+  },
+  {
+    "id": "c14f3d70-8de0-411b-b030-526827753c03",
+    "name": "Dusty Rose",
+    "code": "20055",
+    "hexCode": "#A0847A"
+  },
+  {
+    "id": "fe7708ba-6bdc-4007-bb6a-38784e6297a3",
+    "name": "Local Green",
+    "code": "8546",
+    "hexCode": "#948A6F"
+  },
+  {
+    "id": "fe003e7d-b14d-4433-b44b-a05ed43647cd",
+    "name": "Orchid Green",
+    "code": "8004",
+    "hexCode": "#9C964C"
+  },
+  {
+    "id": "be090821-1eb0-4aac-9a9d-9d317483b3e1",
+    "name": "Amber Red",
+    "code": "20118",
+    "hexCode": "#9B6C5C"
+  },
+  {
+    "id": "2c23c3b6-0706-4d44-a041-18b611f6806d",
+    "name": "Industrial Blue",
+    "code": "5455",
+    "hexCode": "#4D616C"
+  },
+  {
+    "id": "a628997a-be7e-4f53-956d-6cc4ce0df45a",
+    "name": "Daydream",
+    "code": "20142",
+    "hexCode": "#806A62"
+  },
+  {
+    "id": "088f3e2d-32ef-4f82-8f16-790c81123d9f",
+    "name": "Soft Teal",
+    "code": "6350",
+    "hexCode": "#9AA49E"
+  },
+  {
+    "id": "8e9859ea-ae64-4d80-85de-ab16e577bcb7",
+    "name": "Wisdom",
+    "code": "20145",
+    "hexCode": "#615957"
+  },
+  {
+    "id": "b74d820f-0c26-4406-89ff-9dfa14e36ef7",
+    "name": "Evening Green",
+    "code": "6352",
+    "hexCode": "#7F8985"
+  },
+  {
+    "id": "ffe5150e-84a1-4989-ab3e-c46d46ba821c",
+    "name": "Empire",
+    "code": "0520",
+    "hexCode": "#CBCBC9"
+  },
+  {
+    "id": "5dc052b1-78ca-4037-9060-9f94f43062f1",
+    "name": "Moss Green",
+    "code": "7354",
+    "hexCode": "#696A66"
+  },
+  {
+    "id": "efe0798f-d587-4bda-aaf0-5ecf5b312315",
+    "name": "Vintage Linen",
+    "code": "4165",
+    "hexCode": "#A6C4E0"
+  },
+  {
+    "id": "ec79986b-ce20-4817-8b39-e3bb738b5fbb",
+    "name": "Airy Green",
+    "code": "7626",
+    "hexCode": "#D8DBCF"
+  },
+  {
+    "id": "9abd8baf-6230-4acc-9309-32a69e57cd3d",
+    "name": "Olive Dip",
+    "code": "1782",
+    "hexCode": "#D49D45"
+  },
+  {
+    "id": "28fc1c42-2874-47cc-b2c5-82bb4fc6a02d",
+    "name": "Lounge",
+    "code": "1930",
+    "hexCode": "#AF9478"
+  },
+  {
+    "id": "50fbf198-2b73-4a81-a7e3-23352357561c",
+    "name": "Ivy Dirt",
+    "code": "8362",
+    "hexCode": "#9B834B"
+  },
+  {
+    "id": "a11cf556-d14c-4403-8951-c3a13ccad999",
+    "name": "Carbon Black",
+    "code": "9920",
+    "hexCode": "#545351"
+  },
+  {
+    "id": "9a63ad25-6283-4505-a5ad-e61f8ab56b81",
+    "name": "Fahm",
+    "code": "9925",
+    "hexCode": "#696967"
+  },
+  {
+    "id": "cca3aa11-1183-46d5-be9c-4bf322a4bd73",
+    "name": "Rose Petals",
+    "code": "3180",
+    "hexCode": "#F2E5E0"
+  },
+  {
+    "id": "bb6c166b-c6a5-4a57-b663-228aa8122e98",
+    "name": "Feather",
+    "code": "2524",
+    "hexCode": "#DFD7CD"
+  },
+  {
+    "id": "db1d417c-4ce0-4520-9ee0-ea3255b3c8f3",
+    "name": "Callie Purple",
+    "code": "4149",
+    "hexCode": "#B8AFC4"
+  },
+  {
+    "id": "27eda2b8-6324-40ad-820d-14af438c9657",
+    "name": "Violet",
+    "code": "4392",
+    "hexCode": "#957AA1"
+  },
+  {
+    "id": "9f1066a5-5b8c-47df-b488-cb368ce65c5a",
+    "name": "Violet Dreams",
+    "code": "4488",
+    "hexCode": "#C9B9D5"
+  },
+  {
+    "id": "25f5d4bd-ba2d-4360-b1de-79167ab1d797",
+    "name": "Freedom",
+    "code": "5167",
+    "hexCode": "#DADFDF"
+  },
+  {
+    "id": "177c9e40-a0eb-4fd3-a9df-ce1dbe7ceafc",
+    "name": "Chini",
+    "code": "5180",
+    "hexCode": "#526064"
+  },
+  {
+    "id": "168990a9-9803-45e8-999f-d03d5f747b60",
+    "name": "White Heather",
+    "code": "8303",
+    "hexCode": "#D7D3C1"
+  },
+  {
+    "id": "bf38a9e7-2c7c-46cf-85d9-60aa29cb5ab4",
+    "name": "Fudge",
+    "code": "10336",
+    "hexCode": "#6D5D50"
+  },
+  {
+    "id": "39d793a5-7397-44f6-a880-9258c5f79d01",
+    "name": "Lemon Zest",
+    "code": "7408",
+    "hexCode": "#D8E6C1"
+  },
+  {
+    "id": "e3917f1a-1b30-418c-95b1-6665db300ab8",
+    "name": "Front",
+    "code": "1899",
+    "hexCode": "#716F69"
+  },
+  {
+    "id": "c6b84392-22b3-4e87-a57a-90378f46000c",
+    "name": "Marigold White",
+    "code": "8012",
+    "hexCode": "#EDE0A6"
+  },
+  {
+    "id": "b925db0e-212b-4c99-bd08-39dc4db9cf33",
+    "name": "Winery",
+    "code": "2846",
+    "hexCode": "#755252"
+  },
+  {
+    "id": "375ea140-ca01-4449-b0f8-8df9791da941",
+    "name": "White Comfort",
+    "code": "8395",
+    "hexCode": "#EBE9DE"
+  },
+  {
+    "id": "15c47844-6c96-457f-bb00-aee2df26f030",
+    "name": "Sahl",
+    "code": "8277",
+    "hexCode": "#F4D550"
+  },
+  {
+    "id": "94248673-33e3-47d0-891a-34948554680a",
+    "name": "Cypress",
+    "code": "7040",
+    "hexCode": "#929D82"
+  },
+  {
+    "id": "92918b93-b45f-410e-915d-746fe334375a",
+    "name": "Sandbeige",
+    "code": "1939",
+    "hexCode": "#B7AD9C"
+  },
+  {
+    "id": "124eceb9-b217-446a-a905-8114970f0d6f",
+    "name": "Grey Touch",
+    "code": "12314",
+    "hexCode": "#D8D4CB"
+  },
+  {
+    "id": "187661d7-d1d8-42f2-93a0-831cb2f8561a",
+    "name": "Silky Blue",
+    "code": "4666",
+    "hexCode": "#D2DADB"
+  },
+  {
+    "id": "aec0ef0a-20b1-4267-bbff-ad1f2d3853cf",
+    "name": "Tudor",
+    "code": "0552",
+    "hexCode": "#E1DBD1"
+  },
+  {
+    "id": "066a72d1-9d05-4893-8ba0-097df5a72ecc",
+    "name": "Summer Sun",
+    "code": "10235",
+    "hexCode": "#E9CE8D"
+  },
+  {
+    "id": "877b156c-94bf-4969-a106-8723cda5a6c3",
+    "name": "Ginseng",
+    "code": "10245",
+    "hexCode": "#DDCEB0"
+  },
+  {
+    "id": "c04b4721-9a8d-4220-a55f-76e509b8f25d",
+    "name": "Iron Grey",
+    "code": "1032",
+    "hexCode": "#AAA79F"
+  },
+  {
+    "id": "5207d634-bbf1-49c6-8246-86bfb315a692",
+    "name": "Masala",
+    "code": "10428",
+    "hexCode": "#C79F6E"
+  },
+  {
+    "id": "4b1271e3-23c2-4466-8f76-088a88f9b644",
+    "name": "Discrete",
+    "code": "10429",
+    "hexCode": "#8C867E"
+  },
+  {
+    "id": "7e13c013-be0f-4709-bf11-cf25c33b4d43",
+    "name": "Space",
+    "code": "10678",
+    "hexCode": "#D6CFBF"
+  },
+  {
+    "id": "d0c3a71d-71cd-4add-bb84-63ad9265e381",
+    "name": "Hipster Brown",
+    "code": "10965",
+    "hexCode": "#857C6E"
+  },
+  {
+    "id": "88872472-cf63-436e-8330-897317400dd9",
+    "name": "Refined Yellow",
+    "code": "12082",
+    "hexCode": "#C2B08D"
+  },
+  {
+    "id": "176377a5-432f-401e-bb7d-b9a324efea8d",
+    "name": "Dusky Peach",
+    "code": "12084",
+    "hexCode": "#C0A78D"
+  },
+  {
+    "id": "2ad34d8f-5770-46a9-b312-4596a6a94fea",
+    "name": "Impression",
+    "code": "12125",
+    "hexCode": "#BBA78E"
+  },
+  {
+    "id": "788f8bc3-82db-4bbc-b643-93a28df9a11d",
+    "name": "Grand Shadow",
+    "code": "1288",
+    "hexCode": "#B9AF9B"
+  },
+  {
+    "id": "894cda96-0f34-4398-a806-7f3a7891d6ec",
+    "name": "Magic Powder",
+    "code": "3115",
+    "hexCode": "#DCB0BB"
+  },
+  {
+    "id": "24eb842a-e120-4768-9824-41487119a3d1",
+    "name": "Dream",
+    "code": "3154",
+    "hexCode": "#ECEAEE"
+  },
+  {
+    "id": "b2825465-8a87-4119-a4b8-3639223544e9",
+    "name": "Olive Brown",
+    "code": "1362",
+    "hexCode": "#7F644C"
+  },
+  {
+    "id": "f568e5c2-d5d6-4c0e-8416-5b7463c3a48e",
+    "name": "Dusty Purple",
+    "code": "3343",
+    "hexCode": "#7D6668"
+  },
+  {
+    "id": "81f6249f-208a-41ea-9a86-d96d6ee94cf5",
+    "name": "Slate Lavender",
+    "code": "3377",
+    "hexCode": "#8E8687"
+  },
+  {
+    "id": "934a718a-2ade-44c5-b3f0-3b54dc789047",
+    "name": "Pilaster Blue",
+    "code": "4017",
+    "hexCode": "#9CAAB2"
+  },
+  {
+    "id": "06d40de7-d540-4be2-8ec9-63fca6862457",
+    "name": "Bare",
+    "code": "1391",
+    "hexCode": "#D4D3C9"
+  },
+  {
+    "id": "f79747bb-2bf7-4287-a632-fced624c59af",
+    "name": "Dark Indigo",
+    "code": "4623",
+    "hexCode": "#5D5A63"
+  },
+  {
+    "id": "87e28cd3-d75b-4bbb-9d97-d82aa79082b6",
+    "name": "Rain Sky",
+    "code": "4627",
+    "hexCode": "#D3DBE0"
+  },
+  {
+    "id": "e9f0363e-2838-4d46-8f3a-8814f689a10f",
+    "name": "Sophisticated Blue",
+    "code": "4744",
+    "hexCode": "#454A4D"
+  },
+  {
+    "id": "9b619fb0-ac9a-4c1d-9d19-8044cdac50d5",
+    "name": "Nutmeg",
+    "code": "1929",
+    "hexCode": "#A19485"
+  },
+  {
+    "id": "775af90e-30c2-478d-9712-b0658b3aa18a",
+    "name": "Hope",
+    "code": "8565",
+    "hexCode": "#AFAD88"
+  },
+  {
+    "id": "06d894c1-14e4-4bd0-84d7-d6c24649bc60",
+    "name": "Lake View",
+    "code": "5225",
+    "hexCode": "#BACFCF"
+  },
+  {
+    "id": "d399a40c-58d1-480e-b5f4-acfa30d74814",
+    "name": "Svalbard Sea",
+    "code": "5262",
+    "hexCode": "#D0DDDC"
+  },
+  {
+    "id": "b287ffb8-ff35-4cc1-af07-1b409d6ce1a7",
+    "name": "Blushing Peach",
+    "code": "20047",
+    "hexCode": "#C4A591"
+  },
+  {
+    "id": "265639e6-7047-49f6-af4a-0c909ca59af2",
+    "name": "Imagine",
+    "code": "6383",
+    "hexCode": "#ADC0B7"
+  },
+  {
+    "id": "d4a5bfe7-a7cb-49b2-964a-69cf8b2d3aa6",
+    "name": "Grounded Red",
+    "code": "20144",
+    "hexCode": "#92695A"
+  },
+  {
+    "id": "d28b5349-b86c-4c2b-8436-33c212d3ddce",
+    "name": "Retro Blue",
+    "code": "5159",
+    "hexCode": "#6F8D9A"
+  },
+  {
+    "id": "9a2399db-6281-4d7f-8aa3-d6d60ccd714f",
+    "name": "Hint Of Cream",
+    "code": "0384",
+    "hexCode": "#F5EAD5"
+  },
+  {
+    "id": "4909afd6-7b32-44da-abc2-7dbc010106ab",
+    "name": "Ursula",
+    "code": "3331",
+    "hexCode": "#936D80"
+  },
+  {
+    "id": "af846486-eab7-466f-9de5-b709f09de70b",
+    "name": "Orangutan",
+    "code": "1882",
+    "hexCode": "#FCD9BA"
+  },
+  {
+    "id": "d36bdc31-2cfe-4d33-894d-736b226bf8b9",
+    "name": "Tomato",
+    "code": "3203",
+    "hexCode": "#BD707B"
+  },
+  {
+    "id": "a9f8b414-f698-4fbc-a4e0-9d40d6784851",
+    "name": "Rose Basket",
+    "code": "2619",
+    "hexCode": "#E4AEA9"
+  },
+  {
+    "id": "5607c39c-c839-440c-af14-d94e27ba2d26",
+    "name": "Salsa",
+    "code": "2452",
+    "hexCode": "#B54E45"
+  },
+  {
+    "id": "d37e7eea-5632-45cc-a938-d867771b8667",
+    "name": "Oriental Red",
+    "code": "2185",
+    "hexCode": "#C34444"
+  },
+  {
+    "id": "50e16f30-cdcb-41ba-9ebe-fe6447d016ae",
+    "name": "Wispy Grey",
+    "code": "5028",
+    "hexCode": "#CDD3D2"
+  },
+  {
+    "id": "083569f6-8e39-434b-a573-5af346ed02cd",
+    "name": "White Pepper",
+    "code": "8282",
+    "hexCode": "#E4E2D6"
+  },
+  {
+    "id": "65678845-28eb-43b6-a288-f133914d620e",
+    "name": "Beryl Charm",
+    "code": "6191",
+    "hexCode": "#A5E3DC"
+  },
+  {
+    "id": "88471c55-246d-4dfc-9688-3980f5180cd2",
+    "name": "Laurel",
+    "code": "8302",
+    "hexCode": "#B0AE96"
+  },
+  {
+    "id": "1066a155-eb38-47c9-8b43-b628cedc97f3",
+    "name": "Heather Beige",
+    "code": "1878",
+    "hexCode": "#A29385"
+  },
+  {
+    "id": "96b49f74-963f-4f7c-96f5-8b62b56cef6a",
+    "name": "Enchanted Garden",
+    "code": "8241",
+    "hexCode": "#BFC357"
+  },
+  {
+    "id": "65a49063-f717-434b-b989-5c42f335a3de",
+    "name": "Whispering Red",
+    "code": "2859",
+    "hexCode": "#985F56"
+  },
+  {
+    "id": "44a2033a-df0a-4e4c-8707-7a07297f951f",
+    "name": "Lemongrass",
+    "code": "8247",
+    "hexCode": "#E2BD33"
+  },
+  {
+    "id": "38efc54b-f1ab-4d4d-b3ff-15c5c756a7f4",
+    "name": "Summer Meadow",
+    "code": "8249",
+    "hexCode": "#CEB769"
+  },
+  {
+    "id": "2bd4a18c-3862-42c9-a2e7-21d71786c546",
+    "name": "Thyme",
+    "code": "8304",
+    "hexCode": "#7C796E"
+  },
+  {
+    "id": "044eee8e-1b09-4ae0-a910-8279fa174803",
+    "name": "Regal Yellow",
+    "code": "1501",
+    "hexCode": "#FFB147"
+  },
+  {
+    "id": "702231c0-323a-4653-9ac6-40e078cb735a",
+    "name": "Peachy",
+    "code": "12074",
+    "hexCode": "#C1A082"
+  },
+  {
+    "id": "e68697b3-6422-4e0b-ba26-c62ee1314baf",
+    "name": "Pistachio",
+    "code": "7386",
+    "hexCode": "#C8CDAF"
+  },
+  {
+    "id": "461beb30-01e8-4327-b358-68660688759a",
+    "name": "Ascott",
+    "code": "0553",
+    "hexCode": "#C8C3B8"
+  },
+  {
+    "id": "d3eedab7-afa5-4eb3-a8b9-c780e91ef5f4",
+    "name": "Darjeeling",
+    "code": "6236",
+    "hexCode": "#9BADAB"
+  },
+  {
+    "id": "ee153d35-fec2-4933-88f8-e59413dd5e6a",
+    "name": "Secret Green",
+    "code": "7718",
+    "hexCode": "#D9DDC5"
+  },
+  {
+    "id": "aab4fd4d-16e9-4e35-80ff-adc2926eff34",
+    "name": "Wild Earl",
+    "code": "1876",
+    "hexCode": "#D4CBB9"
+  },
+  {
+    "id": "03d460ba-b96b-4d3f-93f7-5e45b40ceb7e",
+    "name": "Athenian Blue",
+    "code": "6128",
+    "hexCode": "#8B9B99"
+  },
+  {
+    "id": "8f6945c0-6df4-4298-b144-a642fbc28587",
+    "name": "Adventure",
+    "code": "11175",
+    "hexCode": "#A38269"
+  },
+  {
+    "id": "3e8f5c2a-670f-4eeb-a681-a4dc425bf533",
+    "name": "Tender Greige",
+    "code": "12306",
+    "hexCode": "#908C85"
+  },
+  {
+    "id": "2b648d0c-33e0-4ed7-aca3-95c4562cc574",
+    "name": "Soft Brown",
+    "code": "12291",
+    "hexCode": "#89755F"
+  },
+  {
+    "id": "47ac8086-f7f4-43bf-828e-eaed8cc1fecb",
+    "name": "Light Antique",
+    "code": "0471",
+    "hexCode": "#EAE5DA"
+  },
+  {
+    "id": "11014578-8dad-4e0f-b1c1-3cd41fc81590",
+    "name": "Egg White",
+    "code": "1001",
+    "hexCode": "#EFEDE3"
+  },
+  {
+    "id": "7af24f1a-ad6b-4315-b63c-53bcfc783046",
+    "name": "White Linen",
+    "code": "10182",
+    "hexCode": "#CFCAC1"
+  },
+  {
+    "id": "73d9e8fd-f327-46f4-8653-c10f4275ab2b",
+    "name": "Olive Garden",
+    "code": "10248",
+    "hexCode": "#958468"
+  },
+  {
+    "id": "a3537507-a926-4be2-aa44-022bedeed122",
+    "name": "Belgian Brown",
+    "code": "10385",
+    "hexCode": "#7F7160"
+  },
+  {
+    "id": "4cf626c6-3aa3-4bcb-84be-75a18a0ef40a",
+    "name": "Cashmere",
+    "code": "10683",
+    "hexCode": "#B19C80"
+  },
+  {
+    "id": "44b6addd-6e12-4def-8d9f-7f5bfe1655b6",
+    "name": "Velvet Grey",
+    "code": "10835",
+    "hexCode": "#766F66"
+  },
+  {
+    "id": "d12061a3-8a59-41c2-86f0-99dc5df7044d",
+    "name": "Raw Canvas",
+    "code": "10961",
+    "hexCode": "#BEAF97"
+  },
+  {
+    "id": "e840eb3c-64a2-4da5-a29d-9f247159a801",
+    "name": "Gleam",
+    "code": "12079",
+    "hexCode": "#E4DBC5"
+  },
+  {
+    "id": "f55623e0-43f3-447a-850a-8bd408ff779f",
+    "name": "Rustic Pink",
+    "code": "12086",
+    "hexCode": "#CAB7A7"
+  },
+  {
+    "id": "cc34f0cf-91c2-4e54-b07e-a70fde329f83",
+    "name": "Collected Blue",
+    "code": "5530",
+    "hexCode": "#99A6A5"
+  },
+  {
+    "id": "4e872085-c0c1-4ffd-bb74-30872db7d394",
+    "name": "Silhouette",
+    "code": "12126",
+    "hexCode": "#BFB49C"
+  },
+  {
+    "id": "209318f0-bad8-4c78-bc4c-ac995d7719e2",
+    "name": "Earthy Brown",
+    "code": "12127",
+    "hexCode": "#6F5846"
+  },
+  {
+    "id": "281d46a0-6957-49da-a128-9edb3a0266ce",
+    "name": "Rustic Brown",
+    "code": "11012",
+    "hexCode": "#887E6E"
+  },
+  {
+    "id": "8d7538d3-f0e6-42cb-896d-7e94bf02d909",
+    "name": "Dawn",
+    "code": "1269",
+    "hexCode": "#C0BEB6"
+  },
+  {
+    "id": "f5737d3a-c7f2-48af-8c04-ce79454f9e51",
+    "name": "Mild",
+    "code": "1275",
+    "hexCode": "#E6E0D0"
+  },
+  {
+    "id": "308c1b77-fd2c-441d-b04d-e08f238ae418",
+    "name": "Mediterranean Olive",
+    "code": "1109",
+    "hexCode": "#CDB385"
+  },
+  {
+    "id": "5d64e169-21ee-46e1-85ab-1262620bd070",
+    "name": "Dusty Red",
+    "code": "2995",
+    "hexCode": "#806159"
+  },
+  {
+    "id": "999f1c59-3334-45cf-acd7-4b3d5f105ceb",
+    "name": "Cheerful Peach",
+    "code": "1520",
+    "hexCode": "#F0CFA5"
+  },
+  {
+    "id": "197b8e25-f980-4c2d-8325-51453610b3b8",
+    "name": "Romantic",
+    "code": "1304",
+    "hexCode": "#EFE2C4"
+  },
+  {
+    "id": "e490507d-cfe5-43af-b708-83bf314aa94f",
+    "name": "Dark Pine",
+    "code": "1337",
+    "hexCode": "#E8BE7A"
+  },
+  {
+    "id": "2f0a610d-d4e7-4cc0-8747-75558687ca40",
+    "name": "Tender Grey",
+    "code": "1352",
+    "hexCode": "#9B948A"
+  },
+  {
+    "id": "e72b2895-c2da-4840-b71b-58eb7328a3a1",
+    "name": "Sun",
+    "code": "1369",
+    "hexCode": "#ECD2A3"
+  },
+  {
+    "id": "f069ea27-4eaf-4da2-bb11-349b7451d775",
+    "name": "Gustavian Blue",
+    "code": "4109",
+    "hexCode": "#9DA9B2"
+  },
+  {
+    "id": "78cf4235-ce8d-4c1a-a4ea-ffaf874b2e02",
+    "name": "Clear",
+    "code": "1442",
+    "hexCode": "#F4EEDF"
+  },
+  {
+    "id": "4a388301-37fd-4000-aed6-beb241edde02",
+    "name": "Paige",
+    "code": "4520",
+    "hexCode": "#E5E9EA"
+  },
+  {
+    "id": "30db8e1b-3026-4d56-8590-4c055d05b389",
+    "name": "Nordic Seas",
+    "code": "4625",
+    "hexCode": "#4D6475"
+  },
+  {
+    "id": "e079aa96-e150-4887-bf44-c95ca0c4801e",
+    "name": "Tea Leaves",
+    "code": "1938",
+    "hexCode": "#BBAB92"
+  },
+  {
+    "id": "e5dba8d6-d789-4770-be8b-22834ebb1622",
+    "name": "Objective",
+    "code": "1973",
+    "hexCode": "#BFBCB2"
+  },
+  {
+    "id": "53c3a942-2ba0-4e5b-ab9e-5a216be2a345",
+    "name": "Organic Green",
+    "code": "8494",
+    "hexCode": "#646656"
+  },
+  {
+    "id": "859028ce-976e-4af4-b704-f7be030242a8",
+    "name": "Cadet Steel",
+    "code": "5351",
+    "hexCode": "#85A1AE"
+  },
+  {
+    "id": "006f483b-ec2f-4d27-8fb2-4a4822786408",
+    "name": "Wish",
+    "code": "6384",
+    "hexCode": "#89A5A2"
+  },
+  {
+    "id": "c5f9f99c-6670-4da5-a7d6-dd23d700b557",
+    "name": "Transparent Pink",
+    "code": "20119",
+    "hexCode": "#DACEC0"
+  },
+  {
+    "id": "dbdd779e-9353-46de-a377-a92cec35f410",
+    "name": "Balance",
+    "code": "6325",
+    "hexCode": "#717E79"
+  },
+  {
+    "id": "dfe99e6d-fa1a-4181-97a6-5c5e704d6b12",
+    "name": "Samik Ivory",
+    "code": "1065",
+    "hexCode": "#E6DBCA"
+  },
+  {
+    "id": "227995d0-69be-49ae-9703-4597a2cf4539",
+    "name": "Lotus Root",
+    "code": "1108",
+    "hexCode": "#E4DDCA"
+  },
+  {
+    "id": "b3347421-ee1f-4391-9fa9-1fa68fe3e7a3",
+    "name": "Scent",
+    "code": "2168",
+    "hexCode": "#D8CAC2"
+  },
+  {
+    "id": "4887791c-449e-4cf5-b41d-58283a699e9f",
+    "name": "Earthy",
+    "code": "12198",
+    "hexCode": "#9F7D6B"
+  },
+  {
+    "id": "92e7c5c6-c883-40ff-a65f-c4b603d924da",
+    "name": "Earthy Sand",
+    "code": "12199",
+    "hexCode": "#B7A694"
+  },
+  {
+    "id": "cf6380e3-8c3b-4bef-9c77-aef3c9fb1e8a",
+    "name": "Desert Dunes",
+    "code": "12200",
+    "hexCode": "#DBC9B6"
+  },
+  {
+    "id": "7d204618-0d24-4a11-a563-9d7cbe267b99",
+    "name": "Soft Mint",
+    "code": "7555",
+    "hexCode": "#C9D0C5"
+  },
+  {
+    "id": "d7cb5b7d-a86d-4d42-ab83-64b01cc42c6c",
+    "name": "Rubin",
+    "code": "3324",
+    "hexCode": "#895355"
+  },
+  {
+    "id": "8810997f-b1ec-41f0-a802-5c6077710ec6",
+    "name": "Memento",
+    "code": "1991",
+    "hexCode": "#BFA47F"
+  },
+  {
+    "id": "2076b244-8765-4c89-b434-339827b11719",
+    "name": "Solid",
+    "code": "2363",
+    "hexCode": "#81746C"
+  },
+  {
+    "id": "a5eac824-dc66-4839-a329-e70e4fb0466e",
+    "name": "Bliss",
+    "code": "2374",
+    "hexCode": "#F8DFD3"
+  },
+  {
+    "id": "7d40ada5-4b78-49d4-a152-a1612bb62a91",
+    "name": "Spring Foliage",
+    "code": "8088",
+    "hexCode": "#BEAF7C"
+  },
+  {
+    "id": "d92236e2-4d28-44a5-bec6-126ada3128f3",
+    "name": "Silver Tone",
+    "code": "8094",
+    "hexCode": "#9D9C95"
+  },
+  {
+    "id": "65a7e478-e48e-413f-bf1e-5d6036143b1b",
+    "name": "Zircon",
+    "code": "3014",
+    "hexCode": "#C9C0C0"
+  },
+  {
+    "id": "64728430-392d-4d03-96bd-917cd58d5875",
+    "name": "Spring Dew",
+    "code": "8159",
+    "hexCode": "#EDEFE5"
+  },
+  {
+    "id": "59a394c7-ccfc-480f-9799-13e28d643956",
+    "name": "Movement",
+    "code": "3325",
+    "hexCode": "#B2A3A6"
+  },
+  {
+    "id": "28a345f5-043e-48d3-b0ad-dc591c29b34f",
+    "name": "Burdan",
+    "code": "2495",
+    "hexCode": "#EB895C"
+  },
+  {
+    "id": "8bdcda50-4748-4b36-a0ae-9c55d4abe461",
+    "name": "Ski Slope",
+    "code": "4397",
+    "hexCode": "#CEDFEB"
+  },
+  {
+    "id": "b2cf622e-907b-473b-8d3b-c609c2efd039",
+    "name": "Tiramisu",
+    "code": "2201",
+    "hexCode": "#A3978D"
+  },
+  {
+    "id": "5692bea1-a83d-47e9-bced-96cb5be47b46",
+    "name": "Light Granite",
+    "code": "2040",
+    "hexCode": "#D3B9A5"
+  },
+  {
+    "id": "951cc9a5-5719-4e29-829b-4902c5d43cdb",
+    "name": "Pacific Dye",
+    "code": "5039",
+    "hexCode": "#C9DADB"
+  },
+  {
+    "id": "92118397-ede8-4beb-9e53-87ec1c03c6cf",
+    "name": "Pale Linden",
+    "code": "8281",
+    "hexCode": "#C7C6B6"
+  },
+  {
+    "id": "682f2874-87fe-4c66-90fc-8939393002d4",
+    "name": "Antique Brass",
+    "code": "2011",
+    "hexCode": "#BD9683"
+  },
+  {
+    "id": "6443f4c4-ec6f-4676-b81b-671745b5f404",
+    "name": "Mint Julep",
+    "code": "7010",
+    "hexCode": "#D9E0D3"
+  },
+  {
+    "id": "ce917c0b-b7a8-4e30-91e0-019873ead716",
+    "name": "Celery Stick",
+    "code": "8240",
+    "hexCode": "#D7DC8D"
+  },
+  {
+    "id": "a019db00-da38-4224-9473-a15542fcbbdc",
+    "name": "Sienna Orange",
+    "code": "1779",
+    "hexCode": "#FFC45A"
+  },
+  {
+    "id": "9c8d9ad0-f93e-471f-9fca-587c9028160c",
+    "name": "Metamorph",
+    "code": "8242",
+    "hexCode": "#B5B73D"
+  },
+  {
+    "id": "7e375b85-ad3c-42d7-b42b-8a5f0609d76e",
+    "name": "Guacamole Mix",
+    "code": "8248",
+    "hexCode": "#CEC094"
+  },
+  {
+    "id": "5a574fad-3a34-4bd3-ad44-f3388fc26120",
+    "name": "Pale Green",
+    "code": "8478",
+    "hexCode": "#BABAA5"
+  },
+  {
+    "id": "96aaad13-8910-4e3e-b07f-77973c8630a2",
+    "name": "Free Spirit",
+    "code": "5489",
+    "hexCode": "#6B7E7E"
+  },
+  {
+    "id": "7c6141a9-4ca3-43a0-8f1d-6df3d0f390d3",
+    "name": "Muted Coral",
+    "code": "20217",
+    "hexCode": "#BB7D69"
+  },
+  {
+    "id": "bb72c48b-8871-456a-8eaa-8b264dd8196a",
+    "name": "Soul",
+    "code": "1625",
+    "hexCode": "#ECE8D7"
+  },
+  {
+    "id": "4caa4e94-2da8-46fc-93ec-a76c90183b94",
+    "name": "Dark Magnolia",
+    "code": "0254",
+    "hexCode": "#ECE5D2"
+  },
+  {
+    "id": "fcfb87bb-2539-4961-829f-e8d7b21ff9ff",
+    "name": "Early Rain",
+    "code": "0486",
+    "hexCode": "#EAE7DB"
+  },
+  {
+    "id": "1cc616f4-eaf7-4a20-bc69-e5b3489d2fa6",
+    "name": "Dijon Yellow",
+    "code": "10001",
+    "hexCode": "#A98259"
+  },
+  {
+    "id": "ce54b299-24d3-4eda-bb52-78905e6caa73",
+    "name": "Peach",
+    "code": "1017",
+    "hexCode": "#EDCDA1"
+  },
+  {
+    "id": "584fa94e-faa0-4e97-9ae1-007a0eee4113",
+    "name": "Sandy",
+    "code": "10962",
+    "hexCode": "#A29179"
+  },
+  {
+    "id": "752cf776-b4f0-4541-afad-145f67e2a3f2",
+    "name": "Smoked Oak",
+    "code": "10964",
+    "hexCode": "#6C6358"
+  },
+  {
+    "id": "7dcf5003-1f0d-4067-947c-f535a9ab6de0",
+    "name": "Petals",
+    "code": "1156",
+    "hexCode": "#EEC98C"
+  },
+  {
+    "id": "08844d13-8fff-4268-b88c-03b533f36749",
+    "name": "Natural Clay",
+    "code": "12124",
+    "hexCode": "#B07C5A"
+  },
+  {
+    "id": "81472ace-147b-4b10-8272-82b4f1e60661",
+    "name": "Statement Red",
+    "code": "20207",
+    "hexCode": "#A6544A"
+  },
+  {
+    "id": "2f849d89-64bd-42d6-9b1c-d1c12f394e48",
+    "name": "Poetry Red",
+    "code": "20208",
+    "hexCode": "#9B6156"
+  },
+  {
+    "id": "bf5b6c1d-6a47-4b07-b567-5d5aa913d79c",
+    "name": "Cool Ash",
+    "code": "3037",
+    "hexCode": "#C6C3C5"
+  },
+  {
+    "id": "db800193-fa11-4775-831a-cbaee061b5f9",
+    "name": "Shadow Black",
+    "code": "4143",
+    "hexCode": "#575B67"
+  },
+  {
+    "id": "16ed3b12-1d02-4e2a-a939-c8e85c98a23c",
+    "name": "Evening Sky",
+    "code": "1462",
+    "hexCode": "#84817A"
+  },
+  {
+    "id": "010753c8-c245-42a1-bfb3-c4e89174d611",
+    "name": "Matt Silver",
+    "code": "4629",
+    "hexCode": "#82878B"
+  },
+  {
+    "id": "f5f0aa23-7076-48df-8fb3-85fb3628e1e0",
+    "name": "Dew Blue",
+    "code": "4710",
+    "hexCode": "#909799"
+  },
+  {
+    "id": "2d22baef-d2ad-42e1-bc6a-1580cd8c2fa8",
+    "name": "Mermaid Green",
+    "code": "5168",
+    "hexCode": "#D3E9E9"
+  },
+  {
+    "id": "9e71bf15-ec82-4044-acef-34327b3d523b",
+    "name": "Green Root",
+    "code": "8334",
+    "hexCode": "#848551"
+  },
+  {
+    "id": "f1813d13-8b74-4ed4-8fa2-972b1e4ee497",
+    "name": "Savanna Sunset",
+    "code": "20046",
+    "hexCode": "#AF8A76"
+  },
+  {
+    "id": "7bb6a038-0360-489a-a31d-a79e91a3e3b1",
+    "name": "Dark Teal",
+    "code": "5454",
+    "hexCode": "#506364"
+  },
+  {
+    "id": "8016b652-50b6-47f6-a6aa-1010743dfec7",
+    "name": "Serene Blue",
+    "code": "5490",
+    "hexCode": "#798484"
+  },
+  {
+    "id": "f2f66de0-c745-419c-80cc-7dcc15188cc9",
+    "name": "Organic Red",
+    "code": "20120",
+    "hexCode": "#987A6A"
+  },
+  {
+    "id": "e17319d7-6c64-4c47-826a-4028125e9229",
+    "name": "Sea Emerald",
+    "code": "6084",
+    "hexCode": "#739592"
+  },
+  {
+    "id": "8e0e964c-3ffa-4f87-9908-b288c0f271b8",
+    "name": "Tender Green",
+    "code": "6351",
+    "hexCode": "#B7C1BD"
+  },
+  {
+    "id": "5ed00f07-79a7-4669-b66a-79b6870cebe0",
+    "name": "Zest",
+    "code": "1626",
+    "hexCode": "#FBEABE"
+  },
+  {
+    "id": "f1b22c68-0218-47bc-a975-5c26e2485f37",
+    "name": "Royale Berry",
+    "code": "3328",
+    "hexCode": "#8A5871"
+  },
+  {
+    "id": "59dbc969-f16a-487b-8ef0-37f4ba3d9685",
+    "name": "Winter Mist",
+    "code": "1926",
+    "hexCode": "#C8C6BD"
+  },
+  {
+    "id": "b07fc37e-97d8-4bc0-aa0a-754acf23b65e",
+    "name": "Yellow Stone",
+    "code": "2206",
+    "hexCode": "#F6BE79"
+  },
+  {
+    "id": "f3e4d220-8e02-4553-a8b8-1724995be984",
+    "name": "Seashell",
+    "code": "2499",
+    "hexCode": "#CEC5B8"
+  },
+  {
+    "id": "b3642706-a18d-4f20-b72d-0c88a753ddb4",
+    "name": "Monroe",
+    "code": "2625",
+    "hexCode": "#AC4546"
+  },
+  {
+    "id": "45e21aa8-4727-48d7-8bb7-104c9390e7d9",
+    "name": "Mountain Sunset",
+    "code": "2561",
+    "hexCode": "#E27744"
+  },
+  {
+    "id": "270d4d7d-7863-4f10-a41f-25b0bd5dbf77",
+    "name": "Artist Clay",
+    "code": "2588",
+    "hexCode": "#CBC0B9"
+  },
+  {
+    "id": "c8510e26-b933-4e19-a132-a7b313afea3b",
+    "name": "Butterfly",
+    "code": "2602",
+    "hexCode": "#F3A296"
+  },
+  {
+    "id": "b07d80d3-8a83-4b52-8a02-af50770e2bee",
+    "name": "Arctic Blue",
+    "code": "4445",
+    "hexCode": "#8FC8E8"
+  },
+  {
+    "id": "18980161-a659-4e30-8618-9fb839a0e1e8",
+    "name": "Green Harmony",
+    "code": "8252",
+    "hexCode": "#9E9B86"
+  },
+  {
+    "id": "43771735-41df-49e9-8a22-06b3f43415fc",
+    "name": "Mystery Blue",
+    "code": "5304",
+    "hexCode": "#39535B"
+  },
+  {
+    "id": "6cb4844f-cd10-4f30-98f2-45376493a0f0",
+    "name": "Stone",
+    "code": "1927",
+    "hexCode": "#D1CEC6"
+  },
+  {
+    "id": "2488f55b-844d-4ca8-8303-bc3ab3ee8df3",
+    "name": "Yellow Shan",
+    "code": "10038",
+    "hexCode": "#EFBB31"
+  },
+  {
+    "id": "0a0b2cc0-4f0c-48b3-b022-b261c76ba8ec",
+    "name": "Soft Savanna",
+    "code": "10430",
+    "hexCode": "#BCAA8F"
+  },
+  {
+    "id": "ee25c91e-92ae-4061-bab0-6741645afa08",
+    "name": "Chalk Ochre",
+    "code": "1909",
+    "hexCode": "#C49F71"
+  },
+  {
+    "id": "719c0c58-06eb-41b5-927e-280e6e3ded26",
+    "name": "Embrace",
+    "code": "12179",
+    "hexCode": "#B58D6F"
+  },
+  {
+    "id": "31491835-2c06-4b55-abcd-3c8c01997fcf",
+    "name": "Gentle Whisper",
+    "code": "12182",
+    "hexCode": "#D2CBBF"
+  },
+  {
+    "id": "2f17f35e-ac36-4f27-a2fe-c6e7df953f8a",
+    "name": "Tropic Ginger",
+    "code": "8070",
+    "hexCode": "#F2EAC6"
+  },
+  {
+    "id": "1bd3a4a8-eef7-4981-a7f5-df38ae961b5d",
+    "name": "Apple White",
+    "code": "8190",
+    "hexCode": "#F0F1DF"
+  },
+  {
+    "id": "7db2aa29-4c0a-4cf1-818b-0ae1009b748f",
+    "name": "Deco Pink",
+    "code": "2782",
+    "hexCode": "#DBC4B7"
+  },
+  {
+    "id": "0c492145-25cc-40d7-9e60-3d1ecc07cdd6",
+    "name": "Magical Ink",
+    "code": "8244",
+    "hexCode": "#D1D976"
+  },
+  {
+    "id": "09dd0bc0-1042-4993-b255-79afda88fac8",
+    "name": "Green Leaf",
+    "code": "8469",
+    "hexCode": "#8A8774"
+  },
+  {
+    "id": "0fc1c8f5-354f-46cb-8dc5-543294559d7b",
+    "name": "Delightful Pink",
+    "code": "2992",
+    "hexCode": "#CBAB9D"
+  },
+  {
+    "id": "c0942f8f-ccb3-4da4-96f2-6e7d0013c9f1",
+    "name": "Kilim",
+    "code": "2993",
+    "hexCode": "#714F44"
+  },
+  {
+    "id": "774a1ada-3e75-4e47-88f8-a0cdd930821a",
+    "name": "Peach Sky",
+    "code": "1117",
+    "hexCode": "#EAD0B1"
+  },
+  {
+    "id": "ca88f651-3f54-4184-bf31-1c5d87fe780b",
+    "name": "Khaki Yellow",
+    "code": "8625",
+    "hexCode": "#AF9E7A"
+  },
+  {
+    "id": "a9aa1c44-3093-4ae6-97fe-9d323f3d11c9",
+    "name": "Sea Mist",
+    "code": "6253",
+    "hexCode": "#BCD0CC"
+  },
+  {
+    "id": "9e4a2886-2283-4d61-ab95-898c741d4bb7",
+    "name": "Contemporary White",
+    "code": "12123",
+    "hexCode": "#E1DACA"
+  },
+  {
+    "id": "7e139c58-965f-44fa-8edc-450dea160519",
+    "name": "Elegant",
+    "code": "1434",
+    "hexCode": "#605D58"
+  },
+  {
+    "id": "5d4ac603-c1f1-4c4f-a26c-141f08f72559",
+    "name": "Mindful Green",
+    "code": "7686",
+    "hexCode": "#7C877C"
+  },
+  {
+    "id": "17c82181-c53e-4190-bb8d-37ccd0e61218",
+    "name": "Silver Moon",
+    "code": "5081",
+    "hexCode": "#BBC0C0"
+  },
+  {
+    "id": "15d452bd-ce82-45ce-8d40-4adf78ec9256",
+    "name": "Soothing Beige",
+    "code": "12075",
+    "hexCode": "#CAC0AF"
+  },
+  {
+    "id": "34ae3110-cdb2-4f41-86ad-da5a05546ed6",
+    "name": "Pearl",
+    "code": "0121",
+    "hexCode": "#D6D5CD"
+  },
+  {
+    "id": "3547f133-71e4-480f-b9b2-d3a5a6c6a588",
+    "name": "White Satin",
+    "code": "0201",
+    "hexCode": "#E0E0D4"
+  },
+  {
+    "id": "1e1855f2-1233-48b4-9249-9bda75cdbbc0",
+    "name": "Soft Grey",
+    "code": "0394",
+    "hexCode": "#AFA99C"
+  },
+  {
+    "id": "ca799409-a2fe-49d8-814b-8ee1bcffe0d5",
+    "name": "Wild Rice",
+    "code": "1012",
+    "hexCode": "#E9D8B8"
+  },
+  {
+    "id": "ef3bf9e7-0862-49f1-b63b-f13598072156",
+    "name": "Desert Sand",
+    "code": "1037",
+    "hexCode": "#E5DAC6"
+  },
+  {
+    "id": "8cde071b-53fd-4b57-ad84-b4e218889326",
+    "name": "Almond Beige",
+    "code": "10966",
+    "hexCode": "#A69A88"
+  },
+  {
+    "id": "5fcf48cc-06e1-4bab-bc27-eb87e3a3976b",
+    "name": "Norwegian Wood",
+    "code": "10981",
+    "hexCode": "#7F5C47"
+  },
+  {
+    "id": "64b54ac8-4485-4c27-9062-43ea843f7d65",
+    "name": "Mohair",
+    "code": "1233",
+    "hexCode": "#A49A8B"
+  },
+  {
+    "id": "fc23e00d-84c5-4b7d-a694-8a6038b05e6e",
+    "name": "Herb Garden",
+    "code": "8183",
+    "hexCode": "#B2A87F"
+  },
+  {
+    "id": "bdcff44d-c26d-42f0-9533-f5f45ca1bc58",
+    "name": "Dark Velvet",
+    "code": "3207",
+    "hexCode": "#70666C"
+  },
+  {
+    "id": "04a75a1d-6499-40ca-8bdf-98d839d5019c",
+    "name": "Deco Blue",
+    "code": "4477",
+    "hexCode": "#525C64"
+  },
+  {
+    "id": "ac758fcf-3f99-49f6-ba81-48f6324de03f",
+    "name": "Syrin",
+    "code": "4496",
+    "hexCode": "#C2C0C4"
+  },
+  {
+    "id": "15ac4963-aed4-4d4e-ae83-b256fe356494",
+    "name": "Patina Rust",
+    "code": "8352",
+    "hexCode": "#EADBA8"
+  },
+  {
+    "id": "1068cd17-bcb8-4c97-a775-73e263354be5",
+    "name": "Dusky Blue",
+    "code": "5200",
+    "hexCode": "#9EADB2"
+  },
+  {
+    "id": "51ce81de-8da1-4124-b0ab-a7e64cf0c121",
+    "name": "Wondergrass",
+    "code": "8325",
+    "hexCode": "#C3C86D"
+  },
+  {
+    "id": "9acaa125-4764-4ee3-ac4d-db0c336f1096",
+    "name": "Dark Olive",
+    "code": "8264",
+    "hexCode": "#A19579"
+  },
+  {
+    "id": "0d736efb-9aea-435a-8bee-ed812de030d3",
+    "name": "Pirate",
+    "code": "5306",
+    "hexCode": "#8EC0C2"
+  },
+  {
+    "id": "4678d0f5-5b08-455d-9594-fc07e6946d1f",
+    "name": "Betel",
+    "code": "7550",
+    "hexCode": "#ACC05D"
+  },
+  {
+    "id": "eef935e2-3a51-4556-9135-4e691d20d9ec",
+    "name": "Jazz Grey",
+    "code": "9930",
+    "hexCode": "#B6B5B2"
+  },
+  {
+    "id": "56efbd0d-57a9-4af2-a800-f99e8458f907",
+    "name": "Scooter",
+    "code": "5397",
+    "hexCode": "#618B8C"
+  },
+  {
+    "id": "cc0fc89b-40e1-4f1a-b9f6-40bf043e5209",
+    "name": "Ivory White",
+    "code": "0566",
+    "hexCode": "#F4E9D6"
+  },
+  {
+    "id": "757e9233-92a8-47bb-bb80-dd8a67b1042f",
+    "name": "Minty Breeze",
+    "code": "7163",
+    "hexCode": "#ACB2A8"
+  },
+  {
+    "id": "d1dc2f8a-6781-4250-a041-e1ab74f762e2",
+    "name": "Chi",
+    "code": "7236",
+    "hexCode": "#F3F4EE"
+  },
+  {
+    "id": "e797444d-5c45-42c8-b8a5-996d338e1cf7",
+    "name": "Amethyne",
+    "code": "4497",
+    "hexCode": "#B4A2C0"
+  },
+  {
+    "id": "90222589-e108-4f0b-ba37-344a4edece42",
+    "name": "Cherry Swift",
+    "code": "4492",
+    "hexCode": "#EBEBEA"
+  },
+  {
+    "id": "15a92beb-f858-4f1b-aa07-a98344e1b51d",
+    "name": "Sand Gazelle",
+    "code": "12201",
+    "hexCode": "#CFC0AE"
+  },
+  {
+    "id": "985e6782-56af-4a7d-b8aa-86927ab51d5d",
+    "name": "Cosmic Mocha",
+    "code": "12202",
+    "hexCode": "#B6A286"
+  },
+  {
+    "id": "5e44e45e-a907-45af-8c73-ac2d33d90558",
+    "name": "Vanilla",
+    "code": "1453",
+    "hexCode": "#F0EFE2"
+  },
+  {
+    "id": "d12cc893-8def-45d2-996a-b4811c39176e",
+    "name": "Citronella",
+    "code": "1633",
+    "hexCode": "#FFD998"
+  },
+  {
+    "id": "44c96238-bcef-44b8-b453-896bc8e6fa5e",
+    "name": "Wiltshire Cream",
+    "code": "1648",
+    "hexCode": "#FAE4C8"
+  },
+  {
+    "id": "489e7c69-7f59-4cf3-8eca-d608ac788c4a",
+    "name": "Vision",
+    "code": "2228",
+    "hexCode": "#F0EBE2"
+  },
+  {
+    "id": "944437fb-2d73-4197-9049-7e43d12b8652",
+    "name": "Purple Ivory",
+    "code": "20192",
+    "hexCode": "#D5CAC2"
+  },
+  {
+    "id": "493e8be2-9135-4b07-9cfd-70d5e855ddee",
+    "name": "Gentile",
+    "code": "2048",
+    "hexCode": "#C28B6E"
+  },
+  {
+    "id": "edea01e8-1fd8-4ad0-af07-ff7c0555ceaf",
+    "name": "Bermuda Pink",
+    "code": "3243",
+    "hexCode": "#EFAAB3"
+  },
+  {
+    "id": "907fc53f-668f-48d2-ae73-c11be948c09a",
+    "name": "Patisserie",
+    "code": "2615",
+    "hexCode": "#F7B9B3"
+  },
+  {
+    "id": "9941755d-be69-4d7e-b4e5-7707b5f968b8",
+    "name": "Petal Pink",
+    "code": "3021",
+    "hexCode": "#EDCDCD"
+  },
+  {
+    "id": "f5583b3e-6d36-4c97-9a72-4ce9529b4c98",
+    "name": "Ashes",
+    "code": "9937",
+    "hexCode": "#60605F"
+  },
+  {
+    "id": "229fd4b3-8dac-4707-98c4-b4444769e280",
+    "name": "Pashmina",
+    "code": "3186",
+    "hexCode": "#B49396"
+  },
+  {
+    "id": "e23682c0-7ada-4d49-993b-3b73593ffff2",
+    "name": "Blue Lagoon",
+    "code": "4164",
+    "hexCode": "#6CA4D5"
+  },
+  {
+    "id": "6480b476-cd26-48f0-a772-47fd60fc62f5",
+    "name": "Blue Ash",
+    "code": "4399",
+    "hexCode": "#D8E8EC"
+  },
+  {
+    "id": "6c64892e-dbcb-4cca-8439-e4ea947bd163",
+    "name": "Violet Sea",
+    "code": "4525",
+    "hexCode": "#5A6D99"
+  },
+  {
+    "id": "278cbb50-070e-4800-b6c8-37078106dc3a",
+    "name": "Red Maple",
+    "code": "2727",
+    "hexCode": "#795956"
+  },
+  {
+    "id": "1f4f9d26-0618-43cf-8c59-c455837179ff",
+    "name": "Blue Whale",
+    "code": "5517",
+    "hexCode": "#7598A1"
+  },
+  {
+    "id": "e9c648ec-8c27-4c9f-a270-d46b7d05a279",
+    "name": "Coral Reef Blue",
+    "code": "6385",
+    "hexCode": "#8C9E9C"
+  },
+  {
+    "id": "3e587885-c5a1-4aae-943f-c9eabac4a998",
+    "name": "Rustic Terracotta",
+    "code": "2771",
+    "hexCode": "#9F7D6A"
+  },
+  {
+    "id": "113ef61e-7d7c-4855-99cf-bedac7feedda",
+    "name": "Apple Frost",
+    "code": "7270",
+    "hexCode": "#E5EDD6"
+  },
+  {
+    "id": "21251ef3-9482-439e-9822-bc7d28b9f58a",
+    "name": "Present",
+    "code": "12180",
+    "hexCode": "#B5AB9E"
+  },
+  {
+    "id": "9cfe0977-2d29-4ec6-84da-5764016cb0de",
+    "name": "Inspirasjon",
+    "code": "8195",
+    "hexCode": "#EEE2BE"
+  },
+  {
+    "id": "789d274c-8dee-49ee-a655-7c7d27caadfa",
+    "name": "Hollywood Hill",
+    "code": "8243",
+    "hexCode": "#95864B"
+  },
+  {
+    "id": "44f0c5d0-1f58-4830-a465-8056ce574fcb",
+    "name": "Lemon Sorbet",
+    "code": "8245",
+    "hexCode": "#FCE99E"
+  },
+  {
+    "id": "69461d8b-50aa-4fdb-8ac3-5764ddd5032a",
+    "name": "Yaz",
+    "code": "8278",
+    "hexCode": "#C9AF55"
+  },
+  {
+    "id": "d7738f8b-2b8e-4252-a355-dc4072e548f8",
+    "name": "Forest Light",
+    "code": "11228",
+    "hexCode": "#D8C8A2"
+  },
+  {
+    "id": "11ec70b2-c329-48ef-b19e-0dd2d643ea62",
+    "name": "Rusty",
+    "code": "1259",
+    "hexCode": "#A57252"
+  },
+  {
+    "id": "8f8dd5c8-3940-4985-b70d-689c2162e94b",
+    "name": "Deep Soil",
+    "code": "2300",
+    "hexCode": "#7E6A62"
+  },
+  {
+    "id": "b387b736-18fd-48bc-baa9-a6ef31896a88",
+    "name": "True Blue",
+    "code": "4947",
+    "hexCode": "#426884"
+  },
+  {
+    "id": "f302dcb4-9b95-428d-b3e3-765dabab624d",
+    "name": "Subtle Green",
+    "code": "7685",
+    "hexCode": "#ABAF9B"
+  },
+  {
+    "id": "1e0427db-ff76-47bd-bd7e-0c0f089b5a79",
+    "name": "Antwerp Beige",
+    "code": "12290",
+    "hexCode": "#B9AF9F"
+  },
+  {
+    "id": "33c2e79f-c6a0-422c-90ee-e2ff3c33f629",
+    "name": "Edelweiss",
+    "code": "1622",
+    "hexCode": "#EBE9E2"
+  },
+  {
+    "id": "2a6844ca-91c1-4ece-ae32-2f98d917dc78",
+    "name": "Palm Leaf",
+    "code": "0125",
+    "hexCode": "#758168"
+  },
+  {
+    "id": "79c3cc2d-5479-4de9-8363-10bb2c75a57e",
+    "name": "Misty Shadow",
+    "code": "10578",
+    "hexCode": "#B7AFA3"
+  },
+  {
+    "id": "1f51d679-36d6-4314-84c4-cb2a62765308",
+    "name": "Modern Beige",
+    "code": "12076",
+    "hexCode": "#BFB3A4"
+  },
+  {
+    "id": "5084f9d3-fc21-4509-9025-bf900df1cdf1",
+    "name": "Nude Spice",
+    "code": "2591",
+    "hexCode": "#F9D7CB"
+  },
+  {
+    "id": "d2f8f9b1-82e7-4e50-b70c-e965bc8c9f32",
+    "name": "Pure Barley",
+    "code": "1334",
+    "hexCode": "#F6ECD6"
+  },
+  {
+    "id": "ede04aa3-8a19-4046-8981-ed264a149c07",
+    "name": "Little Princess",
+    "code": "3302",
+    "hexCode": "#EDE1E4"
+  },
+  {
+    "id": "fb254adb-a5ea-4a52-b212-c04f49831004",
+    "name": "Teal Zen",
+    "code": "4423",
+    "hexCode": "#A5BCC3"
+  },
+  {
+    "id": "688befca-8bcf-4b0f-b6fe-893f4090aab5",
+    "name": "Persian Khaki",
+    "code": "1623",
+    "hexCode": "#AEA191"
+  },
+  {
+    "id": "12776181-ac2a-4c0b-a169-941219a2b128",
+    "name": "Thousand Nights",
+    "code": "4454",
+    "hexCode": "#DFE5E5"
+  },
+  {
+    "id": "4b1332fc-5d9a-4469-aa95-4748e2fdc3fb",
+    "name": "Milky Way",
+    "code": "1832",
+    "hexCode": "#E7DFCD"
+  },
+  {
+    "id": "a2216a31-fef7-43c0-bcd9-242d824f71b2",
+    "name": "Piper Grey",
+    "code": "4622",
+    "hexCode": "#78767B"
+  },
+  {
+    "id": "31b7f54f-f5c6-4b69-9fe3-82f035692fd3",
+    "name": "Sense",
+    "code": "1875",
+    "hexCode": "#E6DFCE"
+  },
+  {
+    "id": "b93504ca-91af-43f8-8151-a1f5f3a65225",
+    "name": "Elegant Blue",
+    "code": "4638",
+    "hexCode": "#657078"
+  },
+  {
+    "id": "d922c6cf-d7c0-4d14-8891-4d3192540645",
+    "name": "Ocean Air",
+    "code": "4894",
+    "hexCode": "#9DAAAF"
+  },
+  {
+    "id": "d1cfc81c-c460-4974-9870-019f80acb995",
+    "name": "St. Pauls Blue",
+    "code": "5030",
+    "hexCode": "#697477"
+  },
+  {
+    "id": "d322c6f5-d2e3-4cee-998d-b7a1b58559a7",
+    "name": "Oak Sand",
+    "code": "1987",
+    "hexCode": "#CD965B"
+  },
+  {
+    "id": "58b3e7ae-10bc-4fd3-9a6f-e62a4d2d4804",
+    "name": "Fusion",
+    "code": "5362",
+    "hexCode": "#4C6B6E"
+  },
+  {
+    "id": "e087be28-d05a-4591-9e2e-ffff4d974c5b",
+    "name": "Platinum",
+    "code": "9911",
+    "hexCode": "#BDBDBA"
+  },
+  {
+    "id": "4c3edbf4-d96b-48ee-9886-cb95dc358b97",
+    "name": "Matrix",
+    "code": "9913",
+    "hexCode": "#7B7A79"
+  },
+  {
+    "id": "f005126c-f8ed-4e74-80f0-e5ee5070053c",
+    "name": "Lively Red",
+    "code": "20143",
+    "hexCode": "#A87362"
+  },
+  {
+    "id": "37605ae5-4b57-454c-8822-9cb2defbbf27",
+    "name": "Exude Honey",
+    "code": "5281",
+    "hexCode": "#4A96A7"
+  },
+  {
+    "id": "5c318cb9-9826-4c79-a035-8f0ae153a74f",
+    "name": "Cityscape",
+    "code": "6379",
+    "hexCode": "#8C9893"
+  },
+  {
+    "id": "347f20ac-37a5-4443-99f6-7040f177a2f2",
+    "name": "Wood Smoke",
+    "code": "0568",
+    "hexCode": "#DBCAB5"
+  },
+  {
+    "id": "07551847-8f4f-45fa-950e-923260b65ad3",
+    "name": "Senses",
+    "code": "2024",
+    "hexCode": "#BFA795"
+  },
+  {
+    "id": "8a22610c-12ff-42bf-ac02-4a0d51773cb9",
+    "name": "Sunkissed",
+    "code": "10541",
+    "hexCode": "#FCE5BB"
+  },
+  {
+    "id": "303bdb31-b484-4883-9fc8-5c4389f93940",
+    "name": "Yellowfin",
+    "code": "12185",
+    "hexCode": "#DEB679"
+  },
+  {
+    "id": "bb93c893-9259-4a28-b00f-f6631962934c",
+    "name": "Northern Mystic",
+    "code": "7613",
+    "hexCode": "#696D61"
+  },
+  {
+    "id": "0a307637-24fb-4ace-b9ef-4c9d94097c6c",
+    "name": "Cornsilk",
+    "code": "1356",
+    "hexCode": "#F4EFDA"
+  },
+  {
+    "id": "ededcb44-f771-4d7b-ab4a-f76945cb0dc7",
+    "name": "Antique Green",
+    "code": "7629",
+    "hexCode": "#8A8F81"
+  },
+  {
+    "id": "ad50d5ec-bb6c-4e64-b319-9d4f3033d0f4",
+    "name": "Exhale",
+    "code": "7637",
+    "hexCode": "#B7BDB3"
+  },
+  {
+    "id": "9d40dc01-459f-4c3b-86e3-caf6217e4109",
+    "name": "Thought",
+    "code": "3323",
+    "hexCode": "#5E5457"
+  },
+  {
+    "id": "0c864d00-d946-4cf4-9b0a-3c63998e2d48",
+    "name": "Linen Grey",
+    "code": "2105",
+    "hexCode": "#D5D1C9"
+  },
+  {
+    "id": "e1783c6c-d529-417a-88b3-f8117309689b",
+    "name": "Spring Air",
+    "code": "8087",
+    "hexCode": "#D6CBA4"
+  },
+  {
+    "id": "557a22c7-ba37-42a5-a782-bb765c205be8",
+    "name": "Amber Rush",
+    "code": "2613",
+    "hexCode": "#CE958F"
+  },
+  {
+    "id": "2c263d51-4025-4479-9353-5cb0d8b3a7fa",
+    "name": "Crisp",
+    "code": "8118",
+    "hexCode": "#C5C6B8"
+  },
+  {
+    "id": "162f5f75-f73a-4a32-a4f8-5cf798ebceb5",
+    "name": "Suave",
+    "code": "9910",
+    "hexCode": "#727170"
+  },
+  {
+    "id": "e4fe719d-f34a-4c19-995d-b7eaaa90f231",
+    "name": "Punch",
+    "code": "2456",
+    "hexCode": "#DE7569"
+  },
+  {
+    "id": "e246a146-668b-4c9f-91d1-ce16d729942d",
+    "name": "Cottonwood",
+    "code": "2500",
+    "hexCode": "#8A7E74"
+  },
+  {
+    "id": "80801ee8-2525-4753-8783-b506f43c031e",
+    "name": "Grey Event",
+    "code": "9912",
+    "hexCode": "#9E9F9D"
+  },
+  {
+    "id": "58889a97-830d-4d52-8fed-1c4bd2a802e3",
+    "name": "Beat",
+    "code": "2587",
+    "hexCode": "#C46854"
+  },
+  {
+    "id": "c566df7f-b993-41bb-9555-14db52fa2a0f",
+    "name": "Winter Willow",
+    "code": "8200",
+    "hexCode": "#E2D9A5"
+  },
+  {
+    "id": "0cd8c1d4-e6ae-422c-b184-ad5721e8b72d",
+    "name": "Pink Clay",
+    "code": "3404",
+    "hexCode": "#AC8783"
+  },
+  {
+    "id": "081fcc1f-0cf8-4fac-992e-18d900853ac0",
+    "name": "Gladiola",
+    "code": "4178",
+    "hexCode": "#BFCEE1"
+  },
+  {
+    "id": "97d1ef04-e79a-4666-ba1d-989f65b4f14a",
+    "name": "Taaluk",
+    "code": "4214",
+    "hexCode": "#786087"
+  },
+  {
+    "id": "2aac47d3-3599-4051-9bf7-2ecd0e3306cf",
+    "name": "Soft Lilac",
+    "code": "4448",
+    "hexCode": "#DCD5E6"
+  },
+  {
+    "id": "f31b2934-f5c4-443d-90f5-ed389149f8a3",
+    "name": "Purple Candy",
+    "code": "4498",
+    "hexCode": "#9C8BA9"
+  },
+  {
+    "id": "c2d5202d-5a60-43a3-9b1d-890e8e4c9621",
+    "name": "Inglot",
+    "code": "4508",
+    "hexCode": "#C4D4EB"
+  },
+  {
+    "id": "40a4fefd-f8fe-4da6-a40b-1514b9c97f21",
+    "name": "Lavender Touch",
+    "code": "20186",
+    "hexCode": "#BBB2AC"
+  },
+  {
+    "id": "ee9e5b2d-71ae-44f1-b135-c59245ab5dd6",
+    "name": "Midnight Floss",
+    "code": "4521",
+    "hexCode": "#AFC2E0"
+  },
+  {
+    "id": "327a3bb2-c352-4d0a-bb8c-feedf6432669",
+    "name": "Snow-white",
+    "code": "5001",
+    "hexCode": "#E8EEEB"
+  },
+  {
+    "id": "bb00e800-9fc6-466c-8d78-f08518a67560",
+    "name": "Lime Peel",
+    "code": "8265",
+    "hexCode": "#D8D394"
+  },
+  {
+    "id": "a62ad4ae-a5f4-4730-a0df-3c27b418cf7d",
+    "name": "Friendly Pink",
+    "code": "20185",
+    "hexCode": "#C5B5A7"
+  },
+  {
+    "id": "f1a51218-eee9-4ced-a918-ec23b7f4c0b1",
+    "name": "Imperial Jade",
+    "code": "6032",
+    "hexCode": "#75CCC4"
+  },
+  {
+    "id": "0f75e50c-67a6-47b1-adc3-ddcc0ea1c651",
+    "name": "Hibiscus",
+    "code": "2731",
+    "hexCode": "#9C5353"
+  },
+  {
+    "id": "aa979d91-e731-4877-9b06-4a54b5e63681",
+    "name": "Warm Blush",
+    "code": "2856",
+    "hexCode": "#AB8073"
+  },
+  {
+    "id": "43232012-0a39-4a94-972a-02686930c1c9",
+    "name": "Lime Mint",
+    "code": "8246",
+    "hexCode": "#E7CB63"
+  },
+  {
+    "id": "a50a014b-3d1b-41fc-9b3c-2ecb5f682e57",
+    "name": "White Poetry",
+    "code": "8394",
+    "hexCode": "#DFDFD7"
+  },
+  {
+    "id": "747c1392-25c2-4064-99b7-63bd8a542148",
+    "name": "Smooth White",
+    "code": "8470",
+    "hexCode": "#CECBC0"
+  },
+  {
+    "id": "baf7a1d3-7402-4ad0-8413-e494fe287777",
+    "name": "Olive",
+    "code": "8284",
+    "hexCode": "#B8A87F"
+  },
+  {
+    "id": "84c85f23-177e-4230-80a9-4234c784a83e",
+    "name": "Spring Breeze",
+    "code": "6167",
+    "hexCode": "#D5E0DC"
+  },
+  {
+    "id": "5d376d5f-006d-4e79-9b91-6b62eabfe87c",
+    "name": "Shams",
+    "code": "10411",
+    "hexCode": "#E3C4A2"
+  },
+  {
+    "id": "3c96e2c8-9d9d-4450-be9f-ba9eb3f96b03",
+    "name": "Cashew",
+    "code": "1931",
+    "hexCode": "#E3DDCD"
+  },
+  {
+    "id": "133c9ce2-1af8-44e6-ab9f-b07552fc7342",
+    "name": "Rock Sugar",
+    "code": "1632",
+    "hexCode": "#BD9E7A"
+  },
+  {
+    "id": "8c62a5da-b05d-4425-9650-34a54d4de97e",
+    "name": "Healing Lavender",
+    "code": "20218",
+    "hexCode": "#A59D9A"
+  },
+  {
+    "id": "58b3b83d-2b4a-4e23-a6bf-6beaf4b23296",
+    "name": "Sheer Grey",
+    "code": "12077",
+    "hexCode": "#CCC7BD"
+  },
+  {
+    "id": "bdcc9d66-5671-4a43-a1d9-1556e40e98c5",
+    "name": "Antique White",
+    "code": "1016",
+    "hexCode": "#CDC5B5"
+  },
+  {
+    "id": "2e2a74e7-bb62-4174-b0ca-ba51e8d4d2e8",
+    "name": "Timeless",
+    "code": "1024",
+    "hexCode": "#E0DDD3"
+  },
+  {
+    "id": "1e274c87-bb01-49c8-a8e3-0d077b0200f1",
+    "name": "Soft Touch",
+    "code": "10290",
+    "hexCode": "#DCD0BF"
+  },
+  {
+    "id": "64764906-602d-4ca9-8b87-0a0c8e095a8f",
+    "name": "Complexion",
+    "code": "10579",
+    "hexCode": "#D7CEC0"
+  },
+  {
+    "id": "f20d579d-42c8-4462-96dd-3c89252eddd7",
+    "name": "Golden Bronze",
+    "code": "10963",
+    "hexCode": "#887760"
+  },
+  {
+    "id": "f96de402-1442-4308-8831-024b64fa9e12",
+    "name": "Curious Mind",
+    "code": "11174",
+    "hexCode": "#B7A992"
+  },
+  {
+    "id": "44ac9d5f-0b89-43c5-bd65-587b2457239f",
+    "name": "Sand",
+    "code": "1140",
+    "hexCode": "#CFC5B4"
+  },
+  {
+    "id": "35321c55-d7c8-4732-9cba-a0ff784389a8",
+    "name": "Band Stone",
+    "code": "1145",
+    "hexCode": "#807972"
+  },
+  {
+    "id": "5ca9929c-ce03-4d80-b8a5-a5d1575b5485",
+    "name": "Dusk Green",
+    "code": "7038",
+    "hexCode": "#C4C7B1"
+  },
+  {
+    "id": "e990cd64-7fa9-40a4-bbb9-6a03c97cbb14",
+    "name": "Hummus",
+    "code": "12118",
+    "hexCode": "#DACBB3"
+  },
+  {
+    "id": "56bf6b08-2922-45b4-9947-2ef42b8ee2b6",
+    "name": "Vintage Brown",
+    "code": "12119",
+    "hexCode": "#887D73"
+  },
+  {
+    "id": "28015aa3-0ab8-4c06-a056-c72567c70421",
+    "name": "Sophisticated Red",
+    "code": "2951",
+    "hexCode": "#7B5953"
+  },
+  {
+    "id": "15d0f4bb-44ad-4ad1-a31b-cdd8d28a7662",
+    "name": "Soft",
+    "code": "1276",
+    "hexCode": "#DCD1BA"
+  },
+  {
+    "id": "0f743c61-bd5c-4e07-a65a-37d1c4041769",
+    "name": "Rose Leaf",
+    "code": "3114",
+    "hexCode": "#C28597"
+  },
+  {
+    "id": "113d7b70-e69c-4f4d-a801-ee71cc312759",
+    "name": "Classic Blue",
+    "code": "4062",
+    "hexCode": "#B8C0CA"
+  },
+  {
+    "id": "48e7044c-f003-4efd-bd50-e2275073e33d",
+    "name": "Vanilla Latte",
+    "code": "1519",
+    "hexCode": "#E5DAC8"
+  },
+  {
+    "id": "25afdcfd-d65d-4370-90e5-d9b8eba2c9da",
+    "name": "Chameleon",
+    "code": "4424",
+    "hexCode": "#9D9BA2"
+  },
+  {
+    "id": "4c5b6163-786f-42fe-b721-0f4e427b0df4",
+    "name": "Alladin",
+    "code": "4468",
+    "hexCode": "#C1CDD4"
+  },
+  {
+    "id": "f022317a-44d3-4866-8416-53c65a5e02db",
+    "name": "Tangerine Blast",
+    "code": "1628",
+    "hexCode": "#E58040"
+  },
+  {
+    "id": "6680e7d9-8956-47af-961d-60c50c998b70",
+    "name": "Warm Blue",
+    "code": "4624",
+    "hexCode": "#90969F"
+  },
+  {
+    "id": "23a26290-109d-4666-9a3f-40e20739fe2a",
+    "name": "Anonymous",
+    "code": "1864",
+    "hexCode": "#A68D6B"
+  },
+  {
+    "id": "08bf2ff7-512c-4a64-a97b-7146c8f0a35b",
+    "name": "Pebblestone",
+    "code": "1877",
+    "hexCode": "#96938B"
+  },
+  {
+    "id": "a688c4f4-cf65-413d-8939-84d4b3ec822a",
+    "name": "Statement Blue",
+    "code": "4863",
+    "hexCode": "#395068"
+  },
+  {
+    "id": "38ff04f7-9497-4300-8bc6-a5588df4a0f4",
+    "name": "Clover Lane",
+    "code": "8323",
+    "hexCode": "#CED396"
+  },
+  {
+    "id": "778a57fb-ea59-407c-8b54-84d4f2e32bbc",
+    "name": "Silky Pink",
+    "code": "20054",
+    "hexCode": "#BDA69F"
+  },
+  {
+    "id": "3c46fd57-0d71-44c8-b638-dbb760d73a77",
+    "name": "Blackened Black",
+    "code": "9938",
+    "hexCode": "#494948"
+  },
+  {
+    "id": "6baa05a7-b909-479e-b465-754ee2f109fe",
+    "name": "Mosley",
+    "code": "7418",
+    "hexCode": "#89B24C"
+  },
+  {
+    "id": "677621a2-3bb9-42c4-bb70-8aecdba120ce",
+    "name": "Natural Blue",
+    "code": "5503",
+    "hexCode": "#88959A"
+  },
+  {
+    "id": "00787ebb-51b3-4f4a-9668-03128b55d0a8",
+    "name": "Daze Bayou",
+    "code": "5279",
+    "hexCode": "#2EA4B8"
+  },
+  {
+    "id": "c6d0a393-ca8c-49fd-b8cb-b3c1a33adbee",
+    "name": "Ivory",
+    "code": "0567",
+    "hexCode": "#F2EAD6"
+  },
+  {
+    "id": "959bfbf3-d096-4c57-9231-0a0894d86918",
+    "name": "Old Cream",
+    "code": "1154",
+    "hexCode": "#FAEAC5"
+  },
+  {
+    "id": "bf612377-6007-4e58-aea0-d631848be631",
+    "name": "Arabian Tahr",
+    "code": "12184",
+    "hexCode": "#DDC4B1"
+  },
+  {
+    "id": "92210502-24d7-4678-9a1b-cdbe7877438f",
+    "name": "Bologna",
+    "code": "2115",
+    "hexCode": "#9C4B49"
+  },
+  {
+    "id": "69b59fcd-30c1-4326-8dca-b4b7a46f0fab",
+    "name": "Oryx White",
+    "code": "12218",
+    "hexCode": "#F3F0E4"
+  },
+  {
+    "id": "50748083-135f-49ee-b799-fae9869fadb3",
+    "name": "Sugartop Mountain",
+    "code": "2202",
+    "hexCode": "#B9ADA7"
+  },
+  {
+    "id": "f3b8f84f-e06d-46d0-a01f-11b4ab2d753a",
+    "name": "Refresh",
+    "code": "7627",
+    "hexCode": "#CACFC3"
+  },
+  {
+    "id": "bf3b847f-29ab-4ba9-9b5b-9626193c2e52",
+    "name": "Orange Tart",
+    "code": "1787",
+    "hexCode": "#D79345"
+  },
+  {
+    "id": "b617d917-68e3-4704-b23a-18822306d550",
+    "name": "Tea Flower",
+    "code": "2104",
+    "hexCode": "#E3DED5"
+  },
+  {
+    "id": "25c2f7bf-5702-4018-ad92-a819078c7055",
+    "name": "Aroma",
+    "code": "2169",
+    "hexCode": "#C5B1A8"
+  },
+  {
+    "id": "ea44702e-f2ba-4d3c-bad5-19a3bbf32ed5",
+    "name": "Pinkkins",
+    "code": "2612",
+    "hexCode": "#F8CDC4"
+  },
+  {
+    "id": "217966ac-f8c3-4cff-8ee4-112a9ec723a7",
+    "name": "Coral Dune",
+    "code": "2604",
+    "hexCode": "#E26A5E"
+  },
+  {
+    "id": "4abd3e16-b9e4-416a-911c-eba0cfabaee5",
+    "name": "White Malva",
+    "code": "3144",
+    "hexCode": "#F0ECE6"
+  },
+  {
+    "id": "9dd8f868-d4be-4689-8cad-829f70478e91",
+    "name": "Moon Reflection",
+    "code": "4072",
+    "hexCode": "#637989"
+  },
+  {
+    "id": "8bbfe9c5-1cd6-4802-9bef-0bd52dff73b4",
+    "name": "Eternal Blue",
+    "code": "4108",
+    "hexCode": "#A7D2E7"
+  },
+  {
+    "id": "b99f801a-f767-466f-a6c6-d18016cff4fc",
+    "name": "Lunar Plum",
+    "code": "4150",
+    "hexCode": "#9FB5E0"
+  },
+  {
+    "id": "30f76775-d989-4986-8a38-425eb6d5457e",
+    "name": "Musk",
+    "code": "4447",
+    "hexCode": "#E8E5EB"
+  },
+  {
+    "id": "ec260f16-e2fa-4e7a-ae8c-b1b78686dd01",
+    "name": "Fresh Feel",
+    "code": "4518",
+    "hexCode": "#C5DCEB"
+  },
+  {
+    "id": "0f74253a-d8de-479e-8806-355631f0eb1e",
+    "name": "Ice Turquoise",
+    "code": "5136",
+    "hexCode": "#BAE2E6"
+  },
+  {
+    "id": "8f9cf432-f498-4ab5-aea8-768e081fe2b5",
+    "name": "Flow",
+    "code": "6235",
+    "hexCode": "#B1C3C1"
+  },
+  {
+    "id": "a0b54dcb-cc4f-4304-bb06-dc602990fbfe",
+    "name": "Hint Of Green",
+    "code": "7001",
+    "hexCode": "#E9EDE7"
+  },
+  {
+    "id": "7557b215-7ce7-4eb1-8a66-f7ad838a57b4",
+    "name": "Tangy",
+    "code": "10005",
+    "hexCode": "#F4A867"
+  },
+  {
+    "id": "71c8fc43-6488-45e3-8cbb-10a983d79ca5",
+    "name": "Golden Kiwi",
+    "code": "8306",
+    "hexCode": "#B39C59"
+  },
+  {
+    "id": "585d5830-dae2-478b-95c2-0b572d898d10",
+    "name": "Green Turtle",
+    "code": "7666",
+    "hexCode": "#778175"
+  },
+  {
+    "id": "c86e5155-9160-4693-8c04-cf46d1a58e47",
+    "name": "Soft Comfort",
+    "code": "12181",
+    "hexCode": "#8A8176"
+  },
+  {
+    "id": "8bdb2dae-583e-4732-bc72-28d2e6024f08",
+    "name": "Akita",
+    "code": "8059",
+    "hexCode": "#E8D591"
+  },
+  {
+    "id": "60ad435d-2071-4fa9-95ba-062f988d344c",
+    "name": "Fresh Day",
+    "code": "8239",
+    "hexCode": "#DEE4A2"
+  },
+  {
+    "id": "01bf3562-bbc8-4de3-abf7-e7c32f1a6662",
+    "name": "Malmo",
+    "code": "8124",
+    "hexCode": "#E4DCBC"
+  },
+  {
+    "id": "544c49c0-311a-4c8b-80d2-c6668e5c7dc8",
+    "name": "Comfort Grey",
+    "code": "12078",
+    "hexCode": "#BEB9AF"
+  },
+  {
+    "id": "01d26763-6d17-4d6e-a87a-0535f968d01b",
+    "name": "Earthy Yellow",
+    "code": "8583",
+    "hexCode": "#CDBC94"
+  },
+  {
+    "id": "7511d395-0685-4a02-abcb-b540a15026e0",
+    "name": "Indi Pink",
+    "code": "2224",
+    "hexCode": "#D1B9AA"
+  },
+  {
+    "id": "83916077-981f-43a1-bdc2-2aa8140a5856",
+    "name": "Mist",
+    "code": "1376",
+    "hexCode": "#E5E0D4"
+  },
+  {
+    "id": "e815d581-0c65-4785-9cad-74d16b737c94",
+    "name": "Green Tea",
+    "code": "8493",
+    "hexCode": "#A09B7C"
+  },
+  {
+    "id": "db8ff480-d882-4603-b260-409fcb3eb48f",
+    "name": "Limestone",
+    "code": "10341",
+    "hexCode": "#D9D3C7"
+  },
+  {
+    "id": "e40c9585-3ddd-466b-886e-bd1691f90d9b",
+    "name": "Sable Stone",
+    "code": "10342",
+    "hexCode": "#BBB4A8"
+  },
+  {
+    "id": "bc4086a5-af05-4c77-8bba-9951a119499b",
+    "name": "Soft Skin",
+    "code": "10580",
+    "hexCode": "#CBBBAC"
+  },
+  {
+    "id": "95202ac5-d682-4dcc-b617-5b28822ac1e0",
+    "name": "Humble Yellow",
+    "code": "11173",
+    "hexCode": "#D3C5AB"
+  },
+  {
+    "id": "3f362379-b999-4b40-a9b7-6b228e14a3de",
+    "name": "Orchid",
+    "code": "1171",
+    "hexCode": "#E8DDC4"
+  },
+  {
+    "id": "57318f1a-e0ed-4973-a67c-69779e632430",
+    "name": "Devine",
+    "code": "12083",
+    "hexCode": "#D2BEA9"
+  },
+  {
+    "id": "4a0d4d6a-3e31-4d90-bd15-65f10fe6c3aa",
+    "name": "Heat",
+    "code": "2994",
+    "hexCode": "#995F4D"
+  },
+  {
+    "id": "3913997a-5a6c-4b31-9ecd-d5864629c734",
+    "name": "Burnt Ochre",
+    "code": "1536",
+    "hexCode": "#C99765"
+  },
+  {
+    "id": "9aeee9e9-aba6-4a7a-a478-85a66d5c4ebf",
+    "name": "Cappuccino",
+    "code": "1303",
+    "hexCode": "#CEBDA2"
+  },
+  {
+    "id": "5a89aabf-9155-418e-9902-09048eef6181",
+    "name": "Elderberry Crush",
+    "code": "3185",
+    "hexCode": "#B35668"
+  },
+  {
+    "id": "c54d42cf-05b6-41ac-a043-1f06d5d73725",
+    "name": "Light",
+    "code": "1349",
+    "hexCode": "#F3E5C0"
+  },
+  {
+    "id": "d3abf8a6-271e-4350-8efa-cb7891f5f0d0",
+    "name": "Lucerne",
+    "code": "1563",
+    "hexCode": "#CDC6B4"
+  },
+  {
+    "id": "00acf6bb-cbfa-428f-bab4-741d64b1453c",
+    "name": "Skylight",
+    "code": "1624",
+    "hexCode": "#F2F1E8"
+  },
+  {
+    "id": "c71322dd-c79a-4707-9925-6b9aed577e2b",
+    "name": "Evening Light",
+    "code": "4618",
+    "hexCode": "#77838C"
+  },
+  {
+    "id": "6507b14f-000a-4ebf-9431-d7bcaf6f61cd",
+    "name": "Satin Beige",
+    "code": "8011",
+    "hexCode": "#F1EFDB"
+  },
+  {
+    "id": "dfd875c1-cb67-46bd-9382-bf9ae9268d62",
+    "name": "Evergreen",
+    "code": "8479",
+    "hexCode": "#787664"
+  },
+  {
+    "id": "3d90c22d-a103-4480-a081-4822ddef775d",
+    "name": "Twilight",
+    "code": "9904",
+    "hexCode": "#E1E1DD"
+  },
+  {
+    "id": "8d8da12c-51f4-4cc2-a478-fdcdccbf329b",
+    "name": "Oxford River",
+    "code": "9915",
+    "hexCode": "#D5D4CF"
+  },
+  {
+    "id": "8af292f2-0ec9-4a07-a1e0-a66ab5951591",
+    "name": "Nordic Breeze",
+    "code": "5452",
+    "hexCode": "#BBC6C8"
+  },
+  {
+    "id": "73367476-4728-48b3-b14c-dbff80cbc3bb",
+    "name": "My Beirut",
+    "code": "20116",
+    "hexCode": "#CBA68F"
+  },
+  {
+    "id": "4e13a8e3-7038-4075-9a24-19195c985e60",
+    "name": "Coastal Blue",
+    "code": "5504",
+    "hexCode": "#6D7D83"
+  },
+  {
+    "id": "0a83d1ee-47cd-4079-8608-ced7ee519ce9",
+    "name": "Iron Blue",
+    "code": "5516",
+    "hexCode": "#6F7777"
+  },
+  {
+    "id": "357a5439-e5c9-4f85-9a2d-74151ff13d94",
+    "name": "Urban Nile",
+    "code": "5277",
+    "hexCode": "#90CCD6"
+  },
+  {
+    "id": "74fbe11d-91fb-4b5e-be49-c608db81c3ae",
+    "name": "Iconic",
+    "code": "6378",
+    "hexCode": "#A1ABA6"
+  },
+  {
+    "id": "9b6edddb-f9b6-4169-8970-a9f1dcc8aa64",
+    "name": "Welcoming Red",
+    "code": "20167",
+    "hexCode": "#A06C5E"
+  },
+  {
+    "id": "8427673d-a8ff-4a62-9a58-9bb018fa9eaa",
+    "name": "Lavendar Whip",
+    "code": "4154",
+    "hexCode": "#98A8C7"
+  },
+  {
+    "id": "41a82cc3-3b34-4211-8967-c057fd6c1a1b",
+    "name": "Treasure",
+    "code": "7628",
+    "hexCode": "#A3A798"
+  },
+  {
+    "id": "79384367-d11b-4b3e-9c64-2c681f1762ac",
+    "name": "Peppermint",
+    "code": "8003",
+    "hexCode": "#E3E1D0"
+  },
+  {
+    "id": "3ffd453d-6c7f-471a-9ae2-9938ec452857",
+    "name": "Deep Forest",
+    "code": "20193",
+    "hexCode": "#735256"
+  },
+  {
+    "id": "d1d93f46-6994-4ef0-b62d-b49a3ee051d1",
+    "name": "Tender Pink",
+    "code": "2396",
+    "hexCode": "#F4E8DF"
+  },
+  {
+    "id": "54c37509-7a71-4498-b149-70e621dc53e4",
+    "name": "Dusky Pink",
+    "code": "2526",
+    "hexCode": "#CEB9AE"
+  },
+  {
+    "id": "4c06144d-cb42-4663-943f-5849575f7458",
+    "name": "Jazz Yellow",
+    "code": "8353",
+    "hexCode": "#E7D07C"
+  },
+  {
+    "id": "2053cdc4-9fcc-4994-96ce-a62b4a06b5c2",
+    "name": "April Green",
+    "code": "8109",
+    "hexCode": "#A4A178"
+  },
+  {
+    "id": "bf426707-ba78-41e7-a923-06eb212fba27",
+    "name": "Ebony",
+    "code": "9905",
+    "hexCode": "#ABA9A6"
+  },
+  {
+    "id": "21b96b9f-2cde-4792-b8f1-c88f41c9fe10",
+    "name": "Shadow",
+    "code": "9932",
+    "hexCode": "#838381"
+  },
+  {
+    "id": "2d8ebe00-6fdf-4abc-85ee-fbfaa9655afd",
+    "name": "English Rose",
+    "code": "3183",
+    "hexCode": "#F2E1DF"
+  },
+  {
+    "id": "c2de0914-bb1d-45f8-8425-0b5bdc14a129",
+    "name": "Sugar Cane",
+    "code": "8199",
+    "hexCode": "#B9B46D"
+  },
+  {
+    "id": "b55fadf5-0dfa-4adc-9adf-8377f0280362",
+    "name": "Fiery Crush",
+    "code": "3247",
+    "hexCode": "#D77386"
+  },
+  {
+    "id": "eedad3d2-a06f-43a6-ac2f-7790c6920a2f",
+    "name": "Jurassic Grey",
+    "code": "8222",
+    "hexCode": "#CAC5A9"
+  },
+  {
+    "id": "294d86bd-2e99-4ea8-b35f-487fd1d70341",
+    "name": "Ultra Violet",
+    "code": "4148",
+    "hexCode": "#889CC9"
+  },
+  {
+    "id": "9401bdfd-18a9-46d2-a1af-13d7daf89afa",
+    "name": "Pink Zen",
+    "code": "2454",
+    "hexCode": "#F3A5A0"
+  },
+  {
+    "id": "c337fb91-96ad-429c-bfa2-efbc855f26a4",
+    "name": "Parrot Blue",
+    "code": "4202",
+    "hexCode": "#4587C3"
+  },
+  {
+    "id": "c894fae6-3e45-44cf-a662-feec33073c2b",
+    "name": "Violet Peace",
+    "code": "4326",
+    "hexCode": "#CCDAEB"
+  },
+  {
+    "id": "a8421014-4674-417a-a6e5-037c947a034d",
+    "name": "Thoughtful",
+    "code": "20184",
+    "hexCode": "#B5A395"
+  },
+  {
+    "id": "b2ad58a8-6254-44d0-8aaa-6e87d5a0661e",
+    "name": "Atlantic Pool",
+    "code": "5206",
+    "hexCode": "#45BDD1"
+  },
+  {
+    "id": "0ffca528-c380-4b9d-a756-dd54107724d1",
+    "name": "Caravan",
+    "code": "0280",
+    "hexCode": "#CCB394"
+  },
+  {
+    "id": "67b5f5cf-a021-409e-b3a0-c988153245f5",
+    "name": "Cocoa Root",
+    "code": "1361",
+    "hexCode": "#A36F3E"
+  },
+  {
+    "id": "974fa719-77b3-4d3a-bfa9-f44792ab8a6f",
+    "name": "Herbal Fusion",
+    "code": "8237",
+    "hexCode": "#E9EDBC"
+  },
+  {
+    "id": "a70b5c8c-1968-4210-bf98-9f5b2bd97b32",
+    "name": "Golden Sunset",
+    "code": "1653",
+    "hexCode": "#F5B038"
+  },
+  {
+    "id": "6f7879e6-109c-42dd-9798-a257d7491088",
+    "name": "Oasis Treat",
+    "code": "8250",
+    "hexCode": "#565642"
+  },
+  {
+    "id": "a8b83133-2b3d-4e8e-b08e-aa6cd73e59d9",
+    "name": "Green Marble",
+    "code": "8422",
+    "hexCode": "#68665C"
+  },
+  {
+    "id": "2caae3a3-5f9f-49b0-8d94-35bcfe6b1873",
+    "name": "Avocado Green",
+    "code": "0470",
+    "hexCode": "#B8BF9B"
+  },
+  {
+    "id": "adc25c12-6109-4a62-8288-5c264e7cbaf1",
+    "name": "Sunny Green",
+    "code": "8596",
+    "hexCode": "#D0CCB1"
+  },
+  {
+    "id": "92049c99-60f7-4add-8449-fd195977e3ce",
+    "name": "Mellow",
+    "code": "20162",
+    "hexCode": "#8B7467"
+  },
+  {
+    "id": "256759e3-1c0d-43bc-8557-84bcfc595ab9",
+    "name": "Rural",
+    "code": "12085",
+    "hexCode": "#AF957A"
+  },
+  {
+    "id": "4cbdce3b-3c91-48d2-b71a-0bcf78224dbe",
+    "name": "Deep Mocca",
+    "code": "2732",
+    "hexCode": "#5C5853"
+  },
+  {
+    "id": "37c38a9d-d46f-4b0d-9232-626032f9fb62",
+    "name": "Shade",
+    "code": "11130",
+    "hexCode": "#9D9385"
+  },
+  {
+    "id": "ae33cfc3-5cd3-48da-adbc-38dad28be098",
+    "name": "Teal Beige",
+    "code": "1966",
+    "hexCode": "#F0D5AC"
+  },
+  {
+    "id": "2df17e36-eb2a-4210-90c4-563a79df65b4",
+    "name": "Spring Champagne",
+    "code": "1998",
+    "hexCode": "#DFCCAF"
+  },
+  {
+    "id": "78a10404-dab6-4f59-a7e3-094b86818cdd",
+    "name": "Tuscany",
+    "code": "2225",
+    "hexCode": "#D2A993"
+  },
+  {
+    "id": "7e8ca6ec-622f-4b8c-9460-6775bfeb1a09",
+    "name": "Oakwood",
+    "code": "2364",
+    "hexCode": "#957F72"
+  },
+  {
+    "id": "7084aca6-0dd4-4b82-9384-f9e71b0d9a53",
+    "name": "Rich Kashmir",
+    "code": "2711",
+    "hexCode": "#6A605C"
+  },
+  {
+    "id": "e844f280-0d4d-443a-b87b-4d3ba90ce41d",
+    "name": "Mistral",
+    "code": "4011",
+    "hexCode": "#D7DDDF"
+  },
+  {
+    "id": "9695fb3f-226e-4ded-bd57-29d67119af60",
+    "name": "Night Shadow",
+    "code": "4686",
+    "hexCode": "#3B4760"
+  },
+  {
+    "id": "01effcaf-7c92-4e5f-8a81-5ec71479f9f5",
+    "name": "Blue View",
+    "code": "4691",
+    "hexCode": "#939BAF"
+  },
+  {
+    "id": "3341d4bb-d531-4010-9104-a1bbc0602cee",
+    "name": "Bayleaf",
+    "code": "7544",
+    "hexCode": "#7A877A"
+  },
+  {
+    "id": "70cec358-3352-4c43-9706-2f342870e789",
+    "name": "Ivory White",
+    "code": "0566",
+    "hexCode": "#F4E9D7"
+  },
+  {
+    "id": "82919586-646c-4831-8f48-d1f8e5a1821b",
+    "name": "Dazzle Light",
+    "code": "0567",
+    "hexCode": "#F2EAD7"
+  },
+  {
+    "id": "de7f845a-9b7a-406c-bc4c-91a356991f36",
+    "name": "Sensual Touch",
+    "code": "0767",
+    "hexCode": "#B8BCB7"
+  },
+  {
+    "id": "3d9170cb-d5ea-42e5-95cd-6fb957fee59f",
+    "name": "Beach Honey",
+    "code": "1122",
+    "hexCode": "#E8D5C3"
+  },
+  {
+    "id": "4f555a81-3203-4766-b405-8cb85674321c",
+    "name": "Tribal",
+    "code": "1187",
+    "hexCode": "#D39246"
+  },
+  {
+    "id": "fdf8f68c-8400-48c5-bda4-80a6aad9ccc9",
+    "name": "Unicorn",
+    "code": "1188",
+    "hexCode": "#FAE3C4"
+  },
+  {
+    "id": "35ee7ab2-7c7a-4164-800e-88b9df7ecc68",
+    "name": "Coco Berry",
+    "code": "2133",
+    "hexCode": "#D39689"
+  },
+  {
+    "id": "7f7095aa-a944-4494-99db-a70b7aa2cffb",
+    "name": "Knight",
+    "code": "3009",
+    "hexCode": "#C0BCBB"
+  },
+  {
+    "id": "fab28823-f525-4ac1-a197-47c9ffe8ffb5",
+    "name": "Alice Blue",
+    "code": "4241",
+    "hexCode": "#6A89A0"
+  },
+  {
+    "id": "e4bf556a-eacd-42f9-aeb8-5d7a114fef02",
+    "name": "Tree",
+    "code": "7528",
+    "hexCode": "#526A5C"
+  },
+  {
+    "id": "6ea24f97-8073-4e5e-9d49-0c43bacef0fb",
+    "name": "Golden Lily",
+    "code": "10406",
+    "hexCode": "#F3BF53"
+  },
+  {
+    "id": "a6099ace-5dfe-472e-8fe8-b4c3214c8d09",
+    "name": "Nobile",
+    "code": "1177",
+    "hexCode": "#E8C099"
+  },
+  {
+    "id": "7988416a-2ab6-48c4-90ab-d03357d0e30d",
+    "name": "Chateau",
+    "code": "1246",
+    "hexCode": "#D9B389"
+  },
+  {
+    "id": "f6ff1c4a-8531-4e4b-861d-28ebf9bd01c3",
+    "name": "Palladium",
+    "code": "1293",
+    "hexCode": "#C6C6C1"
+  },
+  {
+    "id": "2360f5bf-e80c-4e66-ae07-571d010e3e3f",
+    "name": "Rich Clay",
+    "code": "1989",
+    "hexCode": "#DBD0B2"
+  },
+  {
+    "id": "9cf117b4-9ac3-473e-831d-8793a8cdbb4f",
+    "name": "Deep Burgundy",
+    "code": "3309",
+    "hexCode": "#5E4A4B"
+  },
+  {
+    "id": "122581fa-855e-4556-9f58-8621bcede990",
+    "name": "Coastal Wave",
+    "code": "5041",
+    "hexCode": "#548895"
+  },
+  {
+    "id": "4239c3f7-15f8-498d-abad-24b58dd60d08",
+    "name": "Cobalt",
+    "code": "6198",
+    "hexCode": "#4F6B6A"
+  },
+  {
+    "id": "e70397e7-2a5a-43d0-8878-369bf977feec",
+    "name": "Sinai",
+    "code": "1111",
+    "hexCode": "#C69E5C"
+  },
+  {
+    "id": "4f8d456f-766a-4a6f-bf4d-7b27dc23b4e6",
+    "name": "Spray Tan",
+    "code": "1193",
+    "hexCode": "#D4874A"
+  },
+  {
+    "id": "e54689f0-37fc-437a-bd91-53bf44c53baa",
+    "name": "Fire Brick",
+    "code": "2131",
+    "hexCode": "#C8785D"
+  },
+  {
+    "id": "5c3255bc-2e47-48fd-931e-02c4cd71c20f",
+    "name": "Grove",
+    "code": "8050",
+    "hexCode": "#85775B"
+  },
+  {
+    "id": "850a101d-8c55-47ff-80c5-288d0fab49ed",
+    "name": "Sunny Spot",
+    "code": "8054",
+    "hexCode": "#EFCB6B"
+  },
+  {
+    "id": "7187600b-403b-439a-9366-c891caf9c0ba",
+    "name": "Navajo White",
+    "code": "1075",
+    "hexCode": "#EDE3CA"
+  },
+  {
+    "id": "9d5a4406-4f6f-4256-a01c-18f59767631c",
+    "name": "Chocolate",
+    "code": "2392",
+    "hexCode": "#6A5044"
+  },
+  {
+    "id": "81c2c252-ecd9-44e9-9df7-fce7d4d71605",
+    "name": "Tawny Earth",
+    "code": "20235",
+    "hexCode": "#9F6251"
+  },
+  {
+    "id": "b1f6c510-95e9-4436-a13d-08c524cae9ad",
+    "name": "Serene Mint",
+    "code": "8084",
+    "hexCode": "#C9C9B6"
+  },
+  {
+    "id": "0545f133-a0ce-4e9e-b65a-f3f724597c76",
+    "name": "Sage",
+    "code": "8294",
+    "hexCode": "#9B9C8F"
+  },
+  {
+    "id": "91c76f91-627b-4305-8737-4e0d00be9397",
+    "name": "Sunrise Gleam",
+    "code": "1216",
+    "hexCode": "#DFAC78"
+  },
+  {
+    "id": "c147c825-daa6-41da-b12d-785c1968c9cd",
+    "name": "Muesli",
+    "code": "1421",
+    "hexCode": "#8C7360"
+  },
+  {
+    "id": "9b19c005-c0c1-4bc7-b17b-3cf3e4550b65",
+    "name": "Rosetta Stone",
+    "code": "2573",
+    "hexCode": "#CBC5BD"
+  },
+  {
+    "id": "2e749a13-fc7f-452c-bb48-08778b045a67",
+    "name": "Steady Brown",
+    "code": "2803",
+    "hexCode": "#7B453F"
+  },
+  {
+    "id": "5e0cec87-96f5-427f-8ed9-eaae735260a0",
+    "name": "Shadow Purple",
+    "code": "3047",
+    "hexCode": "#94888F"
+  },
+  {
+    "id": "2d85398f-bc1a-4448-b183-da2e5eec4769",
+    "name": "River Bank",
+    "code": "5310",
+    "hexCode": "#758589"
+  },
+  {
+    "id": "9b304c20-e98f-425a-bf26-00afd8c0d517",
+    "name": "Washed Green",
+    "code": "7379",
+    "hexCode": "#A0AD9E"
+  },
+  {
+    "id": "dc33f830-84a8-4740-9334-2d2af6c165c6",
+    "name": "Desert Rose",
+    "code": "1046",
+    "hexCode": "#E6C1A0"
+  },
+  {
+    "id": "fc727fa9-ed40-4cf8-a075-2c480fd568c2",
+    "name": "Miami Coral",
+    "code": "1197",
+    "hexCode": "#E49E6B"
+  },
+  {
+    "id": "1e576906-a53f-4abf-add3-f96162085228",
+    "name": "Flax",
+    "code": "2132",
+    "hexCode": "#AA5A44"
+  },
+  {
+    "id": "71017a1c-6cd7-4d2a-b1c2-1b33460fa703",
+    "name": "Rouge",
+    "code": "2401",
+    "hexCode": "#9D5F55"
+  },
+  {
+    "id": "6fb1db21-510d-4e9a-b02a-972a3829a727",
+    "name": "Ice Lilac",
+    "code": "4684",
+    "hexCode": "#A2A2AE"
+  },
+  {
+    "id": "63583109-64c6-4ddf-b982-b5ea7be5f066",
+    "name": "Green Spring",
+    "code": "8067",
+    "hexCode": "#D2CC7A"
+  },
+  {
+    "id": "4a69cfae-f6bf-4d0a-b66e-1182ac799a97",
+    "name": "Smooth Ivory",
+    "code": "1038",
+    "hexCode": "#E9D6B8"
+  },
+  {
+    "id": "0367cfd9-2bcf-4851-84ac-274c3a1a69e9",
+    "name": "Old Lace",
+    "code": "1574",
+    "hexCode": "#EDE7D6"
+  },
+  {
+    "id": "1c799e78-0aba-4729-baf8-209883b28ea0",
+    "name": "Lena",
+    "code": "8063",
+    "hexCode": "#B5A788"
+  },
+  {
+    "id": "4c58b31f-6da7-4b06-b760-918c643c368b",
+    "name": "Sahara Sand",
+    "code": "1132",
+    "hexCode": "#C5A88A"
+  },
+  {
+    "id": "924925c2-9762-4344-bb95-84da16bbe803",
+    "name": "Beaver",
+    "code": "1138",
+    "hexCode": "#79695D"
+  },
+  {
+    "id": "f933235d-5752-4f1f-b4f2-abadeb47e236",
+    "name": "Pangolin",
+    "code": "2061",
+    "hexCode": "#8D5740"
+  },
+  {
+    "id": "0ffcf397-9fb3-47d7-9a37-0cd55a98027e",
+    "name": "Royal Blue",
+    "code": "4224",
+    "hexCode": "#23507B"
+  },
+  {
+    "id": "291f047a-fe88-48db-a67a-ddcae5ffbeba",
+    "name": "Dragon Red",
+    "code": "0587",
+    "hexCode": "#883E3C"
+  },
+  {
+    "id": "0d3c0822-141c-4edf-9857-ce0e6e399045",
+    "name": "Fresh Concrete",
+    "code": "0556",
+    "hexCode": "#9C9891"
+  },
+  {
+    "id": "363bf555-e4af-458e-bf4a-736531d55a43",
+    "name": "Quick Sand",
+    "code": "1153",
+    "hexCode": "#B7894A"
+  },
+  {
+    "id": "f4783c4f-5d9e-41b1-a181-67b8694d1735",
+    "name": "Misty Grey",
+    "code": "1143",
+    "hexCode": "#BAB3AA"
+  },
+  {
+    "id": "43d15f17-2f1e-4800-891a-564f6ecc2d47",
+    "name": "Rug",
+    "code": "1245",
+    "hexCode": "#DDBF9C"
+  },
+  {
+    "id": "d65aa20f-d261-42f4-ac4e-6b675489dcb0",
+    "name": "Front",
+    "code": "1899",
+    "hexCode": "#716F6A"
+  },
+  {
+    "id": "a66ed43f-f75a-4ad6-a5af-fdfa6f556d60",
+    "name": "Battleship Grey",
+    "code": "2109",
+    "hexCode": "#908580"
+  },
+  {
+    "id": "f9ae4253-678c-4084-9e69-9dfae570ed62",
+    "name": "Old Fresco",
+    "code": "2458",
+    "hexCode": "#B8928C"
+  },
+  {
+    "id": "e80e3022-e9cb-4fc0-8216-251588240977",
+    "name": "Innocence",
+    "code": "2536",
+    "hexCode": "#EAD9CD"
+  },
+  {
+    "id": "0de2f06c-e744-4d73-a801-0874c84713de",
+    "name": "Roast Coffee",
+    "code": "2549",
+    "hexCode": "#574840"
+  },
+  {
+    "id": "4af82c2c-51c9-4324-97bd-6d3c9c9f6599",
+    "name": "Midnight Blue",
+    "code": "4403",
+    "hexCode": "#3D464E"
+  },
+  {
+    "id": "9b0f599a-bd60-4d38-9ba2-655cc6c0d910",
+    "name": "Silver Clay",
+    "code": "5045",
+    "hexCode": "#AFC0C4"
+  },
+  {
+    "id": "bc8111ee-b2ad-4290-b459-cf35d1fae21a",
+    "name": "Khaki",
+    "code": "7039",
+    "hexCode": "#B5BAA2"
+  },
+  {
+    "id": "ddd51499-8550-4354-9f26-9403acc96e6e",
+    "name": "Nature Oasis",
+    "code": "8079",
+    "hexCode": "#92947C"
+  },
+  {
+    "id": "ab56cbf4-2206-403a-8664-53343b8c6463",
+    "name": "Evening Stone",
+    "code": "1564",
+    "hexCode": "#686159"
+  },
+  {
+    "id": "922da723-56d8-493c-b6b4-0da38d431d48",
+    "name": "Celestial",
+    "code": "4069",
+    "hexCode": "#A0ACB6"
+  },
+  {
+    "id": "1a9beea0-8a2b-431c-af80-16626da6281c",
+    "name": "Bayside Blue",
+    "code": "4096",
+    "hexCode": "#95B6CA"
+  },
+  {
+    "id": "112f9247-049d-4f05-a7a6-345b7db3a8a0",
+    "name": "Brown Soil",
+    "code": "10254",
+    "hexCode": "#93897C"
+  },
+  {
+    "id": "a840737e-7206-40e0-a6bf-b89d0cdeedc3",
+    "name": "Mars Dust",
+    "code": "10012",
+    "hexCode": "#AA795A"
+  },
+  {
+    "id": "ad058a81-47c1-4ab2-93fe-b40b3629bdf5",
+    "name": "Pure Yellow",
+    "code": "10394",
+    "hexCode": "#D7C09C"
+  },
+  {
+    "id": "2e1ef90b-1768-4c79-9661-f5ddb3833412",
+    "name": "Fresh Spring",
+    "code": "8083",
+    "hexCode": "#D9D9C8"
+  },
+  {
+    "id": "7ef93b9c-2fe9-4dcd-98bb-85a97cd0cb93",
+    "name": "Silver Glass",
+    "code": "1268",
+    "hexCode": "#D0CFC7"
+  },
+  {
+    "id": "2862de3e-6479-47dd-871e-4ae2651d602f",
+    "name": "Light Mocha",
+    "code": "2024",
+    "hexCode": "#BFA795"
+  },
+  {
+    "id": "9164c995-ae9b-42fd-8cdd-1fb62802231e",
+    "name": "Sandstone",
+    "code": "2496",
+    "hexCode": "#CCC1B4"
+  },
+  {
+    "id": "0d366dc4-4efc-4862-961b-329086348621",
+    "name": "Midnight",
+    "code": "3165",
+    "hexCode": "#615B5B"
+  },
+  {
+    "id": "d6db1708-3a02-4cf9-a645-6bd4b8fb1ba1",
+    "name": "Ruddy",
+    "code": "2794",
+    "hexCode": "#6F4C48"
+  },
+  {
+    "id": "6822e128-91bc-49aa-a269-04b97e81b862",
+    "name": "Thunder Hero",
+    "code": "4226",
+    "hexCode": "#394F6D"
+  },
+  {
+    "id": "cd45fc58-791b-4afa-b3f2-d5cf8419f60d",
+    "name": "Thunder",
+    "code": "4687",
+    "hexCode": "#565E75"
+  },
+  {
+    "id": "915f1117-a420-490d-846a-0873b063cf0c",
+    "name": "Near Dusk",
+    "code": "5276",
+    "hexCode": "#D4DEDF"
+  },
+  {
+    "id": "1db112e4-a279-44f3-a73d-9b83378573e2",
+    "name": "Tar",
+    "code": "5366",
+    "hexCode": "#46494A"
+  },
+  {
+    "id": "8143a2f9-bd01-432b-9645-6ce227940b9a",
+    "name": "Alphine Snow",
+    "code": "6317",
+    "hexCode": "#E2E5E2"
+  },
+  {
+    "id": "9054ba64-3f67-4cc6-8103-9c36835c8b73",
+    "name": "Dusty Green",
+    "code": "7543",
+    "hexCode": "#8D9B8D"
+  },
+  {
+    "id": "c495085e-da0a-4853-a37a-6c24d7d81994",
+    "name": "Thunder Grey",
+    "code": "8316",
+    "hexCode": "#C3C6B0"
+  },
+  {
+    "id": "370b642b-27e6-40e1-b4a9-557bd76834fb",
+    "name": "Monsoon Cloud",
+    "code": "0562",
+    "hexCode": "#6A7275"
+  },
+  {
+    "id": "a3fa580a-980a-4fb5-bd6a-6201b68a0030",
+    "name": "Yellow River",
+    "code": "1158",
+    "hexCode": "#D7A456"
+  },
+  {
+    "id": "feb76314-656f-44ab-9f04-e1a14eb3c796",
+    "name": "Burned Sugar",
+    "code": "2097",
+    "hexCode": "#7C5E5A"
+  },
+  {
+    "id": "5bbad107-ef45-40f3-8072-a427241cc367",
+    "name": "Brushed Granite",
+    "code": "3230",
+    "hexCode": "#A9A6A4"
+  },
+  {
+    "id": "31ea1ebb-d8d3-4793-9c8b-ec2a8f017c0b",
+    "name": "White Clay",
+    "code": "5272",
+    "hexCode": "#8F9394"
+  },
+  {
+    "id": "ec73ed47-3b78-4ea5-a933-63d2c2ec239e",
+    "name": "Oolong",
+    "code": "8073",
+    "hexCode": "#CDB361"
+  },
+  {
+    "id": "ff1d2335-a5ea-44aa-83f1-7ee932951f9c",
+    "name": "Soya Milk",
+    "code": "1105",
+    "hexCode": "#F1EFE5"
+  },
+  {
+    "id": "5cf156c3-2c8f-406b-a50a-f6a2163aedcf",
+    "name": "Identity",
+    "code": "1859",
+    "hexCode": "#CFC0A5"
+  },
+  {
+    "id": "069b87d0-5152-4101-8738-4d7a3e14177e",
+    "name": "Gravel",
+    "code": "9933",
+    "hexCode": "#92928F"
+  },
+  {
+    "id": "a4bd94e1-5506-4be8-a63a-89bbbc6a16de",
+    "name": "Coppertone",
+    "code": "1029",
+    "hexCode": "#D5AD8E"
+  },
+  {
+    "id": "bcd30bcf-7c98-458c-b5fd-7bbbbc067ed5",
+    "name": "Gimle",
+    "code": "1217",
+    "hexCode": "#B37F4B"
+  },
+  {
+    "id": "11709f9e-5a11-43fc-ae76-41ac661d14a3",
+    "name": "Brunette",
+    "code": "1258",
+    "hexCode": "#867563"
+  },
+  {
+    "id": "c4efc2e5-80e1-4a55-8fde-8da6a9278690",
+    "name": "Damascus Dusk",
+    "code": "2086",
+    "hexCode": "#CCA790"
+  },
+  {
+    "id": "cb676dba-a47b-4178-baac-11afc4f33cbe",
+    "name": "Heavy Cream",
+    "code": "2595",
+    "hexCode": "#DAC4BA"
+  },
+  {
+    "id": "87d86c53-ded8-4c67-8e49-83ddd5c7c24f",
+    "name": "Brown Script",
+    "code": "2630",
+    "hexCode": "#8E6A66"
+  },
+  {
+    "id": "68540bd9-3653-4a3c-bfcd-b32eb541f8b8",
+    "name": "Tropez",
+    "code": "4071",
+    "hexCode": "#8B9AA7"
+  },
+  {
+    "id": "230fbbda-4c1b-4841-a45e-932ab3e61fb9",
+    "name": "Blue Marine",
+    "code": "4400",
+    "hexCode": "#384B5A"
+  },
+  {
+    "id": "e68a3a03-c554-462d-99db-0b0ce26d57db",
+    "name": "Mega Pipe",
+    "code": "4457",
+    "hexCode": "#A9B0B4"
+  },
+  {
+    "id": "0eea9f85-b531-4da7-9340-fe407414ccf1",
+    "name": "Pale Teal",
+    "code": "5043",
+    "hexCode": "#88B3B1"
+  },
+  {
+    "id": "2d9c849c-b557-43fa-a2e1-ec465c09446d",
+    "name": "Sour Onion",
+    "code": "7037",
+    "hexCode": "#D0D9CB"
+  },
+  {
+    "id": "371f1e69-4caf-4591-8fea-63b1d7f5afcd",
+    "name": "Green Smoke",
+    "code": "7052",
+    "hexCode": "#7B7E69"
+  },
+  {
+    "id": "e104e638-fd12-4458-822d-633efc92885d",
+    "name": "Autumn Leaf",
+    "code": "8044",
+    "hexCode": "#6D6C5B"
+  },
+  {
+    "id": "1eae607f-743d-454e-b85d-44619ecf49fe",
+    "name": "Secret Garden",
+    "code": "8427",
+    "hexCode": "#ACA782"
+  },
+  {
+    "id": "32ad2778-144b-4ee8-995e-f1e259e4ec15",
+    "name": "Cream",
+    "code": "0981",
+    "hexCode": "#EAE3D4"
+  },
+  {
+    "id": "41f1fb68-ea8c-4cac-9be5-2503df44725c",
+    "name": "Blush Pink",
+    "code": "2046",
+    "hexCode": "#E9BEB3"
+  },
+  {
+    "id": "51510f1d-7618-422b-9a02-18469cd27944",
+    "name": "Rompin",
+    "code": "8064",
+    "hexCode": "#949346"
+  },
+  {
+    "id": "315241a8-9047-4578-8ebe-65f8d6021ae8",
+    "name": "Landscape",
+    "code": "8115",
+    "hexCode": "#978B71"
+  },
+  {
+    "id": "a6fd5879-993a-463d-b825-d370d0d99e65",
+    "name": "Creamy Beige",
+    "code": "10412",
+    "hexCode": "#DAD2C0"
+  },
+  {
+    "id": "da353c8f-45bd-4b35-9639-160137fa5d55",
+    "name": "White Sand",
+    "code": "1235",
+    "hexCode": "#E2DAC9"
+  },
+  {
+    "id": "f83965f2-fb3c-40e4-9af8-13e7ffe6c8d2",
+    "name": "Tender Brown",
+    "code": "1916",
+    "hexCode": "#80766A"
+  },
+  {
+    "id": "3d42905d-09e3-427a-89d5-11ee8525fa48",
+    "name": "Roma",
+    "code": "2087",
+    "hexCode": "#B48368"
+  },
+  {
+    "id": "46ad1d1f-19ef-495e-8c68-7234039dbe46",
+    "name": "Burned Terracotta",
+    "code": "2111",
+    "hexCode": "#9E6E63"
+  },
+  {
+    "id": "4462fecb-de74-421e-ac72-9314e0cf97a5",
+    "name": "Flint",
+    "code": "3003",
+    "hexCode": "#D3D0CD"
+  },
+  {
+    "id": "172622e3-5948-4690-81c2-9e03e0af3065",
+    "name": "Misty Sea",
+    "code": "4067",
+    "hexCode": "#B8BEC2"
+  },
+  {
+    "id": "aa40842f-e4d7-46d2-9983-407042987f6a",
+    "name": "Classic Green",
+    "code": "6243",
+    "hexCode": "#38564F"
+  },
+  {
+    "id": "020f2ab1-1114-4317-ba51-7b52b6c107c9",
+    "name": "Adele",
+    "code": "7249",
+    "hexCode": "#595D5A"
+  },
+  {
+    "id": "3b33bb9b-6233-4d73-9a7c-779c247fe3eb",
+    "name": "Buried Treasure",
+    "code": "8357",
+    "hexCode": "#CDC2A6"
+  },
+  {
+    "id": "71565ffc-3851-489d-8b55-aa39f46c8fd2",
+    "name": "Mito",
+    "code": "1133",
+    "hexCode": "#B08D6C"
+  },
+  {
+    "id": "49a8f058-43c7-4d80-bd82-b52b9a4bb5d9",
+    "name": "Power Puff",
+    "code": "2092",
+    "hexCode": "#BA8A7A"
+  },
+  {
+    "id": "ff5db6f4-0db7-4cc1-81a1-9158898143f5",
+    "name": "Shallow Wave",
+    "code": "4094",
+    "hexCode": "#C4DBE9"
+  },
+  {
+    "id": "e7ebe88c-640f-4d59-b223-d96eee0c7135",
+    "name": "Sky Safari",
+    "code": "4098",
+    "hexCode": "#66899C"
+  },
+  {
+    "id": "321f3ee1-7622-48fb-bbfb-41a256da17a2",
+    "name": "Solid Steel",
+    "code": "9928",
+    "hexCode": "#5E605E"
+  },
+  {
+    "id": "3967f19e-5902-419b-9b73-4b12fd28f35d",
+    "name": "Buttery Cream",
+    "code": "1155",
+    "hexCode": "#FAE2B0"
+  }
+]
