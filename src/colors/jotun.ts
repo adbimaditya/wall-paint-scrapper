@@ -41,10 +41,10 @@ async function isAllColorsReady(page: Page) {
   return current === total;
 }
 
-async function fetchColors(page: Page) {
-  do {
-    const loadButton = page.getByRole('button', { name: 'Muat lebih banyak' });
+async function loadColors(page: Page) {
+  const loadButton = page.getByRole('button', { name: 'Muat lebih banyak' });
 
+  do {
     await loadButton.waitFor({ state: 'attached' });
     await loadButton.click();
 
@@ -65,7 +65,7 @@ async function scrapColors(page: Page) {
       await page.getByRole('region').getByRole('button', { name: 'Reject All' }).click();
     }
 
-    await fetchColors(page);
+    await loadColors(page);
 
     const colorsInPage: Color[] = [];
     const path = url.split('/')[5];

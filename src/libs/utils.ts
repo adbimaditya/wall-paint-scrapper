@@ -1,7 +1,24 @@
+import type { Locator } from '@playwright/test';
 import { randomUUID } from 'crypto';
 
 import type { NormalizeColorArgs } from './args.ts';
-import type { Color, RGB } from './types.ts';
+import type { Color, Result, RGB } from './types.ts';
+
+export async function tryCatch<T, E = Error>(promise: Promise<T>): Promise<Result<T, E>> {
+  try {
+    const data = await promise;
+
+    return { data, error: null };
+  } catch (error) {
+    return { data: null, error: error as E };
+  }
+}
+
+export async function isElementExists(locator: Locator) {
+  const { data } = await tryCatch(locator.isVisible());
+
+  return Boolean(data);
+}
 
 export function capitalize(words: string) {
   return words
