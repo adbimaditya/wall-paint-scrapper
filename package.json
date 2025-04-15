@@ -20,7 +20,7 @@
     "url": "https://github.com/adbimaditya/wall-paint-scrapper/issues"
   },
   "homepage": "https://github.com/adbimaditya/wall-paint-scrapper#readme",
-  "description": "",
+  "description": "Web scraper designed to extract official color palettes from leading wall paint brands such as Nippon Paint and Dulux. It automates the retrieval of color data—including names, brand-specific color codes, and HEX values—directly from brand websites.",
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.0",
     "@eslint/js": "^9.23.0",
